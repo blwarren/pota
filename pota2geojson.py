@@ -11,10 +11,10 @@ optional state filter.
 
 Examples:
   # Entire dataset
-  python pota_to_geojson.py /path/to/us-pota.json /path/to/output.geojson
+  python pota2geojson.py /path/to/us-pota.json /path/to/output.geojson
 
   # Only California entities (accepts CA, us-ca, or US-CA)
-  python pota_to_geojson.py /path/to/us-pota.json /path/to/ca.geojson --state CA
+  python pota2geojson.py /path/to/us-pota.json /path/to/ca.geojson --state CA
 """
 
 from __future__ import annotations
