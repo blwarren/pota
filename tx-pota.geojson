@@ -1,0 +1,4541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.232,
+          29.1287
+        ]
+      },
+      "properties": {
+        "reference": "US-0006",
+        "name": "Big Bend National Park",
+        "latitude": 29.1287,
+        "longitude": -103.232,
+        "grid": "DL89jd",
+        "locationDesc": "US-TX",
+        "attempts": 262,
+        "activations": 213,
+        "qsos": 10127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.861,
+          31.9475
+        ]
+      },
+      "properties": {
+        "reference": "US-0035",
+        "name": "Guadalupe Mountains National Park",
+        "latitude": 31.9475,
+        "longitude": -104.861,
+        "grid": "DM71nw",
+        "locationDesc": "US-TX",
+        "attempts": 100,
+        "activations": 94,
+        "qsos": 2991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4729,
+          29.6002
+        ]
+      },
+      "properties": {
+        "reference": "US-0540",
+        "name": "Jocelyn Nungaray National Wildlife Refuge",
+        "latitude": 29.6002,
+        "longitude": -94.4729,
+        "grid": "EL29so",
+        "locationDesc": "US-TX",
+        "attempts": 93,
+        "activations": 91,
+        "qsos": 5410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.916,
+          28.245
+        ]
+      },
+      "properties": {
+        "reference": "US-0541",
+        "name": "Aransas National Wildlife Refuge",
+        "latitude": 28.245,
+        "longitude": -96.916,
+        "grid": "EL18nf",
+        "locationDesc": "US-TX",
+        "attempts": 39,
+        "activations": 38,
+        "qsos": 1628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2584,
+          29.6837
+        ]
+      },
+      "properties": {
+        "reference": "US-0542",
+        "name": "Attwater Prairie Chicken National Wildlife Refuge",
+        "latitude": 29.6837,
+        "longitude": -96.2584,
+        "grid": "EL19uq",
+        "locationDesc": "US-TX",
+        "attempts": 83,
+        "activations": 80,
+        "qsos": 4079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0239,
+          30.5079
+        ]
+      },
+      "properties": {
+        "reference": "US-0543",
+        "name": "Balcones Canyonlands National Wildlife Refuge",
+        "latitude": 30.5079,
+        "longitude": -98.0239,
+        "grid": "EM00xm",
+        "locationDesc": "US-TX",
+        "attempts": 199,
+        "activations": 186,
+        "qsos": 6303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8081,
+          28.7571
+        ]
+      },
+      "properties": {
+        "reference": "US-0544",
+        "name": "Big Boggy National Wildlife Refuge",
+        "latitude": 28.7571,
+        "longitude": -95.8081,
+        "grid": "EL28cs",
+        "locationDesc": "US-TX",
+        "attempts": 19,
+        "activations": 19,
+        "qsos": 1248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2458,
+          29.0667
+        ]
+      },
+      "properties": {
+        "reference": "US-0545",
+        "name": "Brazoria National Wildlife Refuge",
+        "latitude": 29.0667,
+        "longitude": -95.2458,
+        "grid": "EL29jb",
+        "locationDesc": "US-TX",
+        "attempts": 174,
+        "activations": 166,
+        "qsos": 10046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.111,
+          34.9097
+        ]
+      },
+      "properties": {
+        "reference": "US-0546",
+        "name": "Buffalo Lake National Wildlife Refuge",
+        "latitude": 34.9097,
+        "longitude": -102.111,
+        "grid": "DM84wv",
+        "locationDesc": "US-TX",
+        "attempts": 142,
+        "activations": 139,
+        "qsos": 8022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7523,
+          33.7392
+        ]
+      },
+      "properties": {
+        "reference": "US-0548",
+        "name": "Hagerman National Wildlife Refuge",
+        "latitude": 33.7392,
+        "longitude": -96.7523,
+        "grid": "EM13or",
+        "locationDesc": "US-TX",
+        "attempts": 715,
+        "activations": 706,
+        "qsos": 38817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3603,
+          26.2151
+        ]
+      },
+      "properties": {
+        "reference": "US-0549",
+        "name": "Laguna Atascosa National Wildlife Refuge",
+        "latitude": 26.2151,
+        "longitude": -97.3603,
+        "grid": "EL16hf",
+        "locationDesc": "US-TX",
+        "attempts": 76,
+        "activations": 70,
+        "qsos": 5635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.167,
+          26.0734
+        ]
+      },
+      "properties": {
+        "reference": "US-0550",
+        "name": "Lower Rio Grande Valley National Wildlife Refuge",
+        "latitude": 26.0734,
+        "longitude": -98.167,
+        "grid": "EL06vb",
+        "locationDesc": "US-TX",
+        "attempts": 73,
+        "activations": 71,
+        "qsos": 5065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0929,
+          29.7176
+        ]
+      },
+      "properties": {
+        "reference": "US-0551",
+        "name": "McFaddin National Wildlife Refuge",
+        "latitude": 29.7176,
+        "longitude": -94.0929,
+        "grid": "EL29wr",
+        "locationDesc": "US-TX",
+        "attempts": 67,
+        "activations": 65,
+        "qsos": 2653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.762,
+          33.9589
+        ]
+      },
+      "properties": {
+        "reference": "US-0552",
+        "name": "Muleshoe National Wildlife Refuge",
+        "latitude": 33.9589,
+        "longitude": -102.762,
+        "grid": "DM83ox",
+        "locationDesc": "US-TX",
+        "attempts": 45,
+        "activations": 43,
+        "qsos": 2445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5757,
+          28.911
+        ]
+      },
+      "properties": {
+        "reference": "US-0553",
+        "name": "San Bernard National Wildlife Refuge",
+        "latitude": 28.911,
+        "longitude": -95.5757,
+        "grid": "EL28fv",
+        "locationDesc": "US-TX",
+        "attempts": 121,
+        "activations": 117,
+        "qsos": 6482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1359,
+          26.0815
+        ]
+      },
+      "properties": {
+        "reference": "US-0554",
+        "name": "Santa Ana National Wildlife Refuge",
+        "latitude": 26.0815,
+        "longitude": -98.1359,
+        "grid": "EL06wb",
+        "locationDesc": "US-TX",
+        "attempts": 28,
+        "activations": 26,
+        "qsos": 745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8869,
+          29.6975
+        ]
+      },
+      "properties": {
+        "reference": "US-0555",
+        "name": "Texas Point National Wildlife Refuge",
+        "latitude": 29.6975,
+        "longitude": -93.8869,
+        "grid": "EL39bq",
+        "locationDesc": "US-TX",
+        "attempts": 74,
+        "activations": 71,
+        "qsos": 2178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7844,
+          30.0985
+        ]
+      },
+      "properties": {
+        "reference": "US-0556",
+        "name": "Trinity River National Wildlife Refuge",
+        "latitude": 30.0985,
+        "longitude": -94.7844,
+        "grid": "EM20oc",
+        "locationDesc": "US-TX",
+        "attempts": 85,
+        "activations": 84,
+        "qsos": 6135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1104,
+          32.6966
+        ]
+      },
+      "properties": {
+        "reference": "US-0633",
+        "name": "Caddo Lake National Wildlife Refuge",
+        "latitude": 32.6966,
+        "longitude": -94.1104,
+        "grid": "EM22wq",
+        "locationDesc": "US-TX",
+        "attempts": 72,
+        "activations": 72,
+        "qsos": 2421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.075,
+          29.5268
+        ]
+      },
+      "properties": {
+        "reference": "US-0687",
+        "name": "Amistad National Recreation Area",
+        "latitude": 29.5268,
+        "longitude": -101.075,
+        "grid": "DL99lm",
+        "locationDesc": "US-TX",
+        "attempts": 56,
+        "activations": 53,
+        "qsos": 3544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.691,
+          35.5705
+        ]
+      },
+      "properties": {
+        "reference": "US-0688",
+        "name": "Lake Meredith National Recreation Area",
+        "latitude": 35.5705,
+        "longitude": -101.691,
+        "grid": "DM95dn",
+        "locationDesc": "US-TX",
+        "attempts": 138,
+        "activations": 132,
+        "qsos": 6378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3854,
+          30.4591
+        ]
+      },
+      "properties": {
+        "reference": "US-0689",
+        "name": "Big Thicket Preserve National Conservation Area",
+        "latitude": 30.4591,
+        "longitude": -94.3854,
+        "grid": "EM20tl",
+        "locationDesc": "US-TX",
+        "attempts": 126,
+        "activations": 125,
+        "qsos": 5404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3917,
+          27.2772
+        ]
+      },
+      "properties": {
+        "reference": "US-0690",
+        "name": "Padre Island National Seashore",
+        "latitude": 27.2772,
+        "longitude": -97.3917,
+        "grid": "EL17hg",
+        "locationDesc": "US-TX",
+        "attempts": 185,
+        "activations": 175,
+        "qsos": 10175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6059,
+          30.2429
+        ]
+      },
+      "properties": {
+        "reference": "US-0743",
+        "name": "Lyndon B. Johnson National Historical Park",
+        "latitude": 30.2429,
+        "longitude": -98.6059,
+        "grid": "EM00qf",
+        "locationDesc": "US-TX",
+        "attempts": 89,
+        "activations": 88,
+        "qsos": 2391
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4524,
+          26.0435
+        ]
+      },
+      "properties": {
+        "reference": "US-0750",
+        "name": "Palo Alto Battlefield National Historic Site",
+        "latitude": 26.0435,
+        "longitude": -97.4524,
+        "grid": "EL16gb",
+        "locationDesc": "US-TX",
+        "attempts": 74,
+        "activations": 70,
+        "qsos": 3422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4803,
+          29.3617
+        ]
+      },
+      "properties": {
+        "reference": "US-0756",
+        "name": "San Antonio Missions National Historical Park",
+        "latitude": 29.3617,
+        "longitude": -98.4803,
+        "grid": "EL09si",
+        "locationDesc": "US-TX",
+        "attempts": 369,
+        "activations": 355,
+        "qsos": 13962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.452,
+          31.7674
+        ]
+      },
+      "properties": {
+        "reference": "US-0770",
+        "name": "Chamizal National Memorial",
+        "latitude": 31.7674,
+        "longitude": -106.452,
+        "grid": "DM61ss",
+        "locationDesc": "US-TX",
+        "attempts": 90,
+        "activations": 84,
+        "qsos": 3626
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.903,
+          30.5952
+        ]
+      },
+      "properties": {
+        "reference": "US-0816",
+        "name": "Fort Davis National Historic Site",
+        "latitude": 30.5952,
+        "longitude": -103.903,
+        "grid": "DM80bo",
+        "locationDesc": "US-TX",
+        "attempts": 48,
+        "activations": 42,
+        "qsos": 1727
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.67,
+          35.5836
+        ]
+      },
+      "properties": {
+        "reference": "US-0901",
+        "name": "Alibates Flint Quarries National Monument",
+        "latitude": 35.5836,
+        "longitude": -101.67,
+        "grid": "DM95do",
+        "locationDesc": "US-TX",
+        "attempts": 49,
+        "activations": 47,
+        "qsos": 2956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.176,
+          31.6067
+        ]
+      },
+      "properties": {
+        "reference": "US-0975",
+        "name": "Waco Mammoth National Monument",
+        "latitude": 31.6067,
+        "longitude": -97.176,
+        "grid": "EM11jo",
+        "locationDesc": "US-TX",
+        "attempts": 254,
+        "activations": 248,
+        "qsos": 8796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8819,
+          32.2354
+        ]
+      },
+      "properties": {
+        "reference": "US-2983",
+        "name": "Abilene State Park",
+        "latitude": 32.2354,
+        "longitude": -99.8819,
+        "grid": "EM02bf",
+        "locationDesc": "US-TX",
+        "attempts": 113,
+        "activations": 104,
+        "qsos": 5689
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2438,
+          33.2292
+        ]
+      },
+      "properties": {
+        "reference": "US-2984",
+        "name": "Atlanta State Park",
+        "latitude": 33.2292,
+        "longitude": -94.2438,
+        "grid": "EM23vf",
+        "locationDesc": "US-TX",
+        "attempts": 125,
+        "activations": 112,
+        "qsos": 4981
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.785,
+          30.9446
+        ]
+      },
+      "properties": {
+        "reference": "US-2985",
+        "name": "Balmorhea State Park",
+        "latitude": 30.9446,
+        "longitude": -103.785,
+        "grid": "DM80cw",
+        "locationDesc": "US-TX",
+        "attempts": 56,
+        "activations": 53,
+        "qsos": 1975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2869,
+          30.1102
+        ]
+      },
+      "properties": {
+        "reference": "US-2986",
+        "name": "Bastrop State Park",
+        "latitude": 30.1102,
+        "longitude": -97.2869,
+        "grid": "EM10ic",
+        "locationDesc": "US-TX",
+        "attempts": 283,
+        "activations": 263,
+        "qsos": 12604
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3804,
+          26.1842
+        ]
+      },
+      "properties": {
+        "reference": "US-2987",
+        "name": "Bentsen-Rio Grande Valley State Park",
+        "latitude": 26.1842,
+        "longitude": -98.3804,
+        "grid": "EL06te",
+        "locationDesc": "US-TX",
+        "attempts": 53,
+        "activations": 50,
+        "qsos": 2164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.961,
+          29.4637
+        ]
+      },
+      "properties": {
+        "reference": "US-2988",
+        "name": "Big Bend Ranch State Park",
+        "latitude": 29.4637,
+        "longitude": -103.961,
+        "grid": "DL89al",
+        "locationDesc": "US-TX",
+        "attempts": 105,
+        "activations": 97,
+        "qsos": 4375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.49,
+          32.2297
+        ]
+      },
+      "properties": {
+        "reference": "US-2989",
+        "name": "Big Spring State Park",
+        "latitude": 32.2297,
+        "longitude": -101.49,
+        "grid": "DM92gf",
+        "locationDesc": "US-TX",
+        "attempts": 109,
+        "activations": 108,
+        "qsos": 5635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4238,
+          30.0902
+        ]
+      },
+      "properties": {
+        "reference": "US-2990",
+        "name": "Blanco State Park",
+        "latitude": 30.0902,
+        "longitude": -98.4238,
+        "grid": "EM00sc",
+        "locationDesc": "US-TX",
+        "attempts": 254,
+        "activations": 241,
+        "qsos": 10995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1443,
+          33.5472
+        ]
+      },
+      "properties": {
+        "reference": "US-2991",
+        "name": "Bonham State Park",
+        "latitude": 33.5472,
+        "longitude": -96.1443,
+        "grid": "EM13wn",
+        "locationDesc": "US-TX",
+        "attempts": 532,
+        "activations": 516,
+        "qsos": 25797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6173,
+          29.3741
+        ]
+      },
+      "properties": {
+        "reference": "US-2992",
+        "name": "Brazos Bend State Park",
+        "latitude": 29.3741,
+        "longitude": -95.6173,
+        "grid": "EL29ei",
+        "locationDesc": "US-TX",
+        "attempts": 823,
+        "activations": 769,
+        "qsos": 44435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1583,
+          30.0392
+        ]
+      },
+      "properties": {
+        "reference": "US-2993",
+        "name": "Buescher State Park",
+        "latitude": 30.0392,
+        "longitude": -97.1583,
+        "grid": "EM10ka",
+        "locationDesc": "US-TX",
+        "attempts": 190,
+        "activations": 176,
+        "qsos": 6597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1768,
+          32.6824
+        ]
+      },
+      "properties": {
+        "reference": "US-2994",
+        "name": "Caddo Lake State Park",
+        "latitude": 32.6824,
+        "longitude": -94.1768,
+        "grid": "EM22vq",
+        "locationDesc": "US-TX",
+        "attempts": 169,
+        "activations": 148,
+        "qsos": 6795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.06,
+          34.437
+        ]
+      },
+      "properties": {
+        "reference": "US-2995",
+        "name": "Caprock Canyons State Park",
+        "latitude": 34.437,
+        "longitude": -101.06,
+        "grid": "DM94lk",
+        "locationDesc": "US-TX",
+        "attempts": 115,
+        "activations": 109,
+        "qsos": 4167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9837,
+          32.6195
+        ]
+      },
+      "properties": {
+        "reference": "US-2996",
+        "name": "Cedar Hill State Park",
+        "latitude": 32.6195,
+        "longitude": -96.9837,
+        "grid": "EM12mo",
+        "locationDesc": "US-TX",
+        "attempts": 2107,
+        "activations": 2050,
+        "qsos": 137448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.339,
+          28.4726
+        ]
+      },
+      "properties": {
+        "reference": "US-2997",
+        "name": "Choke Canyon State Park",
+        "latitude": 28.4726,
+        "longitude": -98.339,
+        "grid": "EL08tl",
+        "locationDesc": "US-TX",
+        "attempts": 132,
+        "activations": 125,
+        "qsos": 8885
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5524,
+          32.2597
+        ]
+      },
+      "properties": {
+        "reference": "US-2998",
+        "name": "Cleburne State Park",
+        "latitude": 32.2597,
+        "longitude": -97.5524,
+        "grid": "EM12fg",
+        "locationDesc": "US-TX",
+        "attempts": 344,
+        "activations": 328,
+        "qsos": 15528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4762,
+          31.0451
+        ]
+      },
+      "properties": {
+        "reference": "US-2999",
+        "name": "Colorado Bend State Park",
+        "latitude": 31.0451,
+        "longitude": -98.4762,
+        "grid": "EM01sb",
+        "locationDesc": "US-TX",
+        "attempts": 67,
+        "activations": 58,
+        "qsos": 2558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6466,
+          33.2883
+        ]
+      },
+      "properties": {
+        "reference": "US-3000",
+        "name": "Cooper Lake State Park",
+        "latitude": 33.2883,
+        "longitude": -95.6466,
+        "grid": "EM23eg",
+        "locationDesc": "US-TX",
+        "attempts": 407,
+        "activations": 388,
+        "qsos": 22363
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.743,
+          34.1122
+        ]
+      },
+      "properties": {
+        "reference": "US-3001",
+        "name": "Copper Breaks State Park",
+        "latitude": 34.1122,
+        "longitude": -99.743,
+        "grid": "EM04dc",
+        "locationDesc": "US-TX",
+        "attempts": 117,
+        "activations": 102,
+        "qsos": 7726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6941,
+          33.0106
+        ]
+      },
+      "properties": {
+        "reference": "US-3002",
+        "name": "Daingerfield State Park",
+        "latitude": 33.0106,
+        "longitude": -94.6941,
+        "grid": "EM23pa",
+        "locationDesc": "US-TX",
+        "attempts": 241,
+        "activations": 223,
+        "qsos": 10695
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.929,
+          30.5991
+        ]
+      },
+      "properties": {
+        "reference": "US-3003",
+        "name": "Davis Mountains State Park",
+        "latitude": 30.5991,
+        "longitude": -103.929,
+        "grid": "DM80ao",
+        "locationDesc": "US-TX",
+        "attempts": 298,
+        "activations": 265,
+        "qsos": 10515
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8097,
+          32.2534
+        ]
+      },
+      "properties": {
+        "reference": "US-3004",
+        "name": "Dinosaur Valley State Park",
+        "latitude": 32.2534,
+        "longitude": -97.8097,
+        "grid": "EM12cg",
+        "locationDesc": "US-TX",
+        "attempts": 200,
+        "activations": 195,
+        "qsos": 7066
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6096,
+          33.8185
+        ]
+      },
+      "properties": {
+        "reference": "US-3005",
+        "name": "Eisenhower State Park",
+        "latitude": 33.8185,
+        "longitude": -96.6096,
+        "grid": "EM13qt",
+        "locationDesc": "US-TX",
+        "attempts": 589,
+        "activations": 574,
+        "qsos": 31953
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9581,
+          26.1283
+        ]
+      },
+      "properties": {
+        "reference": "US-3006",
+        "name": "Estero Llano Grande State Park",
+        "latitude": 26.1283,
+        "longitude": -97.9581,
+        "grid": "EL16ad",
+        "locationDesc": "US-TX",
+        "attempts": 31,
+        "activations": 30,
+        "qsos": 1347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1376,
+          26.58
+        ]
+      },
+      "properties": {
+        "reference": "US-3008",
+        "name": "Falcon State Park",
+        "latitude": 26.58,
+        "longitude": -99.1376,
+        "grid": "EL06kn",
+        "locationDesc": "US-TX",
+        "attempts": 34,
+        "activations": 31,
+        "qsos": 3135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9746,
+          31.1873
+        ]
+      },
+      "properties": {
+        "reference": "US-3009",
+        "name": "Fort Boggy State Park",
+        "latitude": 31.1873,
+        "longitude": -95.9746,
+        "grid": "EM21ae",
+        "locationDesc": "US-TX",
+        "attempts": 132,
+        "activations": 129,
+        "qsos": 5522
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5305,
+          31.5917
+        ]
+      },
+      "properties": {
+        "reference": "US-3010",
+        "name": "Fort Parker State Park",
+        "latitude": 31.5917,
+        "longitude": -96.5305,
+        "grid": "EM11ro",
+        "locationDesc": "US-TX",
+        "attempts": 169,
+        "activations": 163,
+        "qsos": 8276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1571,
+          33.2055
+        ]
+      },
+      "properties": {
+        "reference": "US-3011",
+        "name": "Fort Richardson State Park",
+        "latitude": 33.2055,
+        "longitude": -98.1571,
+        "grid": "EM03we",
+        "locationDesc": "US-TX",
+        "attempts": 284,
+        "activations": 265,
+        "qsos": 12526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.493,
+          31.8559
+        ]
+      },
+      "properties": {
+        "reference": "US-3012",
+        "name": "Franklin Mountains State Park",
+        "latitude": 31.8559,
+        "longitude": -106.493,
+        "grid": "DM61su",
+        "locationDesc": "US-TX",
+        "attempts": 276,
+        "activations": 238,
+        "qsos": 7061
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9531,
+          29.1951
+        ]
+      },
+      "properties": {
+        "reference": "US-3013",
+        "name": "Galveston Island State Park",
+        "latitude": 29.1951,
+        "longitude": -94.9531,
+        "grid": "EL29me",
+        "locationDesc": "US-TX",
+        "attempts": 784,
+        "activations": 725,
+        "qsos": 45274
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7386,
+          29.593
+        ]
+      },
+      "properties": {
+        "reference": "US-3014",
+        "name": "Garner State Park",
+        "latitude": 29.593,
+        "longitude": -99.7386,
+        "grid": "EL09do",
+        "locationDesc": "US-TX",
+        "attempts": 185,
+        "activations": 170,
+        "qsos": 8029
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3847,
+          28.6555
+        ]
+      },
+      "properties": {
+        "reference": "US-3015",
+        "name": "Goliad State Park",
+        "latitude": 28.6555,
+        "longitude": -97.3847,
+        "grid": "EL18hp",
+        "locationDesc": "US-TX",
+        "attempts": 137,
+        "activations": 130,
+        "qsos": 7159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9869,
+          28.1359
+        ]
+      },
+      "properties": {
+        "reference": "US-3016",
+        "name": "Goose Island State Park",
+        "latitude": 28.1359,
+        "longitude": -96.9869,
+        "grid": "EL18md",
+        "locationDesc": "US-TX",
+        "attempts": 190,
+        "activations": 181,
+        "qsos": 8965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4897,
+          29.8682
+        ]
+      },
+      "properties": {
+        "reference": "US-3017",
+        "name": "Guadalupe River State Park",
+        "latitude": 29.8682,
+        "longitude": -98.4897,
+        "grid": "EL09su",
+        "locationDesc": "US-TX",
+        "attempts": 430,
+        "activations": 413,
+        "qsos": 19134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.043,
+          31.9164
+        ]
+      },
+      "properties": {
+        "reference": "US-3018",
+        "name": "Hueco Tanks State Park",
+        "latitude": 31.9164,
+        "longitude": -106.043,
+        "grid": "DM61xv",
+        "locationDesc": "US-TX",
+        "attempts": 34,
+        "activations": 32,
+        "qsos": 2230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5224,
+          30.6209
+        ]
+      },
+      "properties": {
+        "reference": "US-3019",
+        "name": "Huntsville State Park",
+        "latitude": 30.6209,
+        "longitude": -95.5224,
+        "grid": "EM20fo",
+        "locationDesc": "US-TX",
+        "attempts": 897,
+        "activations": 849,
+        "qsos": 40161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3641,
+          30.7324
+        ]
+      },
+      "properties": {
+        "reference": "US-3020",
+        "name": "Inks Lake State Park",
+        "latitude": 30.7324,
+        "longitude": -98.3641,
+        "grid": "EM00tr",
+        "locationDesc": "US-TX",
+        "attempts": 181,
+        "activations": 169,
+        "qsos": 7985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.451,
+          29.6183
+        ]
+      },
+      "properties": {
+        "reference": "US-3021",
+        "name": "Kickapoo Cavern State Park",
+        "latitude": 29.6183,
+        "longitude": -100.451,
+        "grid": "DL99so",
+        "locationDesc": "US-TX",
+        "attempts": 21,
+        "activations": 19,
+        "qsos": 847
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3906,
+          33.7574
+        ]
+      },
+      "properties": {
+        "reference": "US-3022",
+        "name": "Lake Arrowhead State Park",
+        "latitude": 33.7574,
+        "longitude": -98.3906,
+        "grid": "EM03ts",
+        "locationDesc": "US-TX",
+        "attempts": 422,
+        "activations": 403,
+        "qsos": 19645
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1034,
+          33.0551
+        ]
+      },
+      "properties": {
+        "reference": "US-3023",
+        "name": "Lake Bob Sandlin State Park",
+        "latitude": 33.0551,
+        "longitude": -95.1034,
+        "grid": "EM23kb",
+        "locationDesc": "US-TX",
+        "attempts": 266,
+        "activations": 247,
+        "qsos": 15228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0222,
+          31.8556
+        ]
+      },
+      "properties": {
+        "reference": "US-3024",
+        "name": "Lake Brownwood State Park",
+        "latitude": 31.8556,
+        "longitude": -99.0222,
+        "grid": "EM01lu",
+        "locationDesc": "US-TX",
+        "attempts": 99,
+        "activations": 90,
+        "qsos": 5665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4513,
+          27.5393
+        ]
+      },
+      "properties": {
+        "reference": "US-3025",
+        "name": "Lake Casa Blanca International State Park",
+        "latitude": 27.5393,
+        "longitude": -99.4513,
+        "grid": "EL07gm",
+        "locationDesc": "US-TX",
+        "attempts": 132,
+        "activations": 121,
+        "qsos": 6745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.933,
+          32.3264
+        ]
+      },
+      "properties": {
+        "reference": "US-3026",
+        "name": "Lake Colorado City State Park",
+        "latitude": 32.3264,
+        "longitude": -100.933,
+        "grid": "DM92mh",
+        "locationDesc": "US-TX",
+        "attempts": 133,
+        "activations": 127,
+        "qsos": 9844
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8712,
+          28.0635
+        ]
+      },
+      "properties": {
+        "reference": "US-3027",
+        "name": "Lake Corpus Christi State Park",
+        "latitude": 28.0635,
+        "longitude": -97.8712,
+        "grid": "EL18bb",
+        "locationDesc": "US-TX",
+        "attempts": 95,
+        "activations": 86,
+        "qsos": 5916
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0029,
+          30.6647
+        ]
+      },
+      "properties": {
+        "reference": "US-3028",
+        "name": "Lake Livingston State Park",
+        "latitude": 30.6647,
+        "longitude": -95.0029,
+        "grid": "EM20lp",
+        "locationDesc": "US-TX",
+        "attempts": 190,
+        "activations": 175,
+        "qsos": 8827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0267,
+          32.851
+        ]
+      },
+      "properties": {
+        "reference": "US-3029",
+        "name": "Lake Mineral Wells State Park",
+        "latitude": 32.851,
+        "longitude": -98.0267,
+        "grid": "EM02xu",
+        "locationDesc": "US-TX",
+        "attempts": 373,
+        "activations": 357,
+        "qsos": 17198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6384,
+          30.3064
+        ]
+      },
+      "properties": {
+        "reference": "US-3030",
+        "name": "Lake Somerville State Park",
+        "latitude": 30.3064,
+        "longitude": -96.6384,
+        "grid": "EM10qh",
+        "locationDesc": "US-TX",
+        "attempts": 355,
+        "activations": 342,
+        "qsos": 21214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.995,
+          32.8482
+        ]
+      },
+      "properties": {
+        "reference": "US-3031",
+        "name": "Lake Tawakoni State Park",
+        "latitude": 32.8482,
+        "longitude": -95.995,
+        "grid": "EM22au",
+        "locationDesc": "US-TX",
+        "attempts": 577,
+        "activations": 562,
+        "qsos": 32498
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3597,
+          31.9244
+        ]
+      },
+      "properties": {
+        "reference": "US-3032",
+        "name": "Lake Whitney State Park",
+        "latitude": 31.9244,
+        "longitude": -97.3597,
+        "grid": "EM11hw",
+        "locationDesc": "US-TX",
+        "attempts": 374,
+        "activations": 334,
+        "qsos": 20370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6969,
+          29.8494
+        ]
+      },
+      "properties": {
+        "reference": "US-3033",
+        "name": "Lockhart State Park",
+        "latitude": 29.8494,
+        "longitude": -97.6969,
+        "grid": "EL19du",
+        "locationDesc": "US-TX",
+        "attempts": 392,
+        "activations": 376,
+        "qsos": 17092
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3523,
+          30.6839
+        ]
+      },
+      "properties": {
+        "reference": "US-3034",
+        "name": "Longhorn Cavern State Park",
+        "latitude": 30.6839,
+        "longitude": -98.3523,
+        "grid": "EM00tq",
+        "locationDesc": "US-TX",
+        "attempts": 87,
+        "activations": 86,
+        "qsos": 2500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6292,
+          30.2374
+        ]
+      },
+      "properties": {
+        "reference": "US-3035",
+        "name": "Lyndon B. Johnson State Park",
+        "latitude": 30.2374,
+        "longitude": -98.6292,
+        "grid": "EM00qf",
+        "locationDesc": "US-TX",
+        "attempts": 146,
+        "activations": 145,
+        "qsos": 4233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.5659,
+          32.278
+        ]
+      },
+      "properties": {
+        "reference": "US-3036",
+        "name": "Martin Creek Lake State Park",
+        "latitude": 32.278,
+        "longitude": -94.5659,
+        "grid": "EM22rg",
+        "locationDesc": "US-TX",
+        "attempts": 319,
+        "activations": 312,
+        "qsos": 15910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1673,
+          30.848
+        ]
+      },
+      "properties": {
+        "reference": "US-3037",
+        "name": "Martin Dies, Jr. State Park",
+        "latitude": 30.848,
+        "longitude": -94.1673,
+        "grid": "EM20vu",
+        "locationDesc": "US-TX",
+        "attempts": 166,
+        "activations": 153,
+        "qsos": 10730
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7217,
+          30.1804
+        ]
+      },
+      "properties": {
+        "reference": "US-3038",
+        "name": "McKinney Falls State Park",
+        "latitude": 30.1804,
+        "longitude": -97.7217,
+        "grid": "EM10de",
+        "locationDesc": "US-TX",
+        "attempts": 567,
+        "activations": 536,
+        "qsos": 24524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6998,
+          31.8902
+        ]
+      },
+      "properties": {
+        "reference": "US-3039",
+        "name": "Meridian State Park",
+        "latitude": 31.8902,
+        "longitude": -97.6998,
+        "grid": "EM11dv",
+        "locationDesc": "US-TX",
+        "attempts": 158,
+        "activations": 150,
+        "qsos": 6592
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2368,
+          31.5497
+        ]
+      },
+      "properties": {
+        "reference": "US-3040",
+        "name": "Mission Tejas State Park",
+        "latitude": 31.5497,
+        "longitude": -95.2368,
+        "grid": "EM21jn",
+        "locationDesc": "US-TX",
+        "attempts": 67,
+        "activations": 64,
+        "qsos": 2826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.812,
+          31.6194
+        ]
+      },
+      "properties": {
+        "reference": "US-3041",
+        "name": "Monahans Sandhills State Park",
+        "latitude": 31.6194,
+        "longitude": -102.812,
+        "grid": "DM81oo",
+        "locationDesc": "US-TX",
+        "attempts": 134,
+        "activations": 131,
+        "qsos": 7032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4695,
+          31.3256
+        ]
+      },
+      "properties": {
+        "reference": "US-3042",
+        "name": "Mother Neff State Park",
+        "latitude": 31.3256,
+        "longitude": -97.4695,
+        "grid": "EM11gh",
+        "locationDesc": "US-TX",
+        "attempts": 369,
+        "activations": 358,
+        "qsos": 20017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1844,
+          27.6859
+        ]
+      },
+      "properties": {
+        "reference": "US-3043",
+        "name": "Mustang Island State Park",
+        "latitude": 27.6859,
+        "longitude": -97.1844,
+        "grid": "EL17jq",
+        "locationDesc": "US-TX",
+        "attempts": 202,
+        "activations": 190,
+        "qsos": 10536
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8208,
+          30.1012
+        ]
+      },
+      "properties": {
+        "reference": "US-3044",
+        "name": "Old Tunnel State Park",
+        "latitude": 30.1012,
+        "longitude": -98.8208,
+        "grid": "EM00oc",
+        "locationDesc": "US-TX",
+        "attempts": 99,
+        "activations": 92,
+        "qsos": 3347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5856,
+          29.5928
+        ]
+      },
+      "properties": {
+        "reference": "US-3045",
+        "name": "Palmetto State Park",
+        "latitude": 29.5928,
+        "longitude": -97.5856,
+        "grid": "EL19eo",
+        "locationDesc": "US-TX",
+        "attempts": 220,
+        "activations": 214,
+        "qsos": 7410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.648,
+          34.9373
+        ]
+      },
+      "properties": {
+        "reference": "US-3046",
+        "name": "Palo Duro Canyon State Park",
+        "latitude": 34.9373,
+        "longitude": -101.648,
+        "grid": "DM94ew",
+        "locationDesc": "US-TX",
+        "attempts": 337,
+        "activations": 317,
+        "qsos": 13585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5338,
+          32.5509
+        ]
+      },
+      "properties": {
+        "reference": "US-3047",
+        "name": "Palo Pinto Mountain State Park",
+        "latitude": 32.5509,
+        "longitude": -98.5338,
+        "grid": "EM02rn",
+        "locationDesc": "US-TX",
+        "attempts": 10,
+        "activations": 10,
+        "qsos": 332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2464,
+          30.3098
+        ]
+      },
+      "properties": {
+        "reference": "US-3048",
+        "name": "Pedernales Falls State Park",
+        "latitude": 30.3098,
+        "longitude": -98.2464,
+        "grid": "EM00vh",
+        "locationDesc": "US-TX",
+        "attempts": 190,
+        "activations": 179,
+        "qsos": 7585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5666,
+          32.8696
+        ]
+      },
+      "properties": {
+        "reference": "US-3049",
+        "name": "Possum Kingdom State Park",
+        "latitude": 32.8696,
+        "longitude": -98.5666,
+        "grid": "EM02ru",
+        "locationDesc": "US-TX",
+        "attempts": 203,
+        "activations": 191,
+        "qsos": 14534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9936,
+          32.3537
+        ]
+      },
+      "properties": {
+        "reference": "US-3050",
+        "name": "Purtis Creek State Park",
+        "latitude": 32.3537,
+        "longitude": -95.9936,
+        "grid": "EM22ai",
+        "locationDesc": "US-TX",
+        "attempts": 260,
+        "activations": 242,
+        "qsos": 14246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0094,
+          33.3688
+        ]
+      },
+      "properties": {
+        "reference": "US-3051",
+        "name": "Ray Roberts Lake State Park",
+        "latitude": 33.3688,
+        "longitude": -97.0094,
+        "grid": "EM13li",
+        "locationDesc": "US-TX",
+        "attempts": 1589,
+        "activations": 1518,
+        "qsos": 80482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5716,
+          25.9968
+        ]
+      },
+      "properties": {
+        "reference": "US-3052",
+        "name": "Resaca De La Palma State Park",
+        "latitude": 25.9968,
+        "longitude": -97.5716,
+        "grid": "EL15fx",
+        "locationDesc": "US-TX",
+        "attempts": 221,
+        "activations": 208,
+        "qsos": 11027
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.497,
+          31.4556
+        ]
+      },
+      "properties": {
+        "reference": "US-3053",
+        "name": "San Angelo State Park",
+        "latitude": 31.4556,
+        "longitude": -100.497,
+        "grid": "DM91sk",
+        "locationDesc": "US-TX",
+        "attempts": 217,
+        "activations": 205,
+        "qsos": 18588
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.044,
+          29.6763
+        ]
+      },
+      "properties": {
+        "reference": "US-3054",
+        "name": "Sea Rim State Park",
+        "latitude": 29.6763,
+        "longitude": -94.044,
+        "grid": "EL29xq",
+        "locationDesc": "US-TX",
+        "attempts": 114,
+        "activations": 112,
+        "qsos": 8065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.318,
+          29.6869
+        ]
+      },
+      "properties": {
+        "reference": "US-3055",
+        "name": "Seminole Canyon State Park",
+        "latitude": 29.6869,
+        "longitude": -101.318,
+        "grid": "DL99iq",
+        "locationDesc": "US-TX",
+        "attempts": 47,
+        "activations": 42,
+        "qsos": 1646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1684,
+          29.8767
+        ]
+      },
+      "properties": {
+        "reference": "US-3056",
+        "name": "Sheldon Lake State Park",
+        "latitude": 29.8767,
+        "longitude": -95.1684,
+        "grid": "EL29jv",
+        "locationDesc": "US-TX",
+        "attempts": 539,
+        "activations": 524,
+        "qsos": 33656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8069,
+          30.4286
+        ]
+      },
+      "properties": {
+        "reference": "US-3057",
+        "name": "South Llano River State Park",
+        "latitude": 30.4286,
+        "longitude": -99.8069,
+        "grid": "EM00ck",
+        "locationDesc": "US-TX",
+        "attempts": 133,
+        "activations": 127,
+        "qsos": 5624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1129,
+          29.8184
+        ]
+      },
+      "properties": {
+        "reference": "US-3058",
+        "name": "Stephen F. Austin State Park",
+        "latitude": 29.8184,
+        "longitude": -96.1129,
+        "grid": "EL19wt",
+        "locationDesc": "US-TX",
+        "attempts": 420,
+        "activations": 401,
+        "qsos": 21384
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2834,
+          32.4822
+        ]
+      },
+      "properties": {
+        "reference": "US-3059",
+        "name": "Tyler State Park",
+        "latitude": 32.4822,
+        "longitude": -95.2834,
+        "grid": "EM22il",
+        "locationDesc": "US-TX",
+        "attempts": 300,
+        "activations": 276,
+        "qsos": 12728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1746,
+          30.2522
+        ]
+      },
+      "properties": {
+        "reference": "US-3060",
+        "name": "Village Creek State Park",
+        "latitude": 30.2522,
+        "longitude": -94.1746,
+        "grid": "EM20vg",
+        "locationDesc": "US-TX",
+        "attempts": 137,
+        "activations": 124,
+        "qsos": 6510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.899,
+          29.763
+        ]
+      },
+      "properties": {
+        "reference": "US-3061",
+        "name": "Walter Umphrey State Park",
+        "latitude": 29.763,
+        "longitude": -93.899,
+        "grid": "EL39bs",
+        "locationDesc": "US-TX",
+        "attempts": 102,
+        "activations": 102,
+        "qsos": 7956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8171,
+          30.3173
+        ]
+      },
+      "properties": {
+        "reference": "US-3496",
+        "name": "Davis Hill State Park",
+        "latitude": 30.3173,
+        "longitude": -94.8171,
+        "grid": "EM20oh",
+        "locationDesc": "US-TX",
+        "attempts": 19,
+        "activations": 19,
+        "qsos": 1529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.109,
+          30.0575
+        ]
+      },
+      "properties": {
+        "reference": "US-3497",
+        "name": "Devil's Sinkhole State Conservation Area",
+        "latitude": 30.0575,
+        "longitude": -100.109,
+        "grid": "DM90wb",
+        "locationDesc": "US-TX",
+        "attempts": 16,
+        "activations": 16,
+        "qsos": 513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.97,
+          29.9402
+        ]
+      },
+      "properties": {
+        "reference": "US-3498",
+        "name": "Devils River Natural State Conservation Area",
+        "latitude": 29.9402,
+        "longitude": -100.97,
+        "grid": "DL99mw",
+        "locationDesc": "US-TX",
+        "attempts": 30,
+        "activations": 27,
+        "qsos": 758
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8201,
+          30.5061
+        ]
+      },
+      "properties": {
+        "reference": "US-3499",
+        "name": "Enchanted Rock Natural State Conservation Area",
+        "latitude": 30.5061,
+        "longitude": -98.8201,
+        "grid": "EM00om",
+        "locationDesc": "US-TX",
+        "attempts": 61,
+        "activations": 58,
+        "qsos": 1666
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9838,
+          30.4829
+        ]
+      },
+      "properties": {
+        "reference": "US-3500",
+        "name": "Fanthorp Inn State Historic Site",
+        "latitude": 30.4829,
+        "longitude": -95.9838,
+        "grid": "EM20al",
+        "locationDesc": "US-TX",
+        "attempts": 71,
+        "activations": 68,
+        "qsos": 2404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.326,
+          29.5428
+        ]
+      },
+      "properties": {
+        "reference": "US-3501",
+        "name": "Fort Leaton State Historic Site",
+        "latitude": 29.5428,
+        "longitude": -104.326,
+        "grid": "DL79un",
+        "locationDesc": "US-TX",
+        "attempts": 15,
+        "activations": 15,
+        "qsos": 455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3856,
+          28.6566
+        ]
+      },
+      "properties": {
+        "reference": "US-3502",
+        "name": "Goliad State Historic Site",
+        "latitude": 28.6566,
+        "longitude": -97.3856,
+        "grid": "EL18hp",
+        "locationDesc": "US-TX",
+        "attempts": 115,
+        "activations": 111,
+        "qsos": 6106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7648,
+          29.5493
+        ]
+      },
+      "properties": {
+        "reference": "US-3503",
+        "name": "Government Canyon State Natural Area",
+        "latitude": 29.5493,
+        "longitude": -98.7648,
+        "grid": "EL09on",
+        "locationDesc": "US-TX",
+        "attempts": 751,
+        "activations": 698,
+        "qsos": 26651
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1885,
+          29.6271
+        ]
+      },
+      "properties": {
+        "reference": "US-3504",
+        "name": "Hill Country Natural State Conservation Area",
+        "latitude": 29.6271,
+        "longitude": -99.1885,
+        "grid": "EL09jp",
+        "locationDesc": "US-TX",
+        "attempts": 97,
+        "activations": 92,
+        "qsos": 4747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4947,
+          29.8542
+        ]
+      },
+      "properties": {
+        "reference": "US-3505",
+        "name": "Honey Creek Natural State Conservation Area",
+        "latitude": 29.8542,
+        "longitude": -98.4947,
+        "grid": "EL09su",
+        "locationDesc": "US-TX",
+        "attempts": 95,
+        "activations": 88,
+        "qsos": 1852
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8175,
+          27.9647
+        ]
+      },
+      "properties": {
+        "reference": "US-3506",
+        "name": "Lipantitlan State Historic Site",
+        "latitude": 27.9647,
+        "longitude": -97.8175,
+        "grid": "EL17cx",
+        "locationDesc": "US-TX",
+        "attempts": 33,
+        "activations": 33,
+        "qsos": 1216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5773,
+          29.8235
+        ]
+      },
+      "properties": {
+        "reference": "US-3507",
+        "name": "Lost Maples Natural State Conservation Area",
+        "latitude": 29.8235,
+        "longitude": -99.5773,
+        "grid": "EL09ft",
+        "locationDesc": "US-TX",
+        "attempts": 72,
+        "activations": 66,
+        "qsos": 2997
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8761,
+          29.888
+        ]
+      },
+      "properties": {
+        "reference": "US-3508",
+        "name": "Monument Hill and Kreische Brewery State Historic Site",
+        "latitude": 29.888,
+        "longitude": -96.8761,
+        "grid": "EL19nv",
+        "locationDesc": "US-TX",
+        "attempts": 76,
+        "activations": 73,
+        "qsos": 2045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2075,
+          26.0778
+        ]
+      },
+      "properties": {
+        "reference": "US-3509",
+        "name": "Port Isabel Lighthouse State Historic Site",
+        "latitude": 26.0778,
+        "longitude": -97.2075,
+        "grid": "EL16jb",
+        "locationDesc": "US-TX",
+        "attempts": 75,
+        "activations": 66,
+        "qsos": 3420
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4921,
+          28.4714
+        ]
+      },
+      "properties": {
+        "reference": "US-3510",
+        "name": "Powderhorn Ranch State Wildlife Area",
+        "latitude": 28.4714,
+        "longitude": -96.4921,
+        "grid": "EL18sl",
+        "locationDesc": "US-TX",
+        "attempts": 18,
+        "activations": 18,
+        "qsos": 599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0779,
+          29.7382
+        ]
+      },
+      "properties": {
+        "reference": "US-3511",
+        "name": "San Jacinto Battleground State Historic Site",
+        "latitude": 29.7382,
+        "longitude": -95.0779,
+        "grid": "EL29lr",
+        "locationDesc": "US-TX",
+        "attempts": 345,
+        "activations": 329,
+        "qsos": 16370
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1549,
+          30.3236
+        ]
+      },
+      "properties": {
+        "reference": "US-3512",
+        "name": "Washington on the Brazos State Historic Site",
+        "latitude": 30.3236,
+        "longitude": -96.1549,
+        "grid": "EM10wh",
+        "locationDesc": "US-TX",
+        "attempts": 228,
+        "activations": 222,
+        "qsos": 8301
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0084,
+          33.7258
+        ]
+      },
+      "properties": {
+        "reference": "US-4370",
+        "name": "Caddo National Grasslands Wildlife Management Area",
+        "latitude": 33.7258,
+        "longitude": -96.0084,
+        "grid": "EM13xr",
+        "locationDesc": "US-TX",
+        "attempts": 139,
+        "activations": 135,
+        "qsos": 6870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6275,
+          33.4168
+        ]
+      },
+      "properties": {
+        "reference": "US-4371",
+        "name": "Lyndon B. Johnson National Grassland",
+        "latitude": 33.4168,
+        "longitude": -97.6275,
+        "grid": "EM13ek",
+        "locationDesc": "US-TX",
+        "attempts": 343,
+        "activations": 331,
+        "qsos": 16597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3374,
+          31.1128
+        ]
+      },
+      "properties": {
+        "reference": "US-4414",
+        "name": "Angelina National Forest",
+        "latitude": 31.1128,
+        "longitude": -94.3374,
+        "grid": "EM21tc",
+        "locationDesc": "US-TX",
+        "attempts": 97,
+        "activations": 93,
+        "qsos": 3855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1678,
+          31.3658
+        ]
+      },
+      "properties": {
+        "reference": "US-4415",
+        "name": "Davy Crockett National Forest",
+        "latitude": 31.3658,
+        "longitude": -95.1678,
+        "grid": "EM21ji",
+        "locationDesc": "US-TX",
+        "attempts": 166,
+        "activations": 150,
+        "qsos": 7888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.765,
+          31.4498
+        ]
+      },
+      "properties": {
+        "reference": "US-4416",
+        "name": "Sabine National Forest",
+        "latitude": 31.4498,
+        "longitude": -93.765,
+        "grid": "EM31ck",
+        "locationDesc": "US-TX",
+        "attempts": 150,
+        "activations": 150,
+        "qsos": 4412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3192,
+          30.6411
+        ]
+      },
+      "properties": {
+        "reference": "US-4417",
+        "name": "Sam Houston National Forest",
+        "latitude": 30.6411,
+        "longitude": -95.3192,
+        "grid": "EM20ip",
+        "locationDesc": "US-TX",
+        "attempts": 570,
+        "activations": 544,
+        "qsos": 28375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8223,
+          30.6359
+        ]
+      },
+      "properties": {
+        "reference": "US-4418",
+        "name": "E.O. Siecke State Forest",
+        "latitude": 30.6359,
+        "longitude": -93.8223,
+        "grid": "EM30cp",
+        "locationDesc": "US-TX",
+        "attempts": 38,
+        "activations": 38,
+        "qsos": 1523
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3538,
+          31.7866
+        ]
+      },
+      "properties": {
+        "reference": "US-4419",
+        "name": "I.D. Farichild State Forest",
+        "latitude": 31.7866,
+        "longitude": -95.3538,
+        "grid": "EM21hs",
+        "locationDesc": "US-TX",
+        "attempts": 35,
+        "activations": 34,
+        "qsos": 1151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4099,
+          30.5747
+        ]
+      },
+      "properties": {
+        "reference": "US-4420",
+        "name": "John Henry Kirby Memorial State Forest",
+        "latitude": 30.5747,
+        "longitude": -94.4099,
+        "grid": "EM20tn",
+        "locationDesc": "US-TX",
+        "attempts": 23,
+        "activations": 20,
+        "qsos": 965
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9234,
+          30.3785
+        ]
+      },
+      "properties": {
+        "reference": "US-4421",
+        "name": "Masterson State Forest",
+        "latitude": 30.3785,
+        "longitude": -93.9234,
+        "grid": "EM30aj",
+        "locationDesc": "US-TX",
+        "attempts": 65,
+        "activations": 65,
+        "qsos": 7381
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4915,
+          30.2178
+        ]
+      },
+      "properties": {
+        "reference": "US-4422",
+        "name": "W. Goodrich Jones State Forest",
+        "latitude": 30.2178,
+        "longitude": -95.4915,
+        "grid": "EM20gf",
+        "locationDesc": "US-TX",
+        "attempts": 722,
+        "activations": 685,
+        "qsos": 23998
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6572,
+          32.9642
+        ]
+      },
+      "properties": {
+        "reference": "US-4423",
+        "name": "Spring Creek Forest State Preserve",
+        "latitude": 32.9642,
+        "longitude": -96.6572,
+        "grid": "EM12qx",
+        "locationDesc": "US-TX",
+        "attempts": 1639,
+        "activations": 1575,
+        "qsos": 77683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9126,
+          31.1638
+        ]
+      },
+      "properties": {
+        "reference": "US-6533",
+        "name": "Alabama Creek Wildlife Management Area",
+        "latitude": 31.1638,
+        "longitude": -94.9126,
+        "grid": "EM21nd",
+        "locationDesc": "US-TX",
+        "attempts": 39,
+        "activations": 38,
+        "qsos": 2585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7342,
+          31.4919
+        ]
+      },
+      "properties": {
+        "reference": "US-6534",
+        "name": "Alazan Bayou Wildlife Management Area",
+        "latitude": 31.4919,
+        "longitude": -94.7342,
+        "grid": "EM21pl",
+        "locationDesc": "US-TX",
+        "attempts": 56,
+        "activations": 51,
+        "qsos": 2127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1657,
+          30.8613
+        ]
+      },
+      "properties": {
+        "reference": "US-6535",
+        "name": "Angelina-Neches/Dam B Wildlife Management Area",
+        "latitude": 30.8613,
+        "longitude": -94.1657,
+        "grid": "EM20wu",
+        "locationDesc": "US-TX",
+        "attempts": 35,
+        "activations": 32,
+        "qsos": 745
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9746,
+          29.6831
+        ]
+      },
+      "properties": {
+        "reference": "US-6536",
+        "name": "Atkinson Island Wildlife Management Area",
+        "latitude": 29.6831,
+        "longitude": -94.9746,
+        "grid": "EL29mq",
+        "locationDesc": "US-TX",
+        "attempts": 7,
+        "activations": 7,
+        "qsos": 490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.2865,
+          31.3576
+        ]
+      },
+      "properties": {
+        "reference": "US-6537",
+        "name": "Bannister Wildlife Management Area",
+        "latitude": 31.3576,
+        "longitude": -94.2865,
+        "grid": "EM21ui",
+        "locationDesc": "US-TX",
+        "attempts": 50,
+        "activations": 49,
+        "qsos": 1754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1506,
+          30.3214
+        ]
+      },
+      "properties": {
+        "reference": "US-6538",
+        "name": "Barrington Plantation State Historic Site",
+        "latitude": 30.3214,
+        "longitude": -96.1506,
+        "grid": "EM10wh",
+        "locationDesc": "US-TX",
+        "attempts": 165,
+        "activations": 161,
+        "qsos": 6286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8338,
+          31.6999
+        ]
+      },
+      "properties": {
+        "reference": "US-6539",
+        "name": "Big Lake Bottom Wildlife Management Area",
+        "latitude": 31.6999,
+        "longitude": -95.8338,
+        "grid": "EM21bq",
+        "locationDesc": "US-TX",
+        "attempts": 27,
+        "activations": 26,
+        "qsos": 1006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.953,
+          29.5618
+        ]
+      },
+      "properties": {
+        "reference": "US-6540",
+        "name": "Black Gap Wildlife Management Area",
+        "latitude": 29.5618,
+        "longitude": -102.953,
+        "grid": "DL89mn",
+        "locationDesc": "US-TX",
+        "attempts": 14,
+        "activations": 14,
+        "qsos": 630
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1618,
+          32.7295
+        ]
+      },
+      "properties": {
+        "reference": "US-6542",
+        "name": "Caddo Lake Wildlife Management Area",
+        "latitude": 32.7295,
+        "longitude": -94.1618,
+        "grid": "EM22wr",
+        "locationDesc": "US-TX",
+        "attempts": 34,
+        "activations": 33,
+        "qsos": 1257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1488,
+          31.5966
+        ]
+      },
+      "properties": {
+        "reference": "US-6543",
+        "name": "Caddo Mounds State Historic Site",
+        "latitude": 31.5966,
+        "longitude": -95.1488,
+        "grid": "EM21ko",
+        "locationDesc": "US-TX",
+        "attempts": 38,
+        "activations": 34,
+        "qsos": 1180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7653,
+          29.531
+        ]
+      },
+      "properties": {
+        "reference": "US-6545",
+        "name": "Candy Cain Abshier Wildlife Management Area",
+        "latitude": 29.531,
+        "longitude": -94.7653,
+        "grid": "EL29om",
+        "locationDesc": "US-TX",
+        "attempts": 41,
+        "activations": 38,
+        "qsos": 2175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4974,
+          29.4231
+        ]
+      },
+      "properties": {
+        "reference": "US-6546",
+        "name": "Casa Navarro State Historic Site",
+        "latitude": 29.4231,
+        "longitude": -98.4974,
+        "grid": "EL09sk",
+        "locationDesc": "US-TX",
+        "attempts": 39,
+        "activations": 35,
+        "qsos": 674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4227,
+          28.3196
+        ]
+      },
+      "properties": {
+        "reference": "US-6548",
+        "name": "Chaparral Wildlife Management Area",
+        "latitude": 28.3196,
+        "longitude": -99.4227,
+        "grid": "EL08gh",
+        "locationDesc": "US-TX",
+        "attempts": 28,
+        "activations": 28,
+        "qsos": 1545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5617,
+          31.6323
+        ]
+      },
+      "properties": {
+        "reference": "US-6549",
+        "name": "Confederate Reunion Grounds State Historic Site",
+        "latitude": 31.6323,
+        "longitude": -96.5617,
+        "grid": "EM11rp",
+        "locationDesc": "US-TX",
+        "attempts": 62,
+        "activations": 60,
+        "qsos": 2151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6016,
+          33.3181
+        ]
+      },
+      "properties": {
+        "reference": "US-6550",
+        "name": "Cooper Wildlife Management Area",
+        "latitude": 33.3181,
+        "longitude": -95.6016,
+        "grid": "EM23eh",
+        "locationDesc": "US-TX",
+        "attempts": 70,
+        "activations": 69,
+        "qsos": 3004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5342,
+          33.7498
+        ]
+      },
+      "properties": {
+        "reference": "US-6553",
+        "name": "Eisenhower Birthplace State Historic Site",
+        "latitude": 33.7498,
+        "longitude": -96.5342,
+        "grid": "EM13rr",
+        "locationDesc": "US-TX",
+        "attempts": 470,
+        "activations": 455,
+        "qsos": 19860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.566,
+          30.0346
+        ]
+      },
+      "properties": {
+        "reference": "US-6554",
+        "name": "Elephant Mountain Wildlife Management Area",
+        "latitude": 30.0346,
+        "longitude": -103.566,
+        "grid": "DM80fa",
+        "locationDesc": "US-TX",
+        "attempts": 21,
+        "activations": 19,
+        "qsos": 843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2329,
+          28.6864
+        ]
+      },
+      "properties": {
+        "reference": "US-6555",
+        "name": "Fannin Battleground State Historic Site",
+        "latitude": 28.6864,
+        "longitude": -97.2329,
+        "grid": "EL18jq",
+        "locationDesc": "US-TX",
+        "attempts": 69,
+        "activations": 69,
+        "qsos": 2766
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2339,
+          32.9262
+        ]
+      },
+      "properties": {
+        "reference": "US-6557",
+        "name": "Fort Griffin State Historic Site",
+        "latitude": 32.9262,
+        "longitude": -99.2339,
+        "grid": "EM02jw",
+        "locationDesc": "US-TX",
+        "attempts": 60,
+        "activations": 57,
+        "qsos": 3266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.695,
+          30.6651
+        ]
+      },
+      "properties": {
+        "reference": "US-6558",
+        "name": "Fort Lancaster State Historic Site",
+        "latitude": 30.6651,
+        "longitude": -101.695,
+        "grid": "DM90dp",
+        "locationDesc": "US-TX",
+        "attempts": 18,
+        "activations": 18,
+        "qsos": 919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.11,
+          30.8259
+        ]
+      },
+      "properties": {
+        "reference": "US-6559",
+        "name": "Fort McKavett State Historic Site",
+        "latitude": 30.8259,
+        "longitude": -100.11,
+        "grid": "DM90wt",
+        "locationDesc": "US-TX",
+        "attempts": 21,
+        "activations": 21,
+        "qsos": 746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.732,
+          30.2668
+        ]
+      },
+      "properties": {
+        "reference": "US-6560",
+        "name": "French Legation State Historic Site",
+        "latitude": 30.2668,
+        "longitude": -97.732,
+        "grid": "EM10dg",
+        "locationDesc": "US-TX",
+        "attempts": 104,
+        "activations": 100,
+        "qsos": 1859
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0346,
+          28.0575
+        ]
+      },
+      "properties": {
+        "reference": "US-6561",
+        "name": "Fulton Mansion State Historic Site",
+        "latitude": 28.0575,
+        "longitude": -97.0346,
+        "grid": "EL18lb",
+        "locationDesc": "US-TX",
+        "attempts": 51,
+        "activations": 51,
+        "qsos": 1866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.283,
+          35.9096
+        ]
+      },
+      "properties": {
+        "reference": "US-6562",
+        "name": "Gene Howe Wildlife Management Area",
+        "latitude": 35.9096,
+        "longitude": -100.283,
+        "grid": "DM95uv",
+        "locationDesc": "US-TX",
+        "attempts": 14,
+        "activations": 14,
+        "qsos": 535
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.8016,
+          28.5196
+        ]
+      },
+      "properties": {
+        "reference": "US-6563",
+        "name": "Guadalupe Delta Wildlife Management Area",
+        "latitude": 28.5196,
+        "longitude": -96.8016,
+        "grid": "EL18om",
+        "locationDesc": "US-TX",
+        "attempts": 30,
+        "activations": 29,
+        "qsos": 910
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9054,
+          31.9043
+        ]
+      },
+      "properties": {
+        "reference": "US-6564",
+        "name": "Gus Engeling Wildlife Management Area",
+        "latitude": 31.9043,
+        "longitude": -95.9054,
+        "grid": "EM21bv",
+        "locationDesc": "US-TX",
+        "attempts": 44,
+        "activations": 42,
+        "qsos": 1357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0485,
+          29.8612
+        ]
+      },
+      "properties": {
+        "reference": "US-6565",
+        "name": "J.D. Murphree Wildlife Management Area",
+        "latitude": 29.8612,
+        "longitude": -94.0485,
+        "grid": "EL29xu",
+        "locationDesc": "US-TX",
+        "attempts": 79,
+        "activations": 77,
+        "qsos": 3249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3872,
+          28.4921
+        ]
+      },
+      "properties": {
+        "reference": "US-6566",
+        "name": "James E. Daughtrey Wildlife Management Area",
+        "latitude": 28.4921,
+        "longitude": -98.3872,
+        "grid": "EL08tl",
+        "locationDesc": "US-TX",
+        "attempts": 18,
+        "activations": 18,
+        "qsos": 579
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.434,
+          28.9261
+        ]
+      },
+      "properties": {
+        "reference": "US-6567",
+        "name": "Justin Hurst Wildlife Management Area",
+        "latitude": 28.9261,
+        "longitude": -95.434,
+        "grid": "EL28gw",
+        "locationDesc": "US-TX",
+        "attempts": 66,
+        "activations": 65,
+        "qsos": 3383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5064,
+          30.0633
+        ]
+      },
+      "properties": {
+        "reference": "US-6569",
+        "name": "Kerr Wildlife Management Area",
+        "latitude": 30.0633,
+        "longitude": -99.5064,
+        "grid": "EM00fb",
+        "locationDesc": "US-TX",
+        "attempts": 37,
+        "activations": 36,
+        "qsos": 1494
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8746,
+          29.3546
+        ]
+      },
+      "properties": {
+        "reference": "US-6570",
+        "name": "Landmark Inn State Historic Site",
+        "latitude": 29.3546,
+        "longitude": -98.8746,
+        "grid": "EL09ni",
+        "locationDesc": "US-TX",
+        "attempts": 74,
+        "activations": 72,
+        "qsos": 1792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8435,
+          26.0838
+        ]
+      },
+      "properties": {
+        "reference": "US-6571",
+        "name": "Las Palomas , Anacua Unit Wildlife Management Area",
+        "latitude": 26.0838,
+        "longitude": -97.8435,
+        "grid": "EL16bc",
+        "locationDesc": "US-TX",
+        "attempts": 73,
+        "activations": 71,
+        "qsos": 3447
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0253,
+          26.1137
+        ]
+      },
+      "properties": {
+        "reference": "US-6572",
+        "name": "Las Palomas , Lower Rio Grande Valley Units Wildlife Management Area",
+        "latitude": 26.1137,
+        "longitude": -98.0253,
+        "grid": "EL06xc",
+        "locationDesc": "US-TX",
+        "attempts": 13,
+        "activations": 13,
+        "qsos": 456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6478,
+          28.9983
+        ]
+      },
+      "properties": {
+        "reference": "US-6573",
+        "name": "Levi Jordan Plantation State Historic Site",
+        "latitude": 28.9983,
+        "longitude": -95.6478,
+        "grid": "EL28ex",
+        "locationDesc": "US-TX",
+        "attempts": 51,
+        "activations": 50,
+        "qsos": 1461
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8472,
+          30.0016
+        ]
+      },
+      "properties": {
+        "reference": "US-6574",
+        "name": "Lower Neches Wildlife Management Area",
+        "latitude": 30.0016,
+        "longitude": -93.8472,
+        "grid": "EM30ba",
+        "locationDesc": "US-TX",
+        "attempts": 236,
+        "activations": 216,
+        "qsos": 23770
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6838,
+          29.5566
+        ]
+      },
+      "properties": {
+        "reference": "US-6575",
+        "name": "M.O. Neasloney Wildlife Management Area",
+        "latitude": 29.5566,
+        "longitude": -97.6838,
+        "grid": "EL19dn",
+        "locationDesc": "US-TX",
+        "attempts": 17,
+        "activations": 17,
+        "qsos": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0419,
+          28.6796
+        ]
+      },
+      "properties": {
+        "reference": "US-6576",
+        "name": "Mad Island Wildlife Management Area",
+        "latitude": 28.6796,
+        "longitude": -96.0419,
+        "grid": "EL18xq",
+        "locationDesc": "US-TX",
+        "attempts": 16,
+        "activations": 16,
+        "qsos": 1290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.477,
+          31.7624
+        ]
+      },
+      "properties": {
+        "reference": "US-6577",
+        "name": "Magoffin Home State Historic Site",
+        "latitude": 31.7624,
+        "longitude": -106.477,
+        "grid": "DM61ss",
+        "locationDesc": "US-TX",
+        "attempts": 41,
+        "activations": 38,
+        "qsos": 663
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2237,
+          30.8197
+        ]
+      },
+      "properties": {
+        "reference": "US-6578",
+        "name": "Mason Mountain Wildlife Management Area",
+        "latitude": 30.8197,
+        "longitude": -99.2237,
+        "grid": "EM00jt",
+        "locationDesc": "US-TX",
+        "attempts": 15,
+        "activations": 15,
+        "qsos": 474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.345,
+          34.1181
+        ]
+      },
+      "properties": {
+        "reference": "US-6579",
+        "name": "Matador Wildlife Management Area",
+        "latitude": 34.1181,
+        "longitude": -100.345,
+        "grid": "DM94tc",
+        "locationDesc": "US-TX",
+        "attempts": 13,
+        "activations": 13,
+        "qsos": 752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.4509,
+          28.3258
+        ]
+      },
+      "properties": {
+        "reference": "US-6580",
+        "name": "Matagorda Island Wildlife Management Area",
+        "latitude": 28.3258,
+        "longitude": -96.4509,
+        "grid": "EL18sh",
+        "locationDesc": "US-TX",
+        "attempts": 10,
+        "activations": 10,
+        "qsos": 835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.877,
+          35.2095
+        ]
+      },
+      "properties": {
+        "reference": "US-6581",
+        "name": "McClellan Creek National Nature Reserve",
+        "latitude": 35.2095,
+        "longitude": -100.877,
+        "grid": "DM95nf",
+        "locationDesc": "US-TX",
+        "attempts": 77,
+        "activations": 75,
+        "qsos": 4086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.1151,
+          31.5236
+        ]
+      },
+      "properties": {
+        "reference": "US-6582",
+        "name": "Mission Dolores State Historic Site",
+        "latitude": 31.5236,
+        "longitude": -94.1151,
+        "grid": "EM21wm",
+        "locationDesc": "US-TX",
+        "attempts": 63,
+        "activations": 58,
+        "qsos": 2866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9319,
+          31.2505
+        ]
+      },
+      "properties": {
+        "reference": "US-6584",
+        "name": "Moore Plantation Wildlife Management Area",
+        "latitude": 31.2505,
+        "longitude": -93.9319,
+        "grid": "EM31ag",
+        "locationDesc": "US-TX",
+        "attempts": 128,
+        "activations": 124,
+        "qsos": 3504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8369,
+          31.8911
+        ]
+      },
+      "properties": {
+        "reference": "US-6585",
+        "name": "Muse Wildlife Management Area",
+        "latitude": 31.8911,
+        "longitude": -98.8369,
+        "grid": "EM01nv",
+        "locationDesc": "US-TX",
+        "attempts": 14,
+        "activations": 14,
+        "qsos": 556
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6229,
+          28.9606
+        ]
+      },
+      "properties": {
+        "reference": "US-6586",
+        "name": "Nannie M. Stringfellow Wildlife Management Area",
+        "latitude": 28.9606,
+        "longitude": -95.6229,
+        "grid": "EL28ex",
+        "locationDesc": "US-TX",
+        "attempts": 45,
+        "activations": 43,
+        "qsos": 1615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.8677,
+          30.2733
+        ]
+      },
+      "properties": {
+        "reference": "US-6587",
+        "name": "National Museum of the Pacific War State Historic Site",
+        "latitude": 30.2733,
+        "longitude": -98.8677,
+        "grid": "EM00ng",
+        "locationDesc": "US-TX",
+        "attempts": 48,
+        "activations": 47,
+        "qsos": 1598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2171,
+          32.3073
+        ]
+      },
+      "properties": {
+        "reference": "US-6588",
+        "name": "Nature Center Wildlife Management Area",
+        "latitude": 32.3073,
+        "longitude": -95.2171,
+        "grid": "EM22jh",
+        "locationDesc": "US-TX",
+        "attempts": 127,
+        "activations": 122,
+        "qsos": 5436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9675,
+          31.9177
+        ]
+      },
+      "properties": {
+        "reference": "US-6589",
+        "name": "North Toledo Bend Wildlife Management Area",
+        "latitude": 31.9177,
+        "longitude": -93.9675,
+        "grid": "EM31aw",
+        "locationDesc": "US-TX",
+        "attempts": 24,
+        "activations": 24,
+        "qsos": 1115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3536,
+          32.5762
+        ]
+      },
+      "properties": {
+        "reference": "US-6590",
+        "name": "Old Sabine Bottom Wildlife Management Area",
+        "latitude": 32.5762,
+        "longitude": -95.3536,
+        "grid": "EM22hn",
+        "locationDesc": "US-TX",
+        "attempts": 53,
+        "activations": 48,
+        "qsos": 2336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6763,
+          33.82
+        ]
+      },
+      "properties": {
+        "reference": "US-6591",
+        "name": "Pat Mayse Wildlife Management Area",
+        "latitude": 33.82,
+        "longitude": -95.6763,
+        "grid": "EM23dt",
+        "locationDesc": "US-TX",
+        "attempts": 49,
+        "activations": 48,
+        "qsos": 1901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.385,
+          34.5543
+        ]
+      },
+      "properties": {
+        "reference": "US-6593",
+        "name": "Playa Lakes, Dimmitt Unit Wildlife Management Area",
+        "latitude": 34.5543,
+        "longitude": -102.385,
+        "grid": "DM84tn",
+        "locationDesc": "US-TX",
+        "attempts": 11,
+        "activations": 11,
+        "qsos": 750
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.785,
+          34.8946
+        ]
+      },
+      "properties": {
+        "reference": "US-6594",
+        "name": "Playa Lakes, Taylor Lakes Unit Wildlife Management Area",
+        "latitude": 34.8946,
+        "longitude": -100.785,
+        "grid": "DM94ov",
+        "locationDesc": "US-TX",
+        "attempts": 42,
+        "activations": 42,
+        "qsos": 1399
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2889,
+          27.6395
+        ]
+      },
+      "properties": {
+        "reference": "US-6595",
+        "name": "Redhead Pond Wildlife Management Area",
+        "latitude": 27.6395,
+        "longitude": -97.2889,
+        "grid": "EL17ip",
+        "locationDesc": "US-TX",
+        "attempts": 41,
+        "activations": 37,
+        "qsos": 1422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0974,
+          31.9531
+        ]
+      },
+      "properties": {
+        "reference": "US-6596",
+        "name": "Richland Creek Wildlife Management Area",
+        "latitude": 31.9531,
+        "longitude": -96.0974,
+        "grid": "EM11ww",
+        "locationDesc": "US-TX",
+        "attempts": 59,
+        "activations": 59,
+        "qsos": 2173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.823,
+          29.4509
+        ]
+      },
+      "properties": {
+        "reference": "US-6597",
+        "name": "Rio Grande National Wild and Scenic River",
+        "latitude": 29.4509,
+        "longitude": -102.823,
+        "grid": "DL89ok",
+        "locationDesc": "US-TX",
+        "attempts": 41,
+        "activations": 40,
+        "qsos": 2325
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8751,
+          29.7329
+        ]
+      },
+      "properties": {
+        "reference": "US-6599",
+        "name": "Sabine Pass Battleground State Historic Site",
+        "latitude": 29.7329,
+        "longitude": -93.8751,
+        "grid": "EL39br",
+        "locationDesc": "US-TX",
+        "attempts": 92,
+        "activations": 92,
+        "qsos": 8525
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.555,
+          33.6541
+        ]
+      },
+      "properties": {
+        "reference": "US-6600",
+        "name": "Sam Bell Maxey House State Historic Site",
+        "latitude": 33.6541,
+        "longitude": -95.555,
+        "grid": "EM23fp",
+        "locationDesc": "US-TX",
+        "attempts": 69,
+        "activations": 68,
+        "qsos": 1771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2075,
+          33.57
+        ]
+      },
+      "properties": {
+        "reference": "US-6601",
+        "name": "Sam Rayburn House State Historic Site",
+        "latitude": 33.57,
+        "longitude": -96.2075,
+        "grid": "EM13vn",
+        "locationDesc": "US-TX",
+        "attempts": 89,
+        "activations": 86,
+        "qsos": 2455
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0977,
+          29.807
+        ]
+      },
+      "properties": {
+        "reference": "US-6602",
+        "name": "San Felipe de Austin State Historic Site",
+        "latitude": 29.807,
+        "longitude": -96.0977,
+        "grid": "EL19wt",
+        "locationDesc": "US-TX",
+        "attempts": 122,
+        "activations": 118,
+        "qsos": 4479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.371,
+          32.5418
+        ]
+      },
+      "properties": {
+        "reference": "US-6604",
+        "name": "Starr Family Home State Historic Site",
+        "latitude": 32.5418,
+        "longitude": -94.371,
+        "grid": "EM22tn",
+        "locationDesc": "US-TX",
+        "attempts": 82,
+        "activations": 81,
+        "qsos": 2412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9912,
+          33.0055
+        ]
+      },
+      "properties": {
+        "reference": "US-6605",
+        "name": "Tawakoni Wildlife Management Area",
+        "latitude": 33.0055,
+        "longitude": -95.9912,
+        "grid": "EM23aa",
+        "locationDesc": "US-TX",
+        "attempts": 151,
+        "activations": 149,
+        "qsos": 9875
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7172,
+          30.1583
+        ]
+      },
+      "properties": {
+        "reference": "US-6606",
+        "name": "Tony Houseman Wildlife Management Area",
+        "latitude": 30.1583,
+        "longitude": -93.7172,
+        "grid": "EM30dd",
+        "locationDesc": "US-TX",
+        "attempts": 60,
+        "activations": 60,
+        "qsos": 1409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6409,
+          29.1622
+        ]
+      },
+      "properties": {
+        "reference": "US-6607",
+        "name": "Varner-Hogg Plantation State Historic Site",
+        "latitude": 29.1622,
+        "longitude": -95.6409,
+        "grid": "EL29ed",
+        "locationDesc": "US-TX",
+        "attempts": 69,
+        "activations": 68,
+        "qsos": 2583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.276,
+          36.1749
+        ]
+      },
+      "properties": {
+        "reference": "US-6608",
+        "name": "W.A. \"Pat\" Murphy Unit Wildlife Management Area",
+        "latitude": 36.1749,
+        "longitude": -100.276,
+        "grid": "DM96ue",
+        "locationDesc": "US-TX",
+        "attempts": 11,
+        "activations": 11,
+        "qsos": 643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6805,
+          28.3337
+        ]
+      },
+      "properties": {
+        "reference": "US-6610",
+        "name": "Welder Flats Wildlife Management Area",
+        "latitude": 28.3337,
+        "longitude": -96.6805,
+        "grid": "EL18pi",
+        "locationDesc": "US-TX",
+        "attempts": 7,
+        "activations": 7,
+        "qsos": 554
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7311,
+          33.2345
+        ]
+      },
+      "properties": {
+        "reference": "US-6611",
+        "name": "White Oak Creek Wildlife Management Area",
+        "latitude": 33.2345,
+        "longitude": -94.7311,
+        "grid": "EM23pf",
+        "locationDesc": "US-TX",
+        "attempts": 94,
+        "activations": 92,
+        "qsos": 4789
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.618,
+          33.4621
+        ]
+      },
+      "properties": {
+        "reference": "US-6612",
+        "name": "Yoakum Dunes Wildlife Management Area",
+        "latitude": 33.4621,
+        "longitude": -102.618,
+        "grid": "DM83ql",
+        "locationDesc": "US-TX",
+        "attempts": 10,
+        "activations": 10,
+        "qsos": 453
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.873,
+          35.2133
+        ]
+      },
+      "properties": {
+        "reference": "US-7483",
+        "name": "McClellan Creek National Grassland",
+        "latitude": 35.2133,
+        "longitude": -100.873,
+        "grid": "DM95nf",
+        "locationDesc": "US-TX",
+        "attempts": 91,
+        "activations": 87,
+        "qsos": 4470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.091,
+          31.9987
+        ]
+      },
+      "properties": {
+        "reference": "US-10272",
+        "name": "Bush Family Home State Historic Site",
+        "latitude": 31.9987,
+        "longitude": -102.091,
+        "grid": "DM81wx",
+        "locationDesc": "US-TX",
+        "attempts": 303,
+        "activations": 300,
+        "qsos": 14385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.183,
+          35.0306
+        ]
+      },
+      "properties": {
+        "reference": "US-10273",
+        "name": "Charles and Mary Ann Goodnight Ranch State Historic Site",
+        "latitude": 35.0306,
+        "longitude": -101.183,
+        "grid": "DM95ja",
+        "locationDesc": "US-TX",
+        "attempts": 26,
+        "activations": 26,
+        "qsos": 740
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3033,
+          25.9593
+        ]
+      },
+      "properties": {
+        "reference": "US-10274",
+        "name": "Palmito Ranch Battlefield State Historic Site",
+        "latitude": 25.9593,
+        "longitude": -97.3033,
+        "grid": "EL15ix",
+        "locationDesc": "US-TX",
+        "attempts": 78,
+        "activations": 68,
+        "qsos": 4641
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3827,
+          28.6476
+        ]
+      },
+      "properties": {
+        "reference": "US-10275",
+        "name": "Presidio la Bahia State Historic Site",
+        "latitude": 28.6476,
+        "longitude": -97.3827,
+        "grid": "EL18hp",
+        "locationDesc": "US-TX",
+        "attempts": 30,
+        "activations": 28,
+        "qsos": 647
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1537,
+          30.3239
+        ]
+      },
+      "properties": {
+        "reference": "US-10276",
+        "name": "Star of the Republic Museum State Historic Site",
+        "latitude": 30.3239,
+        "longitude": -96.1537,
+        "grid": "EM10wh",
+        "locationDesc": "US-TX",
+        "attempts": 132,
+        "activations": 130,
+        "qsos": 5334
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6852,
+          32.4411
+        ]
+      },
+      "properties": {
+        "reference": "US-10277",
+        "name": "Acton State Historic Site",
+        "latitude": 32.4411,
+        "longitude": -97.6852,
+        "grid": "EM12dk",
+        "locationDesc": "US-TX",
+        "attempts": 80,
+        "activations": 80,
+        "qsos": 3232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3399,
+          30.6602
+        ]
+      },
+      "properties": {
+        "reference": "US-10509",
+        "name": "Sam Houston National Forest Wildlife Management Area",
+        "latitude": 30.6602,
+        "longitude": -95.3399,
+        "grid": "EM20hp",
+        "locationDesc": "US-TX",
+        "attempts": 383,
+        "activations": 376,
+        "qsos": 17960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4287,
+          31.8935
+        ]
+      },
+      "properties": {
+        "reference": "US-11268",
+        "name": "Neches River National Wildlife Refuge",
+        "latitude": 31.8935,
+        "longitude": -95.4287,
+        "grid": "EM21gv",
+        "locationDesc": "US-TX",
+        "attempts": 28,
+        "activations": 28,
+        "qsos": 1007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.022,
+          30.3059
+        ]
+      },
+      "properties": {
+        "reference": "US-11900",
+        "name": "Blackwell School National Park",
+        "latitude": 30.3059,
+        "longitude": -104.022,
+        "grid": "DM70xh",
+        "locationDesc": "US-TX",
+        "attempts": 10,
+        "activations": 10,
+        "qsos": 367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6567,
+          29.1556
+        ]
+      },
+      "properties": {
+        "reference": "US-12109",
+        "name": "Stephen F. Austin Memorial Historic Site",
+        "latitude": 29.1556,
+        "longitude": -95.6567,
+        "grid": "EL29ed",
+        "locationDesc": "US-TX",
+        "attempts": 34,
+        "activations": 34,
+        "qsos": 1546
+      }
+    }
+  ]
+}

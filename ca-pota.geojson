@@ -1,0 +1,8111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.731,
+          34.0026
+        ]
+      },
+      "properties": {
+        "reference": "US-0014",
+        "name": "Channel Islands National Park",
+        "latitude": 34.0026,
+        "longitude": -119.731,
+        "grid": "DM04da",
+        "locationDesc": "US-CA",
+        "attempts": 113,
+        "activations": 76,
+        "qsos": 2541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.824,
+          33.7548
+        ]
+      },
+      "properties": {
+        "reference": "US-0041",
+        "name": "Joshua Tree National Park",
+        "latitude": 33.7548,
+        "longitude": -115.824,
+        "grid": "DM23cs",
+        "locationDesc": "US-CA",
+        "attempts": 383,
+        "activations": 332,
+        "qsos": 12129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.67,
+          36.7899
+        ]
+      },
+      "properties": {
+        "reference": "US-0046",
+        "name": "Kings Canyon National Park",
+        "latitude": 36.7899,
+        "longitude": -118.67,
+        "grid": "DM06ps",
+        "locationDesc": "US-CA",
+        "attempts": 97,
+        "activations": 83,
+        "qsos": 2259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.534,
+          40.4352
+        ]
+      },
+      "properties": {
+        "reference": "US-0049",
+        "name": "Lassen Volcanic National Park",
+        "latitude": 40.4352,
+        "longitude": -121.534,
+        "grid": "CN90fk",
+        "locationDesc": "US-CA",
+        "attempts": 90,
+        "activations": 69,
+        "qsos": 1679
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.083,
+          41.7978
+        ]
+      },
+      "properties": {
+        "reference": "US-0058",
+        "name": "Redwood National Park",
+        "latitude": 41.7978,
+        "longitude": -124.083,
+        "grid": "CN71xt",
+        "locationDesc": "US-CA",
+        "attempts": 108,
+        "activations": 75,
+        "qsos": 2134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.732,
+          36.6036
+        ]
+      },
+      "properties": {
+        "reference": "US-0063",
+        "name": "Sequoia National Park",
+        "latitude": 36.6036,
+        "longitude": -118.732,
+        "grid": "DM06po",
+        "locationDesc": "US-CA",
+        "attempts": 187,
+        "activations": 96,
+        "qsos": 3312
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.585,
+          37.7477
+        ]
+      },
+      "properties": {
+        "reference": "US-0071",
+        "name": "Yosemite National Park",
+        "latitude": 37.7477,
+        "longitude": -119.585,
+        "grid": "DM07er",
+        "locationDesc": "US-CA",
+        "attempts": 179,
+        "activations": 147,
+        "qsos": 4068
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.443,
+          34.9589
+        ]
+      },
+      "properties": {
+        "reference": "US-0181",
+        "name": "Bitter Creek National Wildlife Refuge",
+        "latitude": 34.9589,
+        "longitude": -119.443,
+        "grid": "DM04gx",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 8,
+        "qsos": 558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.039,
+          39.1966
+        ]
+      },
+      "properties": {
+        "reference": "US-0187",
+        "name": "Colusa National Wildlife Refuge",
+        "latitude": 39.1966,
+        "longitude": -122.039,
+        "grid": "CM89xe",
+        "locationDesc": "US-CA",
+        "attempts": 36,
+        "activations": 33,
+        "qsos": 764
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.064,
+          37.5299
+        ]
+      },
+      "properties": {
+        "reference": "US-0189",
+        "name": "Don Edwards San Francisco Bay National Wildlife Refuge",
+        "latitude": 37.5299,
+        "longitude": -122.064,
+        "grid": "CM87xm",
+        "locationDesc": "US-CA",
+        "attempts": 871,
+        "activations": 811,
+        "qsos": 35193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.572,
+          34.9725
+        ]
+      },
+      "properties": {
+        "reference": "US-0193",
+        "name": "Guadalupe-Nipomo Dunes National Wildlife Refuge",
+        "latitude": 34.9725,
+        "longitude": -120.572,
+        "grid": "CM94rx",
+        "locationDesc": "US-CA",
+        "attempts": 9,
+        "activations": 8,
+        "qsos": 258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.218,
+          40.7195
+        ]
+      },
+      "properties": {
+        "reference": "US-0196",
+        "name": "Humboldt Bay National Wildlife Refuge",
+        "latitude": 40.7195,
+        "longitude": -124.218,
+        "grid": "CN70vr",
+        "locationDesc": "US-CA",
+        "attempts": 15,
+        "activations": 14,
+        "qsos": 248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45,
+          35.7962
+        ]
+      },
+      "properties": {
+        "reference": "US-0197",
+        "name": "Kern National Wild and Scenic River",
+        "latitude": 35.7962,
+        "longitude": -118.45,
+        "grid": "DM05st",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 11,
+        "qsos": 444
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.819,
+          37.1519
+        ]
+      },
+      "properties": {
+        "reference": "US-0198",
+        "name": "Kesterson National Wildlife Refuge",
+        "latitude": 37.1519,
+        "longitude": -120.819,
+        "grid": "CM97od",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 29,
+        "qsos": 1203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.967,
+          37.605
+        ]
+      },
+      "properties": {
+        "reference": "US-0201",
+        "name": "Merced National Wild and Scenic River",
+        "latitude": 37.605,
+        "longitude": -119.967,
+        "grid": "DM07ao",
+        "locationDesc": "US-CA",
+        "attempts": 16,
+        "activations": 13,
+        "qsos": 270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.546,
+          41.4717
+        ]
+      },
+      "properties": {
+        "reference": "US-0202",
+        "name": "Modoc National Wildlife Refuge",
+        "latitude": 41.4717,
+        "longitude": -120.546,
+        "grid": "CN91rl",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 8,
+        "qsos": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.192,
+          39.4287
+        ]
+      },
+      "properties": {
+        "reference": "US-0203",
+        "name": "North Central Valley Wildlife Management Area",
+        "latitude": 39.4287,
+        "longitude": -122.192,
+        "grid": "CM89vk",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.376,
+          35.906
+        ]
+      },
+      "properties": {
+        "reference": "US-0204",
+        "name": "Pixley National Wildlife Refuge",
+        "latitude": 35.906,
+        "longitude": -119.376,
+        "grid": "DM05hv",
+        "locationDesc": "US-CA",
+        "attempts": 63,
+        "activations": 60,
+        "qsos": 2593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.192,
+          39.4287
+        ]
+      },
+      "properties": {
+        "reference": "US-0205",
+        "name": "Sacramento National Wildlife Refuge",
+        "latitude": 39.4287,
+        "longitude": -122.192,
+        "grid": "CM89vk",
+        "locationDesc": "US-CA",
+        "attempts": 36,
+        "activations": 31,
+        "qsos": 642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.011,
+          39.439
+        ]
+      },
+      "properties": {
+        "reference": "US-0206",
+        "name": "Sacramento River National Wildlife Refuge",
+        "latitude": 39.439,
+        "longitude": -122.011,
+        "grid": "CM89xk",
+        "locationDesc": "US-CA",
+        "attempts": 40,
+        "activations": 37,
+        "qsos": 857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.794,
+          36.7346
+        ]
+      },
+      "properties": {
+        "reference": "US-0207",
+        "name": "Salinas River National Wildlife Refuge",
+        "latitude": 36.7346,
+        "longitude": -121.794,
+        "grid": "CM96cr",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 31,
+        "qsos": 977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.846,
+          32.6843
+        ]
+      },
+      "properties": {
+        "reference": "US-0208",
+        "name": "San Diego National Wildlife Refuge",
+        "latitude": 32.6843,
+        "longitude": -116.846,
+        "grid": "DM12nq",
+        "locationDesc": "US-CA",
+        "attempts": 51,
+        "activations": 47,
+        "qsos": 1368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.11,
+          32.6412
+        ]
+      },
+      "properties": {
+        "reference": "US-0209",
+        "name": "San Diego Bay National Wildlife Refuge",
+        "latitude": 32.6412,
+        "longitude": -117.11,
+        "grid": "DM12kp",
+        "locationDesc": "US-CA",
+        "attempts": 66,
+        "activations": 63,
+        "qsos": 1633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.221,
+          37.6126
+        ]
+      },
+      "properties": {
+        "reference": "US-0210",
+        "name": "San Joaquin River National Wildlife Refuge",
+        "latitude": 37.6126,
+        "longitude": -121.221,
+        "grid": "CM97jo",
+        "locationDesc": "US-CA",
+        "attempts": 91,
+        "activations": 85,
+        "qsos": 2746
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.819,
+          37.1519
+        ]
+      },
+      "properties": {
+        "reference": "US-0211",
+        "name": "San Luis National Wildlife Refuge",
+        "latitude": 37.1519,
+        "longitude": -120.819,
+        "grid": "CM97od",
+        "locationDesc": "US-CA",
+        "attempts": 57,
+        "activations": 56,
+        "qsos": 2235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.465,
+          38.1407
+        ]
+      },
+      "properties": {
+        "reference": "US-0212",
+        "name": "San Pablo Bay National Wildlife Refuge",
+        "latitude": 38.1407,
+        "longitude": -122.465,
+        "grid": "CM88sd",
+        "locationDesc": "US-CA",
+        "attempts": 138,
+        "activations": 130,
+        "qsos": 5317
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.615,
+          33.1775
+        ]
+      },
+      "properties": {
+        "reference": "US-0214",
+        "name": "Sonny Bono Salton Sea National Wildlife Refuge",
+        "latitude": 33.1775,
+        "longitude": -115.615,
+        "grid": "DM23ee",
+        "locationDesc": "US-CA",
+        "attempts": 49,
+        "activations": 46,
+        "qsos": 1198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.495,
+          38.371
+        ]
+      },
+      "properties": {
+        "reference": "US-0215",
+        "name": "Stone Lakes National Wildlife Refuge",
+        "latitude": 38.371,
+        "longitude": -121.495,
+        "grid": "CM98gi",
+        "locationDesc": "US-CA",
+        "attempts": 75,
+        "activations": 68,
+        "qsos": 2888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.127,
+          32.5756
+        ]
+      },
+      "properties": {
+        "reference": "US-0217",
+        "name": "Tijuana Slough National Wildlife Refuge",
+        "latitude": 32.5756,
+        "longitude": -117.127,
+        "grid": "DM12kn",
+        "locationDesc": "US-CA",
+        "attempts": 57,
+        "activations": 52,
+        "qsos": 1208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.565,
+          41.9468
+        ]
+      },
+      "properties": {
+        "reference": "US-0218",
+        "name": "Tule Lake National Wildlife Refuge",
+        "latitude": 41.9468,
+        "longitude": -121.565,
+        "grid": "CN91fw",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 446
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.364,
+          34.4318
+        ]
+      },
+      "properties": {
+        "reference": "US-0639",
+        "name": "Los Padres National Forest",
+        "latitude": 34.4318,
+        "longitude": -119.364,
+        "grid": "DM04hk",
+        "locationDesc": "US-CA",
+        "attempts": 349,
+        "activations": 311,
+        "qsos": 17676
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.146,
+          36.4945
+        ]
+      },
+      "properties": {
+        "reference": "US-0640",
+        "name": "Pinnacles National Park",
+        "latitude": 36.4945,
+        "longitude": -121.146,
+        "grid": "CM96kl",
+        "locationDesc": "US-CA",
+        "attempts": 220,
+        "activations": 198,
+        "qsos": 19081
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.525,
+          37.8308
+        ]
+      },
+      "properties": {
+        "reference": "US-0647",
+        "name": "Golden Gate National Recreation Area",
+        "latitude": 37.8308,
+        "longitude": -122.525,
+        "grid": "CM87rt",
+        "locationDesc": "US-CA",
+        "attempts": 285,
+        "activations": 235,
+        "qsos": 7231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.708,
+          34.103
+        ]
+      },
+      "properties": {
+        "reference": "US-0648",
+        "name": "Santa Monica Mountains National Recreation Area",
+        "latitude": 34.103,
+        "longitude": -118.708,
+        "grid": "DM04pc",
+        "locationDesc": "US-CA",
+        "attempts": 673,
+        "activations": 603,
+        "qsos": 19655
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.573,
+          40.616
+        ]
+      },
+      "properties": {
+        "reference": "US-0649",
+        "name": "Whiskeytown-Shasta-Trinity National Recreation Area",
+        "latitude": 40.616,
+        "longitude": -122.573,
+        "grid": "CN80ro",
+        "locationDesc": "US-CA",
+        "attempts": 55,
+        "activations": 54,
+        "qsos": 1577
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.653,
+          35.012
+        ]
+      },
+      "properties": {
+        "reference": "US-0650",
+        "name": "Mojave Preserve National Conservation Area",
+        "latitude": 35.012,
+        "longitude": -115.653,
+        "grid": "DM25ea",
+        "locationDesc": "US-CA",
+        "attempts": 162,
+        "activations": 140,
+        "qsos": 3914
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.869,
+          38.1109
+        ]
+      },
+      "properties": {
+        "reference": "US-0651",
+        "name": "Point Reyes National Seashore",
+        "latitude": 38.1109,
+        "longitude": -122.869,
+        "grid": "CM88nc",
+        "locationDesc": "US-CA",
+        "attempts": 175,
+        "activations": 142,
+        "qsos": 6401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.357,
+          37.9097
+        ]
+      },
+      "properties": {
+        "reference": "US-0754",
+        "name": "Rosie the Riveter WWII Home Front National Historical Park",
+        "latitude": 37.9097,
+        "longitude": -122.357,
+        "grid": "CM87tv",
+        "locationDesc": "US-CA",
+        "attempts": 55,
+        "activations": 50,
+        "qsos": 2628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426,
+          37.8064
+        ]
+      },
+      "properties": {
+        "reference": "US-0757",
+        "name": "San Francisco Maritime National Historical Park",
+        "latitude": 37.8064,
+        "longitude": -122.426,
+        "grid": "CM87st",
+        "locationDesc": "US-CA",
+        "attempts": 60,
+        "activations": 50,
+        "qsos": 1845
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.027,
+          37.826
+        ]
+      },
+      "properties": {
+        "reference": "US-0812",
+        "name": "Eugene O'Neill National Historic Site",
+        "latitude": 37.826,
+        "longitude": -122.027,
+        "grid": "CM87xt",
+        "locationDesc": "US-CA",
+        "attempts": 19,
+        "activations": 18,
+        "qsos": 504
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.477,
+          37.8107
+        ]
+      },
+      "properties": {
+        "reference": "US-0819",
+        "name": "Fort Point National Historic Site",
+        "latitude": 37.8107,
+        "longitude": -122.477,
+        "grid": "CM87st",
+        "locationDesc": "US-CA",
+        "attempts": 96,
+        "activations": 82,
+        "qsos": 2813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.131,
+          37.9922
+        ]
+      },
+      "properties": {
+        "reference": "US-0839",
+        "name": "John Muir National Historic Site",
+        "latitude": 37.9922,
+        "longitude": -122.131,
+        "grid": "CM87wx",
+        "locationDesc": "US-CA",
+        "attempts": 60,
+        "activations": 55,
+        "qsos": 1396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.147,
+          36.7282
+        ]
+      },
+      "properties": {
+        "reference": "US-0845",
+        "name": "Manzanar National Historic Site",
+        "latitude": 36.7282,
+        "longitude": -118.147,
+        "grid": "DM06wr",
+        "locationDesc": "US-CA",
+        "attempts": 54,
+        "activations": 51,
+        "qsos": 1540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.875,
+          36.8423
+        ]
+      },
+      "properties": {
+        "reference": "US-0884",
+        "name": "Kings River National Wild and Scenic River",
+        "latitude": 36.8423,
+        "longitude": -118.875,
+        "grid": "DM06nu",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 4,
+        "qsos": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.062,
+          37.8378
+        ]
+      },
+      "properties": {
+        "reference": "US-0894",
+        "name": "Tuolumne National Wild and Scenic River",
+        "latitude": 37.8378,
+        "longitude": -120.062,
+        "grid": "CM97xu",
+        "locationDesc": "US-CA",
+        "attempts": 9,
+        "activations": 7,
+        "qsos": 228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.243,
+          32.6735
+        ]
+      },
+      "properties": {
+        "reference": "US-0907",
+        "name": "Cabrillo National Monument",
+        "latitude": 32.6735,
+        "longitude": -117.243,
+        "grid": "DM12jq",
+        "locationDesc": "US-CA",
+        "attempts": 142,
+        "activations": 131,
+        "qsos": 4465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.562,
+          35.2282
+        ]
+      },
+      "properties": {
+        "reference": "US-0915",
+        "name": "Cesar E. Chavez National Monument",
+        "latitude": 35.2282,
+        "longitude": -118.562,
+        "grid": "DM05rf",
+        "locationDesc": "US-CA",
+        "attempts": 42,
+        "activations": 34,
+        "qsos": 782
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.085,
+          37.6251
+        ]
+      },
+      "properties": {
+        "reference": "US-0919",
+        "name": "Devils Postpile National Monument",
+        "latitude": 37.6251,
+        "longitude": -119.085,
+        "grid": "DM07kp",
+        "locationDesc": "US-CA",
+        "attempts": 25,
+        "activations": 22,
+        "qsos": 1438
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.51,
+          41.7142
+        ]
+      },
+      "properties": {
+        "reference": "US-0946",
+        "name": "Lava Beds National Monument",
+        "latitude": 41.7142,
+        "longitude": -121.51,
+        "grid": "CN91fr",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 31,
+        "qsos": 955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.572,
+          37.8922
+        ]
+      },
+      "properties": {
+        "reference": "US-0949",
+        "name": "Muir Woods National Monument",
+        "latitude": 37.8922,
+        "longitude": -122.572,
+        "grid": "CM87rv",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 14,
+        "qsos": 378
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.078,
+          35.3166
+        ]
+      },
+      "properties": {
+        "reference": "US-0976",
+        "name": "Castle Mountains National Monument",
+        "latitude": 35.3166,
+        "longitude": -115.078,
+        "grid": "DM25lh",
+        "locationDesc": "US-CA",
+        "attempts": 21,
+        "activations": 21,
+        "qsos": 735
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.412,
+          41.0999
+        ]
+      },
+      "properties": {
+        "reference": "US-1121",
+        "name": "Ahjumawi Lava Springs State Park",
+        "latitude": 41.0999,
+        "longitude": -121.412,
+        "grid": "CN91hc",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 5,
+        "qsos": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.844,
+          36.2884
+        ]
+      },
+      "properties": {
+        "reference": "US-1122",
+        "name": "Andrew Molera State Park",
+        "latitude": 36.2884,
+        "longitude": -121.844,
+        "grid": "CM96bg",
+        "locationDesc": "US-CA",
+        "attempts": 10,
+        "activations": 7,
+        "qsos": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.433,
+          37.8629
+        ]
+      },
+      "properties": {
+        "reference": "US-1123",
+        "name": "Angel Island State Park",
+        "latitude": 37.8629,
+        "longitude": -122.433,
+        "grid": "CM87su",
+        "locationDesc": "US-CA",
+        "attempts": 67,
+        "activations": 54,
+        "qsos": 1653
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.616,
+          38.4246
+        ]
+      },
+      "properties": {
+        "reference": "US-1124",
+        "name": "Trione-Annadel State Park",
+        "latitude": 38.4246,
+        "longitude": -122.616,
+        "grid": "CM88qk",
+        "locationDesc": "US-CA",
+        "attempts": 46,
+        "activations": 44,
+        "qsos": 1366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.307,
+          37.1204
+        ]
+      },
+      "properties": {
+        "reference": "US-1125",
+        "name": "Año Nuevo State Park",
+        "latitude": 37.1204,
+        "longitude": -122.307,
+        "grid": "CM87uc",
+        "locationDesc": "US-CA",
+        "attempts": 46,
+        "activations": 38,
+        "qsos": 1373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.403,
+          33.2559
+        ]
+      },
+      "properties": {
+        "reference": "US-1126",
+        "name": "Anza Borrego Desert State Park",
+        "latitude": 33.2559,
+        "longitude": -116.403,
+        "grid": "DM13tg",
+        "locationDesc": "US-CA",
+        "attempts": 295,
+        "activations": 260,
+        "qsos": 8755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.495,
+          34.7518
+        ]
+      },
+      "properties": {
+        "reference": "US-1127",
+        "name": "Arthur B. Ripley Desert Woodland State Park",
+        "latitude": 34.7518,
+        "longitude": -118.495,
+        "grid": "DM04ss",
+        "locationDesc": "US-CA",
+        "attempts": 42,
+        "activations": 42,
+        "qsos": 1565
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.946,
+          39.7265
+        ]
+      },
+      "properties": {
+        "reference": "US-1128",
+        "name": "Bidwell-Sacramento River State Park",
+        "latitude": 39.7265,
+        "longitude": -121.946,
+        "grid": "CM99ar",
+        "locationDesc": "US-CA",
+        "attempts": 76,
+        "activations": 68,
+        "qsos": 1634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.222,
+          37.1723
+        ]
+      },
+      "properties": {
+        "reference": "US-1129",
+        "name": "Big Basin Redwoods State Park",
+        "latitude": 37.1723,
+        "longitude": -122.222,
+        "grid": "CM87ve",
+        "locationDesc": "US-CA",
+        "attempts": 34,
+        "activations": 28,
+        "qsos": 649
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.106,
+          32.5435
+        ]
+      },
+      "properties": {
+        "reference": "US-1130",
+        "name": "Border Field State Park",
+        "latitude": 32.5435,
+        "longitude": -117.106,
+        "grid": "DM12kn",
+        "locationDesc": "US-CA",
+        "attempts": 25,
+        "activations": 24,
+        "qsos": 805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.522,
+          38.5519
+        ]
+      },
+      "properties": {
+        "reference": "US-1131",
+        "name": "Bothe-Napa Valley State Park",
+        "latitude": 38.5519,
+        "longitude": -122.522,
+        "grid": "CM88rn",
+        "locationDesc": "US-CA",
+        "attempts": 30,
+        "activations": 30,
+        "qsos": 865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.125,
+          39.1867
+        ]
+      },
+      "properties": {
+        "reference": "US-1132",
+        "name": "Burton Creek State Park",
+        "latitude": 39.1867,
+        "longitude": -120.125,
+        "grid": "CM99we",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 10,
+        "qsos": 252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34,
+          37.2024
+        ]
+      },
+      "properties": {
+        "reference": "US-1133",
+        "name": "Butano State Park",
+        "latitude": 37.2024,
+        "longitude": -122.34,
+        "grid": "CM87te",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.309,
+          38.2775
+        ]
+      },
+      "properties": {
+        "reference": "US-1134",
+        "name": "Calaveras Big Trees State Park",
+        "latitude": 38.2775,
+        "longitude": -120.309,
+        "grid": "CM98ug",
+        "locationDesc": "US-CA",
+        "attempts": 53,
+        "activations": 37,
+        "qsos": 948
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318,
+          41.15
+        ]
+      },
+      "properties": {
+        "reference": "US-1135",
+        "name": "Castle Crags State Park",
+        "latitude": 41.15,
+        "longitude": -122.318,
+        "grid": "CN81ud",
+        "locationDesc": "US-CA",
+        "attempts": 38,
+        "activations": 35,
+        "qsos": 872
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.096,
+          37.2306
+        ]
+      },
+      "properties": {
+        "reference": "US-1136",
+        "name": "Castle Rock State Park",
+        "latitude": 37.2306,
+        "longitude": -122.096,
+        "grid": "CM87wf",
+        "locationDesc": "US-CA",
+        "attempts": 305,
+        "activations": 280,
+        "qsos": 15231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.182,
+          37.6959
+        ]
+      },
+      "properties": {
+        "reference": "US-1137",
+        "name": "Caswell Memorial State Park",
+        "latitude": 37.6959,
+        "longitude": -121.182,
+        "grid": "CM97jq",
+        "locationDesc": "US-CA",
+        "attempts": 37,
+        "activations": 30,
+        "qsos": 880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.467,
+          38.0027
+        ]
+      },
+      "properties": {
+        "reference": "US-1138",
+        "name": "China Camp State Park",
+        "latitude": 38.0027,
+        "longitude": -122.467,
+        "grid": "CM88sa",
+        "locationDesc": "US-CA",
+        "attempts": 99,
+        "activations": 93,
+        "qsos": 2633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.828,
+          33.9208
+        ]
+      },
+      "properties": {
+        "reference": "US-1139",
+        "name": "Chino Hills State Park",
+        "latitude": 33.9208,
+        "longitude": -117.828,
+        "grid": "DM13cw",
+        "locationDesc": "US-CA",
+        "attempts": 555,
+        "activations": 514,
+        "qsos": 17460
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.815,
+          39.0077
+        ]
+      },
+      "properties": {
+        "reference": "US-1140",
+        "name": "Clear Lake State Park",
+        "latitude": 39.0077,
+        "longitude": -122.815,
+        "grid": "CM89oa",
+        "locationDesc": "US-CA",
+        "attempts": 53,
+        "activations": 40,
+        "qsos": 1584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.825,
+          33.5661
+        ]
+      },
+      "properties": {
+        "reference": "US-1141",
+        "name": "Crystal Cove State Park",
+        "latitude": 33.5661,
+        "longitude": -117.825,
+        "grid": "DM13cn",
+        "locationDesc": "US-CA",
+        "attempts": 231,
+        "activations": 210,
+        "qsos": 8537
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.56,
+          32.9283
+        ]
+      },
+      "properties": {
+        "reference": "US-1142",
+        "name": "Cuyamaca Rancho State Park",
+        "latitude": 32.9283,
+        "longitude": -116.56,
+        "grid": "DM12rw",
+        "locationDesc": "US-CA",
+        "attempts": 120,
+        "activations": 110,
+        "qsos": 2785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.109,
+          41.624
+        ]
+      },
+      "properties": {
+        "reference": "US-1143",
+        "name": "Del Norte Coast Redwoods State Park",
+        "latitude": 41.624,
+        "longitude": -124.109,
+        "grid": "CN71wo",
+        "locationDesc": "US-CA",
+        "attempts": 24,
+        "activations": 15,
+        "qsos": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.103,
+          38.9779
+        ]
+      },
+      "properties": {
+        "reference": "US-1144",
+        "name": "D L Bliss State Park",
+        "latitude": 38.9779,
+        "longitude": -120.103,
+        "grid": "CM98wx",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 11,
+        "qsos": 183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.233,
+          39.3247
+        ]
+      },
+      "properties": {
+        "reference": "US-1145",
+        "name": "Donner Memorial State Park",
+        "latitude": 39.3247,
+        "longitude": -120.233,
+        "grid": "CM99vh",
+        "locationDesc": "US-CA",
+        "attempts": 157,
+        "activations": 146,
+        "qsos": 4813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.121,
+          39.0583
+        ]
+      },
+      "properties": {
+        "reference": "US-1146",
+        "name": "Ed Z'berg Sugar Pine Point State Park",
+        "latitude": 39.0583,
+        "longitude": -120.121,
+        "grid": "CM99wb",
+        "locationDesc": "US-CA",
+        "attempts": 50,
+        "activations": 46,
+        "qsos": 1112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.11,
+          38.9542
+        ]
+      },
+      "properties": {
+        "reference": "US-1147",
+        "name": "Emerald Bay State Park",
+        "latitude": 38.9542,
+        "longitude": -120.11,
+        "grid": "CM98ww",
+        "locationDesc": "US-CA",
+        "attempts": 27,
+        "activations": 27,
+        "qsos": 593
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.952,
+          35.4502
+        ]
+      },
+      "properties": {
+        "reference": "US-1148",
+        "name": "Estero Bluffs State Park",
+        "latitude": 35.4502,
+        "longitude": -120.952,
+        "grid": "CM95mk",
+        "locationDesc": "US-CA",
+        "attempts": 122,
+        "activations": 118,
+        "qsos": 5401
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.876,
+          37.0625
+        ]
+      },
+      "properties": {
+        "reference": "US-1149",
+        "name": "The Forest of Nisene Marks State Park",
+        "latitude": 37.0625,
+        "longitude": -121.876,
+        "grid": "CM97bb",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 27,
+        "qsos": 599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.821,
+          36.6603
+        ]
+      },
+      "properties": {
+        "reference": "US-1150",
+        "name": "Fort Ord Dunes State Park",
+        "latitude": 36.6603,
+        "longitude": -121.821,
+        "grid": "CM96cp",
+        "locationDesc": "US-CA",
+        "attempts": 96,
+        "activations": 91,
+        "qsos": 3901
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.503,
+          36.7619
+        ]
+      },
+      "properties": {
+        "reference": "US-1151",
+        "name": "Fremont Peak State Park",
+        "latitude": 36.7619,
+        "longitude": -121.503,
+        "grid": "CM96fs",
+        "locationDesc": "US-CA",
+        "attempts": 69,
+        "activations": 61,
+        "qsos": 4558
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.923,
+          36.4556
+        ]
+      },
+      "properties": {
+        "reference": "US-1152",
+        "name": "Garrapata State Park",
+        "latitude": 36.4556,
+        "longitude": -121.923,
+        "grid": "CM96ak",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 10,
+        "qsos": 355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23,
+          34.4776
+        ]
+      },
+      "properties": {
+        "reference": "US-1153",
+        "name": "Gaviota State Park",
+        "latitude": 34.4776,
+        "longitude": -120.23,
+        "grid": "CM94vl",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 28,
+        "qsos": 834
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.864,
+          37.281
+        ]
+      },
+      "properties": {
+        "reference": "US-1154",
+        "name": "Great Valley Grasslands State Park",
+        "latitude": 37.281,
+        "longitude": -120.864,
+        "grid": "CM97ng",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 27,
+        "qsos": 824
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.906,
+          40.4864
+        ]
+      },
+      "properties": {
+        "reference": "US-1155",
+        "name": "Grizzly Creek Redwoods State Park",
+        "latitude": 40.4864,
+        "longitude": -123.906,
+        "grid": "CN80bl",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 3,
+        "qsos": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.844,
+          38.696
+        ]
+      },
+      "properties": {
+        "reference": "US-1156",
+        "name": "Grover Hot Springs State Park",
+        "latitude": 38.696,
+        "longitude": -119.844,
+        "grid": "DM08bq",
+        "locationDesc": "US-CA",
+        "attempts": 14,
+        "activations": 12,
+        "qsos": 262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.992,
+          35.4778
+        ]
+      },
+      "properties": {
+        "reference": "US-1157",
+        "name": "Harmony Headlands State Park",
+        "latitude": 35.4778,
+        "longitude": -120.992,
+        "grid": "CM95ml",
+        "locationDesc": "US-CA",
+        "attempts": 30,
+        "activations": 29,
+        "qsos": 646
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.111,
+          35.597
+        ]
+      },
+      "properties": {
+        "reference": "US-1158",
+        "name": "Hearst San Simeon State Park",
+        "latitude": 35.597,
+        "longitude": -121.111,
+        "grid": "CM95ko",
+        "locationDesc": "US-CA",
+        "attempts": 99,
+        "activations": 90,
+        "qsos": 5217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.466,
+          39.0743
+        ]
+      },
+      "properties": {
+        "reference": "US-1159",
+        "name": "Hendy Woods State Park",
+        "latitude": 39.0743,
+        "longitude": -123.466,
+        "grid": "CM89gb",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 21,
+        "qsos": 838
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.067,
+          37.0414
+        ]
+      },
+      "properties": {
+        "reference": "US-1160",
+        "name": "Henry Cowell Redwoods State Park",
+        "latitude": 37.0414,
+        "longitude": -122.067,
+        "grid": "CM87xa",
+        "locationDesc": "US-CA",
+        "attempts": 154,
+        "activations": 146,
+        "qsos": 9474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.547,
+          37.1864
+        ]
+      },
+      "properties": {
+        "reference": "US-1161",
+        "name": "Henry W. Coe State Park",
+        "latitude": 37.1864,
+        "longitude": -121.547,
+        "grid": "CM97fe",
+        "locationDesc": "US-CA",
+        "attempts": 92,
+        "activations": 83,
+        "qsos": 3283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.108,
+          41.2224
+        ]
+      },
+      "properties": {
+        "reference": "US-1162",
+        "name": "Humboldt Lagoons State Park",
+        "latitude": 41.2224,
+        "longitude": -124.108,
+        "grid": "CN71wf",
+        "locationDesc": "US-CA",
+        "attempts": 17,
+        "activations": 14,
+        "qsos": 396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.802,
+          40.2234
+        ]
+      },
+      "properties": {
+        "reference": "US-1163",
+        "name": "Humboldt Redwoods State Park",
+        "latitude": 40.2234,
+        "longitude": -123.802,
+        "grid": "CN80cf",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 10,
+        "qsos": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.113,
+          41.8095
+        ]
+      },
+      "properties": {
+        "reference": "US-1164",
+        "name": "Jedediah Smith Redwoods State Park",
+        "latitude": 41.8095,
+        "longitude": -124.113,
+        "grid": "CN71wt",
+        "locationDesc": "US-CA",
+        "attempts": 19,
+        "activations": 14,
+        "qsos": 259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.672,
+          36.1692
+        ]
+      },
+      "properties": {
+        "reference": "US-1165",
+        "name": "Julia Pfeiffer Burns State Park",
+        "latitude": 36.1692,
+        "longitude": -121.672,
+        "grid": "CM96de",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 6,
+        "qsos": 139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.934,
+          34.046
+        ]
+      },
+      "properties": {
+        "reference": "US-1166",
+        "name": "Leo Carrillo State Park",
+        "latitude": 34.046,
+        "longitude": -118.934,
+        "grid": "DM04mb",
+        "locationDesc": "US-CA",
+        "attempts": 65,
+        "activations": 53,
+        "qsos": 1501
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.519,
+          36.0094
+        ]
+      },
+      "properties": {
+        "reference": "US-1167",
+        "name": "Limekiln State Park",
+        "latitude": 36.0094,
+        "longitude": -121.519,
+        "grid": "CM96fa",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 4,
+        "qsos": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.788,
+          39.4886
+        ]
+      },
+      "properties": {
+        "reference": "US-1168",
+        "name": "MacKerricher State Park",
+        "latitude": 39.4886,
+        "longitude": -123.788,
+        "grid": "CM89cl",
+        "locationDesc": "US-CA",
+        "attempts": 28,
+        "activations": 24,
+        "qsos": 772
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.722,
+          34.0979
+        ]
+      },
+      "properties": {
+        "reference": "US-1169",
+        "name": "Malibu Creek State Park",
+        "latitude": 34.0979,
+        "longitude": -118.722,
+        "grid": "DM04pc",
+        "locationDesc": "US-CA",
+        "attempts": 126,
+        "activations": 121,
+        "qsos": 4902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.699,
+          38.9821
+        ]
+      },
+      "properties": {
+        "reference": "US-1170",
+        "name": "Manchester State Park",
+        "latitude": 38.9821,
+        "longitude": -123.699,
+        "grid": "CM88dx",
+        "locationDesc": "US-CA",
+        "attempts": 23,
+        "activations": 20,
+        "qsos": 367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.651,
+          41.0149
+        ]
+      },
+      "properties": {
+        "reference": "US-1171",
+        "name": "McArthur-Burney Falls Memorial State Park",
+        "latitude": 41.0149,
+        "longitude": -121.651,
+        "grid": "CN91ea",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 11,
+        "qsos": 336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.806,
+          39.309
+        ]
+      },
+      "properties": {
+        "reference": "US-1172",
+        "name": "Mendocino Headlands State Park",
+        "latitude": 39.309,
+        "longitude": -123.806,
+        "grid": "CM89ch",
+        "locationDesc": "US-CA",
+        "attempts": 23,
+        "activations": 18,
+        "qsos": 366
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.707,
+          39.3164
+        ]
+      },
+      "properties": {
+        "reference": "US-1173",
+        "name": "Mendocino Woodlands State Park",
+        "latitude": 39.3164,
+        "longitude": -123.707,
+        "grid": "CM89dh",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 2,
+        "qsos": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.889,
+          35.2729
+        ]
+      },
+      "properties": {
+        "reference": "US-1174",
+        "name": "Montana de Oro State Park",
+        "latitude": 35.2729,
+        "longitude": -120.889,
+        "grid": "CM95ng",
+        "locationDesc": "US-CA",
+        "attempts": 153,
+        "activations": 135,
+        "qsos": 6176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.827,
+          35.3428
+        ]
+      },
+      "properties": {
+        "reference": "US-1175",
+        "name": "Morro Bay State Park",
+        "latitude": 35.3428,
+        "longitude": -120.827,
+        "grid": "CM95oi",
+        "locationDesc": "US-CA",
+        "attempts": 188,
+        "activations": 169,
+        "qsos": 6037
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.949,
+          37.8438
+        ]
+      },
+      "properties": {
+        "reference": "US-1176",
+        "name": "Mount Diablo State Park",
+        "latitude": 37.8438,
+        "longitude": -121.949,
+        "grid": "CM97au",
+        "locationDesc": "US-CA",
+        "attempts": 439,
+        "activations": 363,
+        "qsos": 9854
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.669,
+          33.8098
+        ]
+      },
+      "properties": {
+        "reference": "US-1177",
+        "name": "Mount San Jacinto State Park",
+        "latitude": 33.8098,
+        "longitude": -116.669,
+        "grid": "DM13pt",
+        "locationDesc": "US-CA",
+        "attempts": 60,
+        "activations": 54,
+        "qsos": 1465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.604,
+          37.9043
+        ]
+      },
+      "properties": {
+        "reference": "US-1178",
+        "name": "Mount Tamalpais State Park",
+        "latitude": 37.9043,
+        "longitude": -122.604,
+        "grid": "CM87qv",
+        "locationDesc": "US-CA",
+        "attempts": 112,
+        "activations": 94,
+        "qsos": 2701
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.69,
+          39.1768
+        ]
+      },
+      "properties": {
+        "reference": "US-1179",
+        "name": "Navarro River Redwoods State Park",
+        "latitude": 39.1768,
+        "longitude": -123.69,
+        "grid": "CM89de",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 8,
+        "qsos": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.217,
+          37.0655
+        ]
+      },
+      "properties": {
+        "reference": "US-1180",
+        "name": "Pacheco State Park",
+        "latitude": 37.0655,
+        "longitude": -121.217,
+        "grid": "CM97jb",
+        "locationDesc": "US-CA",
+        "attempts": 47,
+        "activations": 46,
+        "qsos": 2007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.906,
+          33.332
+        ]
+      },
+      "properties": {
+        "reference": "US-1181",
+        "name": "Palomar Mountain State Park",
+        "latitude": 33.332,
+        "longitude": -116.906,
+        "grid": "DM13nh",
+        "locationDesc": "US-CA",
+        "attempts": 87,
+        "activations": 76,
+        "qsos": 2047
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.155,
+          41.1365
+        ]
+      },
+      "properties": {
+        "reference": "US-1182",
+        "name": "Sue-Meg State Park",
+        "latitude": 41.1365,
+        "longitude": -124.155,
+        "grid": "CN71wd",
+        "locationDesc": "US-CA",
+        "attempts": 28,
+        "activations": 20,
+        "qsos": 1084
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.781,
+          36.2479
+        ]
+      },
+      "properties": {
+        "reference": "US-1183",
+        "name": "Pfeiffer Big Sur State Park",
+        "latitude": 36.2479,
+        "longitude": -121.781,
+        "grid": "CM96cf",
+        "locationDesc": "US-CA",
+        "attempts": 15,
+        "activations": 11,
+        "qsos": 277
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.47,
+          34.377
+        ]
+      },
+      "properties": {
+        "reference": "US-1184",
+        "name": "Placerita Canyon State Park",
+        "latitude": 34.377,
+        "longitude": -118.47,
+        "grid": "DM04sj",
+        "locationDesc": "US-CA",
+        "attempts": 106,
+        "activations": 95,
+        "qsos": 4559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.697,
+          39.7569
+        ]
+      },
+      "properties": {
+        "reference": "US-1185",
+        "name": "Plumas Eureka State Park",
+        "latitude": 39.7569,
+        "longitude": -120.697,
+        "grid": "CM99ps",
+        "locationDesc": "US-CA",
+        "attempts": 37,
+        "activations": 29,
+        "qsos": 1358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.012,
+          34.0703
+        ]
+      },
+      "properties": {
+        "reference": "US-1186",
+        "name": "Point Mugu State Park",
+        "latitude": 34.0703,
+        "longitude": -119.012,
+        "grid": "DM04lb",
+        "locationDesc": "US-CA",
+        "attempts": 174,
+        "activations": 158,
+        "qsos": 4759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.213,
+          37.2879
+        ]
+      },
+      "properties": {
+        "reference": "US-1187",
+        "name": "Portola Redwoods State Park",
+        "latitude": 37.2879,
+        "longitude": -122.213,
+        "grid": "CM87vg",
+        "locationDesc": "US-CA",
+        "attempts": 47,
+        "activations": 30,
+        "qsos": 625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.036,
+          41.4102
+        ]
+      },
+      "properties": {
+        "reference": "US-1188",
+        "name": "Prairie Creek Redwoods State Park",
+        "latitude": 41.4102,
+        "longitude": -124.036,
+        "grid": "CN71xj",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 22,
+        "qsos": 403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.975,
+          35.3837
+        ]
+      },
+      "properties": {
+        "reference": "US-1189",
+        "name": "Red Rock Canyon State Park",
+        "latitude": 35.3837,
+        "longitude": -117.975,
+        "grid": "DM15aj",
+        "locationDesc": "US-CA",
+        "attempts": 63,
+        "activations": 60,
+        "qsos": 2476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.794,
+          40.0225
+        ]
+      },
+      "properties": {
+        "reference": "US-1190",
+        "name": "Richardson Grove State Park",
+        "latitude": 40.0225,
+        "longitude": -123.794,
+        "grid": "CN80ca",
+        "locationDesc": "US-CA",
+        "attempts": 6,
+        "activations": 6,
+        "qsos": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6,
+          38.6534
+        ]
+      },
+      "properties": {
+        "reference": "US-1191",
+        "name": "Robert Louis Stevenson State Park",
+        "latitude": 38.6534,
+        "longitude": -122.6,
+        "grid": "CM88qp",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 17,
+        "qsos": 687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.78,
+          39.3311
+        ]
+      },
+      "properties": {
+        "reference": "US-1192",
+        "name": "Russian Gulch State Park",
+        "latitude": 39.3311,
+        "longitude": -123.78,
+        "grid": "CM89ch",
+        "locationDesc": "US-CA",
+        "attempts": 17,
+        "activations": 13,
+        "qsos": 344
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.824,
+          34.6896
+        ]
+      },
+      "properties": {
+        "reference": "US-1193",
+        "name": "Saddleback Butte State Park",
+        "latitude": 34.6896,
+        "longitude": -117.824,
+        "grid": "DM14cq",
+        "locationDesc": "US-CA",
+        "attempts": 58,
+        "activations": 52,
+        "qsos": 1702
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.333,
+          38.5786
+        ]
+      },
+      "properties": {
+        "reference": "US-1194",
+        "name": "Salt Point State Park",
+        "latitude": 38.5786,
+        "longitude": -123.333,
+        "grid": "CM88in",
+        "locationDesc": "US-CA",
+        "attempts": 91,
+        "activations": 82,
+        "qsos": 2482
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73,
+          38.0197
+        ]
+      },
+      "properties": {
+        "reference": "US-1195",
+        "name": "Samuel P. Taylor State Park",
+        "latitude": 38.0197,
+        "longitude": -122.73,
+        "grid": "CM88pa",
+        "locationDesc": "US-CA",
+        "attempts": 27,
+        "activations": 24,
+        "qsos": 505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.434,
+          37.6969
+        ]
+      },
+      "properties": {
+        "reference": "US-1196",
+        "name": "San Bruno Mountain State Park",
+        "latitude": 37.6969,
+        "longitude": -122.434,
+        "grid": "CM87sq",
+        "locationDesc": "US-CA",
+        "attempts": 91,
+        "activations": 67,
+        "qsos": 1546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.918,
+          39.9002
+        ]
+      },
+      "properties": {
+        "reference": "US-1197",
+        "name": "Sinkyone Wilderness State Park",
+        "latitude": 39.9002,
+        "longitude": -123.918,
+        "grid": "CM89av",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 4,
+        "qsos": 114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.057,
+          38.342
+        ]
+      },
+      "properties": {
+        "reference": "US-1198",
+        "name": "Sonoma Coast State Park",
+        "latitude": 38.342,
+        "longitude": -123.057,
+        "grid": "CM88li",
+        "locationDesc": "US-CA",
+        "attempts": 175,
+        "activations": 141,
+        "qsos": 7316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.194,
+          39.2927
+        ]
+      },
+      "properties": {
+        "reference": "US-1199",
+        "name": "South Yuba River State Park",
+        "latitude": 39.2927,
+        "longitude": -121.194,
+        "grid": "CM99jh",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 10,
+        "qsos": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.513,
+          38.4366
+        ]
+      },
+      "properties": {
+        "reference": "US-1200",
+        "name": "Sugarloaf Ridge State Park",
+        "latitude": 38.4366,
+        "longitude": -122.513,
+        "grid": "CM88rk",
+        "locationDesc": "US-CA",
+        "attempts": 86,
+        "activations": 74,
+        "qsos": 3409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.204,
+          41.8701
+        ]
+      },
+      "properties": {
+        "reference": "US-1202",
+        "name": "Tolowa Dunes State Park",
+        "latitude": 41.8701,
+        "longitude": -124.204,
+        "grid": "CN71vu",
+        "locationDesc": "US-CA",
+        "attempts": 19,
+        "activations": 16,
+        "qsos": 347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.894,
+          38.1319
+        ]
+      },
+      "properties": {
+        "reference": "US-1203",
+        "name": "Tomales Bay State Park",
+        "latitude": 38.1319,
+        "longitude": -122.894,
+        "grid": "CM88nd",
+        "locationDesc": "US-CA",
+        "attempts": 34,
+        "activations": 26,
+        "qsos": 821
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.551,
+          34.0882
+        ]
+      },
+      "properties": {
+        "reference": "US-1204",
+        "name": "Topanga State Park",
+        "latitude": 34.0882,
+        "longitude": -118.551,
+        "grid": "DM04rc",
+        "locationDesc": "US-CA",
+        "attempts": 63,
+        "activations": 58,
+        "qsos": 1270
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.791,
+          39.2743
+        ]
+      },
+      "properties": {
+        "reference": "US-1205",
+        "name": "Van Damme State Park",
+        "latitude": 39.2743,
+        "longitude": -123.791,
+        "grid": "CM89cg",
+        "locationDesc": "US-CA",
+        "attempts": 15,
+        "activations": 13,
+        "qsos": 341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.028,
+          38.8719
+        ]
+      },
+      "properties": {
+        "reference": "US-1206",
+        "name": "Washoe Meadows State Park",
+        "latitude": 38.8719,
+        "longitude": -120.028,
+        "grid": "CM98xu",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.083,
+          36.9608
+        ]
+      },
+      "properties": {
+        "reference": "US-1207",
+        "name": "Wilder Ranch State Park",
+        "latitude": 36.9608,
+        "longitude": -122.083,
+        "grid": "CM86xx",
+        "locationDesc": "US-CA",
+        "attempts": 60,
+        "activations": 57,
+        "qsos": 1586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.617,
+          39.6469
+        ]
+      },
+      "properties": {
+        "reference": "US-3393",
+        "name": "Admiral William Standley State Recreation Area",
+        "latitude": 39.6469,
+        "longitude": -123.617,
+        "grid": "CM89ep",
+        "locationDesc": "US-CA",
+        "attempts": 2,
+        "activations": 2,
+        "qsos": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.316,
+          37.8896
+        ]
+      },
+      "properties": {
+        "reference": "US-3394",
+        "name": "Albany State Marine Reserve",
+        "latitude": 37.8896,
+        "longitude": -122.316,
+        "grid": "CM87uv",
+        "locationDesc": "US-CA",
+        "attempts": 52,
+        "activations": 44,
+        "qsos": 1007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.623,
+          38.9226
+        ]
+      },
+      "properties": {
+        "reference": "US-3395",
+        "name": "Anderson Marsh State Historical Park",
+        "latitude": 38.9226,
+        "longitude": -122.623,
+        "grid": "CM88qw",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 17,
+        "qsos": 452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39,
+          34.7252
+        ]
+      },
+      "properties": {
+        "reference": "US-3396",
+        "name": "Antelope Valley Poppy Reserve State Conservation Area",
+        "latitude": 34.7252,
+        "longitude": -118.39,
+        "grid": "DM04tr",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 32,
+        "qsos": 1372
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.85,
+          34.6492
+        ]
+      },
+      "properties": {
+        "reference": "US-3397",
+        "name": "Antelope Valley Indian Museum State Historical Park",
+        "latitude": 34.6492,
+        "longitude": -117.85,
+        "grid": "DM14bp",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 18,
+        "qsos": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.003,
+          38.5322
+        ]
+      },
+      "properties": {
+        "reference": "US-3398",
+        "name": "Armstrong Redwoods Reserve State Conservation Area",
+        "latitude": 38.5322,
+        "longitude": -123.003,
+        "grid": "CM88lm",
+        "locationDesc": "US-CA",
+        "attempts": 16,
+        "activations": 16,
+        "qsos": 380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94,
+          36.6238
+        ]
+      },
+      "properties": {
+        "reference": "US-3399",
+        "name": "Asilomar State State Beach",
+        "latitude": 36.6238,
+        "longitude": -121.94,
+        "grid": "CM96ao",
+        "locationDesc": "US-CA",
+        "attempts": 38,
+        "activations": 27,
+        "qsos": 983
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.975,
+          38.9672
+        ]
+      },
+      "properties": {
+        "reference": "US-3400",
+        "name": "Auburn State Recreation Area",
+        "latitude": 38.9672,
+        "longitude": -120.975,
+        "grid": "CM98mx",
+        "locationDesc": "US-CA",
+        "attempts": 343,
+        "activations": 310,
+        "qsos": 9849
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.08,
+          40.9183
+        ]
+      },
+      "properties": {
+        "reference": "US-3402",
+        "name": "Azalea Reserve State Conservation Area",
+        "latitude": 40.9183,
+        "longitude": -124.08,
+        "grid": "CN70xw",
+        "locationDesc": "US-CA",
+        "attempts": 15,
+        "activations": 11,
+        "qsos": 428
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.509,
+          38.5413
+        ]
+      },
+      "properties": {
+        "reference": "US-3403",
+        "name": "Bale Grist Mill State Historical Park",
+        "latitude": 38.5413,
+        "longitude": -122.509,
+        "grid": "CM88rm",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 11,
+        "qsos": 369
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.409,
+          37.2258
+        ]
+      },
+      "properties": {
+        "reference": "US-3404",
+        "name": "Bean Hollow State Beach",
+        "latitude": 37.2258,
+        "longitude": -122.409,
+        "grid": "CM87tf",
+        "locationDesc": "US-CA",
+        "attempts": 28,
+        "activations": 25,
+        "qsos": 684
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.793,
+          40.0619
+        ]
+      },
+      "properties": {
+        "reference": "US-3405",
+        "name": "Benbow Lake State Recreation Area",
+        "latitude": 40.0619,
+        "longitude": -123.793,
+        "grid": "CN80cb",
+        "locationDesc": "US-CA",
+        "attempts": 9,
+        "activations": 7,
+        "qsos": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.159,
+          38.05
+        ]
+      },
+      "properties": {
+        "reference": "US-3406",
+        "name": "Benicia Capitol State Historical Park",
+        "latitude": 38.05,
+        "longitude": -122.159,
+        "grid": "CM88wb",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 14,
+        "qsos": 377
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.193,
+          38.0781
+        ]
+      },
+      "properties": {
+        "reference": "US-3407",
+        "name": "Benicia State Recreation Area",
+        "latitude": 38.0781,
+        "longitude": -122.193,
+        "grid": "CM88vb",
+        "locationDesc": "US-CA",
+        "attempts": 270,
+        "activations": 253,
+        "qsos": 8178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.616,
+          37.7824
+        ]
+      },
+      "properties": {
+        "reference": "US-3408",
+        "name": "Bethany Reservoir State Recreation Area",
+        "latitude": 37.7824,
+        "longitude": -121.616,
+        "grid": "CM97es",
+        "locationDesc": "US-CA",
+        "attempts": 121,
+        "activations": 101,
+        "qsos": 3144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.843,
+          39.7324
+        ]
+      },
+      "properties": {
+        "reference": "US-3409",
+        "name": "Bidwell Mansion State Historical Park",
+        "latitude": 39.7324,
+        "longitude": -121.843,
+        "grid": "CM99br",
+        "locationDesc": "US-CA",
+        "attempts": 92,
+        "activations": 84,
+        "qsos": 1841
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.012,
+          38.2122
+        ]
+      },
+      "properties": {
+        "reference": "US-3410",
+        "name": "Bodie State Historical Park",
+        "latitude": 38.2122,
+        "longitude": -119.012,
+        "grid": "DM08lf",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 16,
+        "qsos": 431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.049,
+          33.6956
+        ]
+      },
+      "properties": {
+        "reference": "US-3411",
+        "name": "Bolsa Chica State Beach",
+        "latitude": 33.6956,
+        "longitude": -118.049,
+        "grid": "DM03xq",
+        "locationDesc": "US-CA",
+        "attempts": 523,
+        "activations": 498,
+        "qsos": 19938
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.427,
+          33.8993
+        ]
+      },
+      "properties": {
+        "reference": "US-3412",
+        "name": "California Citrus State Historical Park",
+        "latitude": 33.8993,
+        "longitude": -117.427,
+        "grid": "DM13gv",
+        "locationDesc": "US-CA",
+        "attempts": 124,
+        "activations": 112,
+        "qsos": 2957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.493,
+          38.5764
+        ]
+      },
+      "properties": {
+        "reference": "US-3413",
+        "name": "California State Capitol Museum Park",
+        "latitude": 38.5764,
+        "longitude": -121.493,
+        "grid": "CM98gn",
+        "locationDesc": "US-CA",
+        "attempts": 14,
+        "activations": 9,
+        "qsos": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.504,
+          38.5847
+        ]
+      },
+      "properties": {
+        "reference": "US-3415",
+        "name": "California State Railroad Museum State Park",
+        "latitude": 38.5847,
+        "longitude": -121.504,
+        "grid": "CM98fo",
+        "locationDesc": "US-CA",
+        "attempts": 24,
+        "activations": 21,
+        "qsos": 613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.617,
+          34.5276
+        ]
+      },
+      "properties": {
+        "reference": "US-3416",
+        "name": "Castaic Lake State Recreation Area",
+        "latitude": 34.5276,
+        "longitude": -118.617,
+        "grid": "DM04qm",
+        "locationDesc": "US-CA",
+        "attempts": 167,
+        "activations": 151,
+        "qsos": 7813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.813,
+          36.947
+        ]
+      },
+      "properties": {
+        "reference": "US-3417",
+        "name": "Castro Adobe Historic Site",
+        "latitude": 36.947,
+        "longitude": -121.813,
+        "grid": "CM96cw",
+        "locationDesc": "US-CA",
+        "attempts": 1,
+        "activations": 1,
+        "qsos": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.904,
+          35.4475
+        ]
+      },
+      "properties": {
+        "reference": "US-3418",
+        "name": "Cayucos State Beach",
+        "latitude": 35.4475,
+        "longitude": -120.904,
+        "grid": "CM95nk",
+        "locationDesc": "US-CA",
+        "attempts": 43,
+        "activations": 38,
+        "qsos": 1608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.788,
+          34.5039
+        ]
+      },
+      "properties": {
+        "reference": "US-3419",
+        "name": "Chumash Painted Cave State Historical Park",
+        "latitude": 34.5039,
+        "longitude": -119.788,
+        "grid": "DM04cm",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 5,
+        "qsos": 293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.612,
+          39.4837
+        ]
+      },
+      "properties": {
+        "reference": "US-3420",
+        "name": "Clay Pit State Vehicle Recreational Area",
+        "latitude": 39.4837,
+        "longitude": -121.612,
+        "grid": "CM99el",
+        "locationDesc": "US-CA",
+        "attempts": 20,
+        "activations": 19,
+        "qsos": 633
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.389,
+          35.8636
+        ]
+      },
+      "properties": {
+        "reference": "US-3421",
+        "name": "Colonel Allensworth State Historical Park",
+        "latitude": 35.8636,
+        "longitude": -119.389,
+        "grid": "DM05hu",
+        "locationDesc": "US-CA",
+        "attempts": 154,
+        "activations": 145,
+        "qsos": 5843
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.401,
+          38.0358
+        ]
+      },
+      "properties": {
+        "reference": "US-3422",
+        "name": "Columbia State Historical Park",
+        "latitude": 38.0358,
+        "longitude": -120.401,
+        "grid": "CM98ta",
+        "locationDesc": "US-CA",
+        "attempts": 20,
+        "activations": 16,
+        "qsos": 297
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.015,
+          39.2188
+        ]
+      },
+      "properties": {
+        "reference": "US-3423",
+        "name": "Colusa-Sacramento River State Recreation Area",
+        "latitude": 39.2188,
+        "longitude": -122.015,
+        "grid": "CM89xf",
+        "locationDesc": "US-CA",
+        "attempts": 41,
+        "activations": 37,
+        "qsos": 993
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.436,
+          33.9306
+        ]
+      },
+      "properties": {
+        "reference": "US-3425",
+        "name": "Dockweiler State Beach",
+        "latitude": 33.9306,
+        "longitude": -118.436,
+        "grid": "DM03sw",
+        "locationDesc": "US-CA",
+        "attempts": 191,
+        "activations": 169,
+        "qsos": 5487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.678,
+          33.4608
+        ]
+      },
+      "properties": {
+        "reference": "US-3426",
+        "name": "Doheny State Beach",
+        "latitude": 33.4608,
+        "longitude": -117.678,
+        "grid": "DM13dl",
+        "locationDesc": "US-CA",
+        "attempts": 144,
+        "activations": 131,
+        "qsos": 3362
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.306,
+          37.8661
+        ]
+      },
+      "properties": {
+        "reference": "US-3427",
+        "name": "McLaughlin Eastshore State Park",
+        "latitude": 37.8661,
+        "longitude": -122.306,
+        "grid": "CM87uu",
+        "locationDesc": "US-CA",
+        "attempts": 65,
+        "activations": 59,
+        "qsos": 1493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.698,
+          34.4226
+        ]
+      },
+      "properties": {
+        "reference": "US-3428",
+        "name": "El Presidio de Santa Barbara State Historical Park",
+        "latitude": 34.4226,
+        "longitude": -119.698,
+        "grid": "DM04dk",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 11,
+        "qsos": 267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.309,
+          37.8371
+        ]
+      },
+      "properties": {
+        "reference": "US-3429",
+        "name": "Emeryville Crescent State Marine Reserve",
+        "latitude": 37.8371,
+        "longitude": -122.309,
+        "grid": "CM87uu",
+        "locationDesc": "US-CA",
+        "attempts": 45,
+        "activations": 35,
+        "qsos": 708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.326,
+          34.2853
+        ]
+      },
+      "properties": {
+        "reference": "US-3430",
+        "name": "Emma Wood State Beach",
+        "latitude": 34.2853,
+        "longitude": -119.326,
+        "grid": "DM04ig",
+        "locationDesc": "US-CA",
+        "attempts": 66,
+        "activations": 61,
+        "qsos": 1512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.043,
+          39.2036
+        ]
+      },
+      "properties": {
+        "reference": "US-3431",
+        "name": "Empire Mine State Historical Park",
+        "latitude": 39.2036,
+        "longitude": -121.043,
+        "grid": "CM99le",
+        "locationDesc": "US-CA",
+        "attempts": 35,
+        "activations": 30,
+        "qsos": 581
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.116,
+          38.7455
+        ]
+      },
+      "properties": {
+        "reference": "US-3432",
+        "name": "Folsom Lake State Recreation Area",
+        "latitude": 38.7455,
+        "longitude": -121.116,
+        "grid": "CM98kr",
+        "locationDesc": "US-CA",
+        "attempts": 788,
+        "activations": 721,
+        "qsos": 27835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.176,
+          38.6806
+        ]
+      },
+      "properties": {
+        "reference": "US-3433",
+        "name": "Folsom Powerhouse State Historical Park",
+        "latitude": 38.6806,
+        "longitude": -121.176,
+        "grid": "CM98jq",
+        "locationDesc": "US-CA",
+        "attempts": 58,
+        "activations": 49,
+        "qsos": 985
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.189,
+          40.7769
+        ]
+      },
+      "properties": {
+        "reference": "US-3434",
+        "name": "Fort Humboldt State Historical Park",
+        "latitude": 40.7769,
+        "longitude": -124.189,
+        "grid": "CN70vs",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 12,
+        "qsos": 271
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.243,
+          38.5142
+        ]
+      },
+      "properties": {
+        "reference": "US-3435",
+        "name": "Fort Ross State Historical Park",
+        "latitude": 38.5142,
+        "longitude": -123.243,
+        "grid": "CM88jm",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 24,
+        "qsos": 607
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.893,
+          34.8746
+        ]
+      },
+      "properties": {
+        "reference": "US-3436",
+        "name": "Fort Tejon State Historical Park",
+        "latitude": 34.8746,
+        "longitude": -118.893,
+        "grid": "DM04nu",
+        "locationDesc": "US-CA",
+        "attempts": 52,
+        "activations": 42,
+        "qsos": 1497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.611,
+          38.0409
+        ]
+      },
+      "properties": {
+        "reference": "US-3437",
+        "name": "Franks Tract State Recreation Area",
+        "latitude": 38.0409,
+        "longitude": -121.611,
+        "grid": "CM98ea",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 4,
+        "qsos": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.719,
+          39.1306
+        ]
+      },
+      "properties": {
+        "reference": "US-3438",
+        "name": "Greenwood State Beach",
+        "latitude": 39.1306,
+        "longitude": -123.719,
+        "grid": "CM89dd",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 11,
+        "qsos": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.449,
+          37.4739
+        ]
+      },
+      "properties": {
+        "reference": "US-3439",
+        "name": "Half Moon Bay State Beach",
+        "latitude": 37.4739,
+        "longitude": -122.449,
+        "grid": "CM87sl",
+        "locationDesc": "US-CA",
+        "attempts": 94,
+        "activations": 80,
+        "qsos": 2472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.906,
+          36.5525
+        ]
+      },
+      "properties": {
+        "reference": "US-3440",
+        "name": "Hatton Canyon State Park",
+        "latitude": 36.5525,
+        "longitude": -121.906,
+        "grid": "CM96bn",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 2,
+        "qsos": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.167,
+          35.6852
+        ]
+      },
+      "properties": {
+        "reference": "US-3441",
+        "name": "Hearst San Simeon State Historic Site",
+        "latitude": 35.6852,
+        "longitude": -121.167,
+        "grid": "CM95jq",
+        "locationDesc": "US-CA",
+        "attempts": 43,
+        "activations": 43,
+        "qsos": 1982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.389,
+          32.7233
+        ]
+      },
+      "properties": {
+        "reference": "US-3442",
+        "name": "Heber Dunes State Vehicle Recreational Area",
+        "latitude": 32.7233,
+        "longitude": -115.389,
+        "grid": "DM22hr",
+        "locationDesc": "US-CA",
+        "attempts": 20,
+        "activations": 20,
+        "qsos": 552
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.414,
+          36.7713
+        ]
+      },
+      "properties": {
+        "reference": "US-3443",
+        "name": "Hollister Hills State Vehicle Recreational Area",
+        "latitude": 36.7713,
+        "longitude": -121.414,
+        "grid": "CM96hs",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 26,
+        "qsos": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.877,
+          34.7575
+        ]
+      },
+      "properties": {
+        "reference": "US-3444",
+        "name": "Hungry Valley State Vehicle Recreational Area",
+        "latitude": 34.7575,
+        "longitude": -118.877,
+        "grid": "DM04ns",
+        "locationDesc": "US-CA",
+        "attempts": 34,
+        "activations": 31,
+        "qsos": 1281
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.972,
+          33.6375
+        ]
+      },
+      "properties": {
+        "reference": "US-3445",
+        "name": "Huntington State Beach",
+        "latitude": 33.6375,
+        "longitude": -117.972,
+        "grid": "DM13ap",
+        "locationDesc": "US-CA",
+        "attempts": 236,
+        "activations": 228,
+        "qsos": 8049
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.643,
+          38.4242
+        ]
+      },
+      "properties": {
+        "reference": "US-3446",
+        "name": "Indian Grinding Rock State Historical Park",
+        "latitude": 38.4242,
+        "longitude": -120.643,
+        "grid": "CM98qk",
+        "locationDesc": "US-CA",
+        "attempts": 28,
+        "activations": 25,
+        "qsos": 720
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.31,
+          33.8372
+        ]
+      },
+      "properties": {
+        "reference": "US-3447",
+        "name": "Indio Hills Palms State Park",
+        "latitude": 33.8372,
+        "longitude": -116.31,
+        "grid": "DM13uu",
+        "locationDesc": "US-CA",
+        "attempts": 26,
+        "activations": 23,
+        "qsos": 662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.543,
+          38.3506
+        ]
+      },
+      "properties": {
+        "reference": "US-3448",
+        "name": "Jack London State Historical Park",
+        "latitude": 38.3506,
+        "longitude": -122.543,
+        "grid": "CM88ri",
+        "locationDesc": "US-CA",
+        "attempts": 60,
+        "activations": 54,
+        "qsos": 2150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.811,
+          40.1333
+        ]
+      },
+      "properties": {
+        "reference": "US-3449",
+        "name": "John B. Dewitt Redwoods Reserve State Conservation Area",
+        "latitude": 40.1333,
+        "longitude": -123.811,
+        "grid": "CN80cd",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.631,
+          36.1194
+        ]
+      },
+      "properties": {
+        "reference": "US-3450",
+        "name": "John Little Reserve State Conservation Area",
+        "latitude": 36.1194,
+        "longitude": -121.631,
+        "grid": "CM96ec",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 2,
+        "qsos": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.365,
+          34.0086
+        ]
+      },
+      "properties": {
+        "reference": "US-3451",
+        "name": "Kenneth Hahn State Recreation Area",
+        "latitude": 34.0086,
+        "longitude": -118.365,
+        "grid": "DM04ta",
+        "locationDesc": "US-CA",
+        "attempts": 198,
+        "activations": 178,
+        "qsos": 5004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.025,
+          39.2368
+        ]
+      },
+      "properties": {
+        "reference": "US-3452",
+        "name": "Kings Beach State Recreation Park",
+        "latitude": 39.2368,
+        "longitude": -120.025,
+        "grid": "CM99xf",
+        "locationDesc": "US-CA",
+        "attempts": 20,
+        "activations": 19,
+        "qsos": 439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.329,
+          38.5938
+        ]
+      },
+      "properties": {
+        "reference": "US-3453",
+        "name": "Kruse Rhododendron Reserve State Conservation Area",
+        "latitude": 38.5938,
+        "longitude": -123.329,
+        "grid": "CM88io",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 7,
+        "qsos": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.424,
+          34.6792
+        ]
+      },
+      "properties": {
+        "reference": "US-3454",
+        "name": "La Purisima Mission State Historical Park",
+        "latitude": 34.6792,
+        "longitude": -120.424,
+        "grid": "CM94sq",
+        "locationDesc": "US-CA",
+        "attempts": 52,
+        "activations": 43,
+        "qsos": 1111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7,
+          37.5887
+        ]
+      },
+      "properties": {
+        "reference": "US-3455",
+        "name": "Lake Del Valle State Recreation Area",
+        "latitude": 37.5887,
+        "longitude": -121.7,
+        "grid": "CM97do",
+        "locationDesc": "US-CA",
+        "attempts": 193,
+        "activations": 152,
+        "qsos": 3544
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.456,
+          39.5636
+        ]
+      },
+      "properties": {
+        "reference": "US-3456",
+        "name": "Lake Oroville State Recreation Area",
+        "latitude": 39.5636,
+        "longitude": -121.456,
+        "grid": "CM99gn",
+        "locationDesc": "US-CA",
+        "attempts": 41,
+        "activations": 34,
+        "qsos": 890
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.175,
+          33.857
+        ]
+      },
+      "properties": {
+        "reference": "US-3457",
+        "name": "Lake Perris State Recreation Area",
+        "latitude": 33.857,
+        "longitude": -117.175,
+        "grid": "DM13ju",
+        "locationDesc": "US-CA",
+        "attempts": 279,
+        "activations": 257,
+        "qsos": 11572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.007,
+          38.8712
+        ]
+      },
+      "properties": {
+        "reference": "US-3458",
+        "name": "Lake Valley State Recreation Area",
+        "latitude": 38.8712,
+        "longitude": -120.007,
+        "grid": "CM98xu",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.498,
+          38.5762
+        ]
+      },
+      "properties": {
+        "reference": "US-3459",
+        "name": "Leland Stanford Mansion State Historical Park",
+        "latitude": 38.5762,
+        "longitude": -121.498,
+        "grid": "CM98gn",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 3,
+        "qsos": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.305,
+          33.065
+        ]
+      },
+      "properties": {
+        "reference": "US-3460",
+        "name": "Leucadia State Beach",
+        "latitude": 33.065,
+        "longitude": -117.305,
+        "grid": "DM13ib",
+        "locationDesc": "US-CA",
+        "attempts": 30,
+        "activations": 27,
+        "qsos": 481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.028,
+          36.9519
+        ]
+      },
+      "properties": {
+        "reference": "US-3461",
+        "name": "Lighthouse Field State Beach",
+        "latitude": 36.9519,
+        "longitude": -122.028,
+        "grid": "CM86xw",
+        "locationDesc": "US-CA",
+        "attempts": 30,
+        "activations": 27,
+        "qsos": 869
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.234,
+          34.0661
+        ]
+      },
+      "properties": {
+        "reference": "US-3462",
+        "name": "Los Angeles State Historical Park",
+        "latitude": 34.0661,
+        "longitude": -118.234,
+        "grid": "DM04vb",
+        "locationDesc": "US-CA",
+        "attempts": 75,
+        "activations": 54,
+        "qsos": 1303
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.499,
+          34.1603
+        ]
+      },
+      "properties": {
+        "reference": "US-3463",
+        "name": "Los Encinos State Historical Park",
+        "latitude": 34.1603,
+        "longitude": -118.499,
+        "grid": "DM04sd",
+        "locationDesc": "US-CA",
+        "attempts": 31,
+        "activations": 24,
+        "qsos": 634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.814,
+          35.3064
+        ]
+      },
+      "properties": {
+        "reference": "US-3464",
+        "name": "Los Osos Oaks Reserve State Conservation Area",
+        "latitude": 35.3064,
+        "longitude": -120.814,
+        "grid": "CM95oh",
+        "locationDesc": "US-CA",
+        "attempts": 40,
+        "activations": 35,
+        "qsos": 743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.335,
+          38.905
+        ]
+      },
+      "properties": {
+        "reference": "US-3465",
+        "name": "Mailliard Redwoods Reserve State Conservation Area",
+        "latitude": 38.905,
+        "longitude": -123.335,
+        "grid": "CM88hv",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 8,
+        "qsos": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.898,
+          39.371
+        ]
+      },
+      "properties": {
+        "reference": "US-3466",
+        "name": "Malakoff Diggins State Historical Park",
+        "latitude": 39.371,
+        "longitude": -120.898,
+        "grid": "CM99ni",
+        "locationDesc": "US-CA",
+        "attempts": 10,
+        "activations": 9,
+        "qsos": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.249,
+          34.2
+        ]
+      },
+      "properties": {
+        "reference": "US-3467",
+        "name": "Mandalay State Beach",
+        "latitude": 34.2,
+        "longitude": -119.249,
+        "grid": "DM04je",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 18,
+        "qsos": 479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.679,
+          34.0333
+        ]
+      },
+      "properties": {
+        "reference": "US-3468",
+        "name": "Malibu Lagoon State Beach",
+        "latitude": 34.0333,
+        "longitude": -118.679,
+        "grid": "DM04pa",
+        "locationDesc": "US-CA",
+        "attempts": 31,
+        "activations": 29,
+        "qsos": 510
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.856,
+          36.9208
+        ]
+      },
+      "properties": {
+        "reference": "US-3469",
+        "name": "Manresa State Beach",
+        "latitude": 36.9208,
+        "longitude": -121.856,
+        "grid": "CM96bw",
+        "locationDesc": "US-CA",
+        "attempts": 43,
+        "activations": 37,
+        "qsos": 1226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.878,
+          38.1445
+        ]
+      },
+      "properties": {
+        "reference": "US-3470",
+        "name": "Marconi Conference Center State Historical Park",
+        "latitude": 38.1445,
+        "longitude": -122.878,
+        "grid": "CM88nd",
+        "locationDesc": "US-CA",
+        "attempts": 24,
+        "activations": 19,
+        "qsos": 337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.813,
+          36.6839
+        ]
+      },
+      "properties": {
+        "reference": "US-3471",
+        "name": "Marina State Beach",
+        "latitude": 36.6839,
+        "longitude": -121.813,
+        "grid": "CM96cq",
+        "locationDesc": "US-CA",
+        "attempts": 36,
+        "activations": 36,
+        "qsos": 1389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.894,
+          38.8
+        ]
+      },
+      "properties": {
+        "reference": "US-3472",
+        "name": "Marshall Gold Discovery State Historical Park",
+        "latitude": 38.8,
+        "longitude": -120.894,
+        "grid": "CM98nt",
+        "locationDesc": "US-CA",
+        "attempts": 68,
+        "activations": 59,
+        "qsos": 4021
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.834,
+          37.2636
+        ]
+      },
+      "properties": {
+        "reference": "US-3473",
+        "name": "Martial Cottle Park State Recreation Area",
+        "latitude": 37.2636,
+        "longitude": -121.834,
+        "grid": "CM97bg",
+        "locationDesc": "US-CA",
+        "attempts": 815,
+        "activations": 780,
+        "qsos": 56052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.036,
+          37.9453
+        ]
+      },
+      "properties": {
+        "reference": "US-3474",
+        "name": "Mono Lake Tufa Reserve State Conservation Area",
+        "latitude": 37.9453,
+        "longitude": -119.036,
+        "grid": "DM07lw",
+        "locationDesc": "US-CA",
+        "attempts": 44,
+        "activations": 40,
+        "qsos": 934
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.514,
+          37.5455
+        ]
+      },
+      "properties": {
+        "reference": "US-3475",
+        "name": "Montara Beach and McNee Ranch State Beach",
+        "latitude": 37.5455,
+        "longitude": -122.514,
+        "grid": "CM87rn",
+        "locationDesc": "US-CA",
+        "attempts": 39,
+        "activations": 35,
+        "qsos": 866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.894,
+          36.6024
+        ]
+      },
+      "properties": {
+        "reference": "US-3476",
+        "name": "Monterey State Historical Park",
+        "latitude": 36.6024,
+        "longitude": -121.894,
+        "grid": "CM96bo",
+        "locationDesc": "US-CA",
+        "attempts": 16,
+        "activations": 11,
+        "qsos": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.882,
+          36.6001
+        ]
+      },
+      "properties": {
+        "reference": "US-3477",
+        "name": "Monterey State Beach",
+        "latitude": 36.6001,
+        "longitude": -121.882,
+        "grid": "CM96bo",
+        "locationDesc": "US-CA",
+        "attempts": 31,
+        "activations": 29,
+        "qsos": 1225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.383,
+          39.2333
+        ]
+      },
+      "properties": {
+        "reference": "US-3478",
+        "name": "Montgomery Woods Reserve State Conservation Area",
+        "latitude": 39.2333,
+        "longitude": -123.383,
+        "grid": "CM89hf",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 4,
+        "qsos": 131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.298,
+          33.0475
+        ]
+      },
+      "properties": {
+        "reference": "US-3479",
+        "name": "Moonlight State Beach",
+        "latitude": 33.0475,
+        "longitude": -117.298,
+        "grid": "DM13ib",
+        "locationDesc": "US-CA",
+        "attempts": 84,
+        "activations": 75,
+        "qsos": 1457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.866,
+          35.3951
+        ]
+      },
+      "properties": {
+        "reference": "US-3480",
+        "name": "Morro Strand State Beach",
+        "latitude": 35.3951,
+        "longitude": -120.866,
+        "grid": "CM95nj",
+        "locationDesc": "US-CA",
+        "attempts": 153,
+        "activations": 137,
+        "qsos": 6674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.791,
+          36.8136
+        ]
+      },
+      "properties": {
+        "reference": "US-3481",
+        "name": "Moss Landing State Beach",
+        "latitude": 36.8136,
+        "longitude": -121.791,
+        "grid": "CM96ct",
+        "locationDesc": "US-CA",
+        "attempts": 31,
+        "activations": 28,
+        "qsos": 1031
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.058,
+          36.9525
+        ]
+      },
+      "properties": {
+        "reference": "US-3482",
+        "name": "Natural Bridges State Beach",
+        "latitude": 36.9525,
+        "longitude": -122.058,
+        "grid": "CM86xw",
+        "locationDesc": "US-CA",
+        "attempts": 38,
+        "activations": 33,
+        "qsos": 971
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.926,
+          36.9806
+        ]
+      },
+      "properties": {
+        "reference": "US-3522",
+        "name": "New Brighton State Beach",
+        "latitude": 36.9806,
+        "longitude": -121.926,
+        "grid": "CM96ax",
+        "locationDesc": "US-CA",
+        "attempts": 74,
+        "activations": 65,
+        "qsos": 2079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.631,
+          35.1055
+        ]
+      },
+      "properties": {
+        "reference": "US-3523",
+        "name": "Oceano Dunes State Recreation Area",
+        "latitude": 35.1055,
+        "longitude": -120.631,
+        "grid": "CM95qc",
+        "locationDesc": "US-CA",
+        "attempts": 46,
+        "activations": 41,
+        "qsos": 1802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.168,
+          33.1546
+        ]
+      },
+      "properties": {
+        "reference": "US-3524",
+        "name": "Ocotillo Wells State Vehicle Recreational Area",
+        "latitude": 33.1546,
+        "longitude": -116.168,
+        "grid": "DM13vd",
+        "locationDesc": "US-CA",
+        "attempts": 42,
+        "activations": 40,
+        "qsos": 1165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.503,
+          38.5828
+        ]
+      },
+      "properties": {
+        "reference": "US-3525",
+        "name": "Old Sacramento State Historical Park",
+        "latitude": 38.5828,
+        "longitude": -121.503,
+        "grid": "CM98fn",
+        "locationDesc": "US-CA",
+        "attempts": 35,
+        "activations": 30,
+        "qsos": 817
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.197,
+          32.7547
+        ]
+      },
+      "properties": {
+        "reference": "US-3526",
+        "name": "Old Town San Diego State Historical Park",
+        "latitude": 32.7547,
+        "longitude": -117.197,
+        "grid": "DM12js",
+        "locationDesc": "US-CA",
+        "attempts": 85,
+        "activations": 72,
+        "qsos": 1296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.57,
+          38.1525
+        ]
+      },
+      "properties": {
+        "reference": "US-3527",
+        "name": "Olompali State Historical Park",
+        "latitude": 38.1525,
+        "longitude": -122.57,
+        "grid": "CM88rd",
+        "locationDesc": "US-CA",
+        "attempts": 62,
+        "activations": 58,
+        "qsos": 1023
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.499,
+          37.6011
+        ]
+      },
+      "properties": {
+        "reference": "US-3528",
+        "name": "Pacifica State Beach",
+        "latitude": 37.6011,
+        "longitude": -122.499,
+        "grid": "CM87so",
+        "locationDesc": "US-CA",
+        "attempts": 34,
+        "activations": 32,
+        "qsos": 786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.209,
+          41.9926
+        ]
+      },
+      "properties": {
+        "reference": "US-3529",
+        "name": "Pelican State Beach",
+        "latitude": 41.9926,
+        "longitude": -124.209,
+        "grid": "CN71vx",
+        "locationDesc": "US-CA",
+        "attempts": 10,
+        "activations": 9,
+        "qsos": 177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.413,
+          37.2619
+        ]
+      },
+      "properties": {
+        "reference": "US-3530",
+        "name": "Pescadero State Beach",
+        "latitude": 37.2619,
+        "longitude": -122.413,
+        "grid": "CM87tg",
+        "locationDesc": "US-CA",
+        "attempts": 40,
+        "activations": 38,
+        "qsos": 779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.585,
+          38.2555
+        ]
+      },
+      "properties": {
+        "reference": "US-3531",
+        "name": "Petaluma Adobe State Historical Park",
+        "latitude": 38.2555,
+        "longitude": -122.585,
+        "grid": "CM88qg",
+        "locationDesc": "US-CA",
+        "attempts": 100,
+        "activations": 84,
+        "qsos": 4190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.609,
+          33.0251
+        ]
+      },
+      "properties": {
+        "reference": "US-3532",
+        "name": "Picacho State Recreation Area",
+        "latitude": 33.0251,
+        "longitude": -114.609,
+        "grid": "DM23qa",
+        "locationDesc": "US-CA",
+        "attempts": 23,
+        "activations": 23,
+        "qsos": 1038
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.394,
+          37.1818
+        ]
+      },
+      "properties": {
+        "reference": "US-3533",
+        "name": "Pigeon Point Light Station State Historical Park",
+        "latitude": 37.1818,
+        "longitude": -122.394,
+        "grid": "CM87te",
+        "locationDesc": "US-CA",
+        "attempts": 41,
+        "activations": 36,
+        "qsos": 1004
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.071,
+          33.9936
+        ]
+      },
+      "properties": {
+        "reference": "US-3534",
+        "name": "Pio Pico State Historical Park",
+        "latitude": 33.9936,
+        "longitude": -118.071,
+        "grid": "DM03xx",
+        "locationDesc": "US-CA",
+        "attempts": 87,
+        "activations": 52,
+        "qsos": 1266
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.631,
+          35.1103
+        ]
+      },
+      "properties": {
+        "reference": "US-3535",
+        "name": "Pismo State Beach",
+        "latitude": 35.1103,
+        "longitude": -120.631,
+        "grid": "CM95qc",
+        "locationDesc": "US-CA",
+        "attempts": 68,
+        "activations": 60,
+        "qsos": 3528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.826,
+          39.3486
+        ]
+      },
+      "properties": {
+        "reference": "US-3536",
+        "name": "Point Cabrillo Lighthouse State Historical Park",
+        "latitude": 39.3486,
+        "longitude": -123.826,
+        "grid": "CM89ci",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 14,
+        "qsos": 353
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.806,
+          34.0
+        ]
+      },
+      "properties": {
+        "reference": "US-3537",
+        "name": "Point Dume State Beach",
+        "latitude": 34,
+        "longitude": -118.806,
+        "grid": "DM04oa",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 21,
+        "qsos": 454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.921,
+          36.514
+        ]
+      },
+      "properties": {
+        "reference": "US-3538",
+        "name": "Point Lobos Ranch State Park",
+        "latitude": 36.514,
+        "longitude": -121.921,
+        "grid": "CM96am",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 1,
+        "qsos": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.946,
+          36.517
+        ]
+      },
+      "properties": {
+        "reference": "US-3539",
+        "name": "Point Lobos Reserve State Conservation Area",
+        "latitude": 36.517,
+        "longitude": -121.946,
+        "grid": "CM96am",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 22,
+        "qsos": 611
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.648,
+          34.901
+        ]
+      },
+      "properties": {
+        "reference": "US-3541",
+        "name": "Point Sal State Beach",
+        "latitude": 34.901,
+        "longitude": -120.648,
+        "grid": "CM94qv",
+        "locationDesc": "US-CA",
+        "attempts": 2,
+        "activations": 2,
+        "qsos": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.901,
+          36.306
+        ]
+      },
+      "properties": {
+        "reference": "US-3542",
+        "name": "Point Sur State Historical Park",
+        "latitude": 36.306,
+        "longitude": -121.901,
+        "grid": "CM96bh",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 3,
+        "qsos": 137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.408,
+          37.291
+        ]
+      },
+      "properties": {
+        "reference": "US-3543",
+        "name": "Pomponio State Beach",
+        "latitude": 37.291,
+        "longitude": -122.408,
+        "grid": "CM87tg",
+        "locationDesc": "US-CA",
+        "attempts": 33,
+        "activations": 32,
+        "qsos": 1107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.151,
+          38.5963
+        ]
+      },
+      "properties": {
+        "reference": "US-3544",
+        "name": "Prairie City State Vehicle Recreational Area",
+        "latitude": 38.5963,
+        "longitude": -121.151,
+        "grid": "CM98ko",
+        "locationDesc": "US-CA",
+        "attempts": 92,
+        "activations": 87,
+        "qsos": 3448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.417,
+          37.95
+        ]
+      },
+      "properties": {
+        "reference": "US-3545",
+        "name": "Railtown 1897 State Historical Park",
+        "latitude": 37.95,
+        "longitude": -120.417,
+        "grid": "CM97sw",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.073,
+          34.462
+        ]
+      },
+      "properties": {
+        "reference": "US-3546",
+        "name": "Refugio State Beach",
+        "latitude": 34.462,
+        "longitude": -120.073,
+        "grid": "CM94xl",
+        "locationDesc": "US-CA",
+        "attempts": 42,
+        "activations": 34,
+        "qsos": 1137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.779,
+          39.943
+        ]
+      },
+      "properties": {
+        "reference": "US-3547",
+        "name": "Reynolds Wayside Campground Park",
+        "latitude": 39.943,
+        "longitude": -123.779,
+        "grid": "CM89cw",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.236,
+          34.098
+        ]
+      },
+      "properties": {
+        "reference": "US-3548",
+        "name": "Rio de Los Angeles State Park",
+        "latitude": 34.098,
+        "longitude": -118.236,
+        "grid": "DM04vc",
+        "locationDesc": "US-CA",
+        "attempts": 117,
+        "activations": 97,
+        "qsos": 1919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.875,
+          34.0386
+        ]
+      },
+      "properties": {
+        "reference": "US-3549",
+        "name": "Robert H. Meyer Memorial State Beach",
+        "latitude": 34.0386,
+        "longitude": -118.875,
+        "grid": "DM04na",
+        "locationDesc": "US-CA",
+        "attempts": 43,
+        "activations": 37,
+        "qsos": 982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274,
+          37.765
+        ]
+      },
+      "properties": {
+        "reference": "US-3550",
+        "name": "Robert W. Crown Memorial State Beach",
+        "latitude": 37.765,
+        "longitude": -122.274,
+        "grid": "CM87us",
+        "locationDesc": "US-CA",
+        "attempts": 107,
+        "activations": 94,
+        "qsos": 1709
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.795,
+          36.783
+        ]
+      },
+      "properties": {
+        "reference": "US-3551",
+        "name": "Salinas River State Beach",
+        "latitude": 36.783,
+        "longitude": -121.795,
+        "grid": "CM96cs",
+        "locationDesc": "US-CA",
+        "attempts": 41,
+        "activations": 38,
+        "qsos": 1225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.888,
+          33.474
+        ]
+      },
+      "properties": {
+        "reference": "US-3552",
+        "name": "Salton Sea State Recreation Area",
+        "latitude": 33.474,
+        "longitude": -115.888,
+        "grid": "DM23bl",
+        "locationDesc": "US-CA",
+        "attempts": 71,
+        "activations": 64,
+        "qsos": 2506
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.278,
+          34.267
+        ]
+      },
+      "properties": {
+        "reference": "US-3553",
+        "name": "San Buenaventura State Beach",
+        "latitude": 34.267,
+        "longitude": -119.278,
+        "grid": "DM04ig",
+        "locationDesc": "US-CA",
+        "attempts": 193,
+        "activations": 148,
+        "qsos": 4238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.604,
+          33.403
+        ]
+      },
+      "properties": {
+        "reference": "US-3554",
+        "name": "San Clemente State Beach",
+        "latitude": 33.403,
+        "longitude": -117.604,
+        "grid": "DM13ej",
+        "locationDesc": "US-CA",
+        "attempts": 170,
+        "activations": 157,
+        "qsos": 4959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.284,
+          33.0218
+        ]
+      },
+      "properties": {
+        "reference": "US-3555",
+        "name": "San Elijo State Beach",
+        "latitude": 33.0218,
+        "longitude": -117.284,
+        "grid": "DM13ia",
+        "locationDesc": "US-CA",
+        "attempts": 52,
+        "activations": 48,
+        "qsos": 1141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.401,
+          37.323
+        ]
+      },
+      "properties": {
+        "reference": "US-3556",
+        "name": "San Gregorio State Beach",
+        "latitude": 37.323,
+        "longitude": -122.401,
+        "grid": "CM87th",
+        "locationDesc": "US-CA",
+        "attempts": 48,
+        "activations": 41,
+        "qsos": 1123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.534,
+          36.8455
+        ]
+      },
+      "properties": {
+        "reference": "US-3557",
+        "name": "San Juan Bautista State Historical Park",
+        "latitude": 36.8455,
+        "longitude": -121.534,
+        "grid": "CM96fu",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 27,
+        "qsos": 642
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.081,
+          37.0679
+        ]
+      },
+      "properties": {
+        "reference": "US-3558",
+        "name": "San Luis Reservoir State Recreation Area",
+        "latitude": 37.0679,
+        "longitude": -121.081,
+        "grid": "CM97lb",
+        "locationDesc": "US-CA",
+        "attempts": 88,
+        "activations": 81,
+        "qsos": 6864
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.572,
+          33.379
+        ]
+      },
+      "properties": {
+        "reference": "US-3559",
+        "name": "San Onofre State Beach",
+        "latitude": 33.379,
+        "longitude": -117.572,
+        "grid": "DM13fj",
+        "locationDesc": "US-CA",
+        "attempts": 178,
+        "activations": 174,
+        "qsos": 4919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.112,
+          33.9782
+        ]
+      },
+      "properties": {
+        "reference": "US-3561",
+        "name": "San Timoteo Canyon State Park",
+        "latitude": 33.9782,
+        "longitude": -117.112,
+        "grid": "DM13kx",
+        "locationDesc": "US-CA",
+        "attempts": 19,
+        "activations": 18,
+        "qsos": 465
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.028,
+          36.9776
+        ]
+      },
+      "properties": {
+        "reference": "US-3562",
+        "name": "Santa Cruz Mission State Historical Park",
+        "latitude": 36.9776,
+        "longitude": -122.028,
+        "grid": "CM86xx",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 10,
+        "qsos": 238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.501,
+          34.015
+        ]
+      },
+      "properties": {
+        "reference": "US-3563",
+        "name": "Santa Monica State Beach",
+        "latitude": 34.015,
+        "longitude": -118.501,
+        "grid": "DM04ra",
+        "locationDesc": "US-CA",
+        "attempts": 111,
+        "activations": 99,
+        "qsos": 3836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.62,
+          34.2566
+        ]
+      },
+      "properties": {
+        "reference": "US-3564",
+        "name": "Santa Susana Pass State Historical Park",
+        "latitude": 34.2566,
+        "longitude": -118.62,
+        "grid": "DM04qg",
+        "locationDesc": "US-CA",
+        "attempts": 59,
+        "activations": 48,
+        "qsos": 1201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.655,
+          38.868
+        ]
+      },
+      "properties": {
+        "reference": "US-3565",
+        "name": "Schooner Gulch State Beach",
+        "latitude": 38.868,
+        "longitude": -123.655,
+        "grid": "CM88eu",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 8,
+        "qsos": 149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.913,
+          36.972
+        ]
+      },
+      "properties": {
+        "reference": "US-3566",
+        "name": "Seacliff State Beach",
+        "latitude": 36.972,
+        "longitude": -121.913,
+        "grid": "CM96bx",
+        "locationDesc": "US-CA",
+        "attempts": 58,
+        "activations": 49,
+        "qsos": 1436
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.492,
+          40.5993
+        ]
+      },
+      "properties": {
+        "reference": "US-3567",
+        "name": "Shasta State Historical Park",
+        "latitude": 40.5993,
+        "longitude": -122.492,
+        "grid": "CN80so",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 28,
+        "qsos": 660
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.147,
+          32.6466
+        ]
+      },
+      "properties": {
+        "reference": "US-3568",
+        "name": "Silver Strand State Beach",
+        "latitude": 32.6466,
+        "longitude": -117.147,
+        "grid": "DM12kp",
+        "locationDesc": "US-CA",
+        "attempts": 312,
+        "activations": 296,
+        "qsos": 9490
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.348,
+          34.2874
+        ]
+      },
+      "properties": {
+        "reference": "US-3569",
+        "name": "Silverwood Lake State Recreation Area",
+        "latitude": 34.2874,
+        "longitude": -117.348,
+        "grid": "DM14hg",
+        "locationDesc": "US-CA",
+        "attempts": 90,
+        "activations": 84,
+        "qsos": 2697
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.463,
+          38.296
+        ]
+      },
+      "properties": {
+        "reference": "US-3570",
+        "name": "Sonoma State Historical Park",
+        "latitude": 38.296,
+        "longitude": -122.463,
+        "grid": "CM88sh",
+        "locationDesc": "US-CA",
+        "attempts": 106,
+        "activations": 89,
+        "qsos": 3692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.733,
+          39.8792
+        ]
+      },
+      "properties": {
+        "reference": "US-3571",
+        "name": "Standish-Hickey State Recreation Area",
+        "latitude": 39.8792,
+        "longitude": -123.733,
+        "grid": "CM89dv",
+        "locationDesc": "US-CA",
+        "attempts": 7,
+        "activations": 6,
+        "qsos": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.471,
+          38.5728
+        ]
+      },
+      "properties": {
+        "reference": "US-3572",
+        "name": "State Indian Museum State Park",
+        "latitude": 38.5728,
+        "longitude": -121.471,
+        "grid": "CM98gn",
+        "locationDesc": "US-CA",
+        "attempts": 14,
+        "activations": 11,
+        "qsos": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.832,
+          36.886
+        ]
+      },
+      "properties": {
+        "reference": "US-3574",
+        "name": "Sunset State Beach",
+        "latitude": 36.886,
+        "longitude": -121.832,
+        "grid": "CM96cv",
+        "locationDesc": "US-CA",
+        "attempts": 68,
+        "activations": 55,
+        "qsos": 1706
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.471,
+          38.572
+        ]
+      },
+      "properties": {
+        "reference": "US-3575",
+        "name": "Sutter's Fort State Historical Park",
+        "latitude": 38.572,
+        "longitude": -121.471,
+        "grid": "CM98gn",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 18,
+        "qsos": 338
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.136,
+          39.1753
+        ]
+      },
+      "properties": {
+        "reference": "US-3576",
+        "name": "Tahoe State Recreation Area",
+        "latitude": 39.1753,
+        "longitude": -120.136,
+        "grid": "CM99we",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 19,
+        "qsos": 421
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.497,
+          37.6984
+        ]
+      },
+      "properties": {
+        "reference": "US-3577",
+        "name": "Thornton State Beach",
+        "latitude": 37.6984,
+        "longitude": -122.497,
+        "grid": "CM87sq",
+        "locationDesc": "US-CA",
+        "attempts": 29,
+        "activations": 21,
+        "qsos": 417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.122,
+          32.555
+        ]
+      },
+      "properties": {
+        "reference": "US-3578",
+        "name": "Tijuana Estuary Reserve State Conservation Area",
+        "latitude": 32.555,
+        "longitude": -117.122,
+        "grid": "DM12kn",
+        "locationDesc": "US-CA",
+        "attempts": 32,
+        "activations": 32,
+        "qsos": 779
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335,
+          35.148
+        ]
+      },
+      "properties": {
+        "reference": "US-3579",
+        "name": "Tomo-Kahni State Historical Park",
+        "latitude": 35.148,
+        "longitude": -118.335,
+        "grid": "DM05td",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.26,
+          32.931
+        ]
+      },
+      "properties": {
+        "reference": "US-3580",
+        "name": "Torrey Pines State Beach",
+        "latitude": 32.931,
+        "longitude": -117.26,
+        "grid": "DM12iw",
+        "locationDesc": "US-CA",
+        "attempts": 98,
+        "activations": 90,
+        "qsos": 2400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.253,
+          32.921
+        ]
+      },
+      "properties": {
+        "reference": "US-3581",
+        "name": "Torrey Pines Reserve State Conservation Area",
+        "latitude": 32.921,
+        "longitude": -117.253,
+        "grid": "DM12iw",
+        "locationDesc": "US-CA",
+        "attempts": 195,
+        "activations": 182,
+        "qsos": 4547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.15,
+          41.0589
+        ]
+      },
+      "properties": {
+        "reference": "US-3582",
+        "name": "Trinidad State Beach",
+        "latitude": 41.0589,
+        "longitude": -124.15,
+        "grid": "CN71wb",
+        "locationDesc": "US-CA",
+        "attempts": 16,
+        "activations": 13,
+        "qsos": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.364,
+          35.322
+        ]
+      },
+      "properties": {
+        "reference": "US-3583",
+        "name": "Tule Elk Reserve State Conservation Area",
+        "latitude": 35.322,
+        "longitude": -119.364,
+        "grid": "DM05hh",
+        "locationDesc": "US-CA",
+        "attempts": 121,
+        "activations": 117,
+        "qsos": 3584
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.582,
+          37.627
+        ]
+      },
+      "properties": {
+        "reference": "US-3584",
+        "name": "Turlock Lake State Recreation Area",
+        "latitude": 37.627,
+        "longitude": -120.582,
+        "grid": "CM97rp",
+        "locationDesc": "US-CA",
+        "attempts": 6,
+        "activations": 4,
+        "qsos": 198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.999,
+          36.9622
+        ]
+      },
+      "properties": {
+        "reference": "US-3585",
+        "name": "Twin Lakes State Beach",
+        "latitude": 36.9622,
+        "longitude": -121.999,
+        "grid": "CM96ax",
+        "locationDesc": "US-CA",
+        "attempts": 23,
+        "activations": 18,
+        "qsos": 456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.28,
+          34.22
+        ]
+      },
+      "properties": {
+        "reference": "US-3586",
+        "name": "Verdugo Mountains State Park",
+        "latitude": 34.22,
+        "longitude": -118.28,
+        "grid": "DM04uf",
+        "locationDesc": "US-CA",
+        "attempts": 96,
+        "activations": 81,
+        "qsos": 3275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.163,
+          39.1314
+        ]
+      },
+      "properties": {
+        "reference": "US-3587",
+        "name": "Ward Creek State Park",
+        "latitude": 39.1314,
+        "longitude": -120.163,
+        "grid": "CM99wd",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.721,
+          37.374
+        ]
+      },
+      "properties": {
+        "reference": "US-3588",
+        "name": "Wassama Round House State Historical Park",
+        "latitude": 37.374,
+        "longitude": -119.721,
+        "grid": "DM07di",
+        "locationDesc": "US-CA",
+        "attempts": 16,
+        "activations": 16,
+        "qsos": 819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242,
+          33.9389
+        ]
+      },
+      "properties": {
+        "reference": "US-3589",
+        "name": "Watts Towers of Simon Rodia State Historical Park",
+        "latitude": 33.9389,
+        "longitude": -118.242,
+        "grid": "DM03vw",
+        "locationDesc": "US-CA",
+        "attempts": 56,
+        "activations": 48,
+        "qsos": 1479
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.94,
+          40.7311
+        ]
+      },
+      "properties": {
+        "reference": "US-3590",
+        "name": "Weaverville Joss House State Historical Park",
+        "latitude": 40.7311,
+        "longitude": -122.94,
+        "grid": "CN80mr",
+        "locationDesc": "US-CA",
+        "attempts": 7,
+        "activations": 6,
+        "qsos": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.791,
+          39.677
+        ]
+      },
+      "properties": {
+        "reference": "US-3591",
+        "name": "Westport-Union Landing State Beach",
+        "latitude": 39.677,
+        "longitude": -123.791,
+        "grid": "CM89cq",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 7,
+        "qsos": 244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0,
+          34.0197
+        ]
+      },
+      "properties": {
+        "reference": "US-3593",
+        "name": "Wildwood Canyon State Park",
+        "latitude": 34.0197,
+        "longitude": -117,
+        "grid": "DM14ma",
+        "locationDesc": "US-CA",
+        "attempts": 144,
+        "activations": 135,
+        "qsos": 5076
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.536,
+          34.0356
+        ]
+      },
+      "properties": {
+        "reference": "US-3594",
+        "name": "Will Rogers State Beach",
+        "latitude": 34.0356,
+        "longitude": -118.536,
+        "grid": "DM04ra",
+        "locationDesc": "US-CA",
+        "attempts": 110,
+        "activations": 104,
+        "qsos": 2239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.513,
+          34.0546
+        ]
+      },
+      "properties": {
+        "reference": "US-3595",
+        "name": "Will Rogers State Historical Park",
+        "latitude": 34.0546,
+        "longitude": -118.513,
+        "grid": "DM04rb",
+        "locationDesc": "US-CA",
+        "attempts": 64,
+        "activations": 57,
+        "qsos": 1186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.226,
+          40.1965
+        ]
+      },
+      "properties": {
+        "reference": "US-3596",
+        "name": "William B. Ide Adobe State Historical Park",
+        "latitude": 40.1965,
+        "longitude": -122.226,
+        "grid": "CN80ve",
+        "locationDesc": "US-CA",
+        "attempts": 41,
+        "activations": 40,
+        "qsos": 783
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.772,
+          38.678
+        ]
+      },
+      "properties": {
+        "reference": "US-3597",
+        "name": "Woodland Opera House State Historical Park",
+        "latitude": 38.678,
+        "longitude": -121.772,
+        "grid": "CM98cq",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 18,
+        "qsos": 414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.085,
+          39.9152
+        ]
+      },
+      "properties": {
+        "reference": "US-3598",
+        "name": "Woodson Bridge State Recreation Area",
+        "latitude": 39.9152,
+        "longitude": -122.085,
+        "grid": "CM89wv",
+        "locationDesc": "US-CA",
+        "attempts": 30,
+        "activations": 27,
+        "qsos": 675
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.805,
+          36.8428
+        ]
+      },
+      "properties": {
+        "reference": "US-3599",
+        "name": "Zmudowski State Beach",
+        "latitude": 36.8428,
+        "longitude": -121.805,
+        "grid": "CM96cu",
+        "locationDesc": "US-CA",
+        "attempts": 17,
+        "activations": 14,
+        "qsos": 332
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.01,
+          34.3189
+        ]
+      },
+      "properties": {
+        "reference": "US-4453",
+        "name": "Angeles National Forest",
+        "latitude": 34.3189,
+        "longitude": -118.01,
+        "grid": "DM04xh",
+        "locationDesc": "US-CA",
+        "attempts": 652,
+        "activations": 597,
+        "qsos": 22286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.723,
+          32.8346
+        ]
+      },
+      "properties": {
+        "reference": "US-4454",
+        "name": "Cleveland National Forest",
+        "latitude": 32.8346,
+        "longitude": -116.723,
+        "grid": "DM12pu",
+        "locationDesc": "US-CA",
+        "attempts": 571,
+        "activations": 489,
+        "qsos": 12318
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.447,
+          38.7687
+        ]
+      },
+      "properties": {
+        "reference": "US-4455",
+        "name": "Eldorado National Forest",
+        "latitude": 38.7687,
+        "longitude": -120.447,
+        "grid": "CM98ss",
+        "locationDesc": "US-CA",
+        "attempts": 221,
+        "activations": 203,
+        "qsos": 6045
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.983,
+          37.7534
+        ]
+      },
+      "properties": {
+        "reference": "US-4456",
+        "name": "Inyo National Forest",
+        "latitude": 37.7534,
+        "longitude": -118.983,
+        "grid": "DM07ms",
+        "locationDesc": "US-CA",
+        "attempts": 452,
+        "activations": 400,
+        "qsos": 12414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.039,
+          40.5314
+        ]
+      },
+      "properties": {
+        "reference": "US-4459",
+        "name": "Lassen National Forest",
+        "latitude": 40.5314,
+        "longitude": -121.039,
+        "grid": "CN90lm",
+        "locationDesc": "US-CA",
+        "attempts": 114,
+        "activations": 101,
+        "qsos": 2597
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.812,
+          39.5669
+        ]
+      },
+      "properties": {
+        "reference": "US-4460",
+        "name": "Mendocino National Forest",
+        "latitude": 39.5669,
+        "longitude": -122.812,
+        "grid": "CM89on",
+        "locationDesc": "US-CA",
+        "attempts": 103,
+        "activations": 87,
+        "qsos": 6435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.98,
+          41.4996
+        ]
+      },
+      "properties": {
+        "reference": "US-4461",
+        "name": "Modoc National Forest",
+        "latitude": 41.4996,
+        "longitude": -120.98,
+        "grid": "CN91ml",
+        "locationDesc": "US-CA",
+        "attempts": 52,
+        "activations": 44,
+        "qsos": 5548
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.785,
+          39.8919
+        ]
+      },
+      "properties": {
+        "reference": "US-4462",
+        "name": "Plumas National Forest",
+        "latitude": 39.8919,
+        "longitude": -120.785,
+        "grid": "CM99ov",
+        "locationDesc": "US-CA",
+        "attempts": 252,
+        "activations": 219,
+        "qsos": 7414
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.905,
+          34.2637
+        ]
+      },
+      "properties": {
+        "reference": "US-4463",
+        "name": "San Bernardino National Forest",
+        "latitude": 34.2637,
+        "longitude": -116.905,
+        "grid": "DM14ng",
+        "locationDesc": "US-CA",
+        "attempts": 424,
+        "activations": 372,
+        "qsos": 11999
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.419,
+          35.7595
+        ]
+      },
+      "properties": {
+        "reference": "US-4464",
+        "name": "Sequoia National Forest",
+        "latitude": 35.7595,
+        "longitude": -118.419,
+        "grid": "DM05ss",
+        "locationDesc": "US-CA",
+        "attempts": 89,
+        "activations": 74,
+        "qsos": 1882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.195,
+          41.1386
+        ]
+      },
+      "properties": {
+        "reference": "US-4465",
+        "name": "Shasta-Trinity National Forest",
+        "latitude": 41.1386,
+        "longitude": -122.195,
+        "grid": "CN81vd",
+        "locationDesc": "US-CA",
+        "attempts": 106,
+        "activations": 94,
+        "qsos": 3158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.543,
+          37.3249
+        ]
+      },
+      "properties": {
+        "reference": "US-4466",
+        "name": "Sierra National Forest",
+        "latitude": 37.3249,
+        "longitude": -119.543,
+        "grid": "DM07fh",
+        "locationDesc": "US-CA",
+        "attempts": 124,
+        "activations": 106,
+        "qsos": 3696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.591,
+          40.9574
+        ]
+      },
+      "properties": {
+        "reference": "US-4467",
+        "name": "Six Rivers National Forest",
+        "latitude": 40.9574,
+        "longitude": -123.591,
+        "grid": "CN80ew",
+        "locationDesc": "US-CA",
+        "attempts": 26,
+        "activations": 22,
+        "qsos": 596
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.997,
+          38.2497
+        ]
+      },
+      "properties": {
+        "reference": "US-4468",
+        "name": "Stanislaus National Forest",
+        "latitude": 38.2497,
+        "longitude": -119.997,
+        "grid": "DM08af",
+        "locationDesc": "US-CA",
+        "attempts": 142,
+        "activations": 118,
+        "qsos": 5942
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.57,
+          39.5684
+        ]
+      },
+      "properties": {
+        "reference": "US-4469",
+        "name": "Tahoe National Forest",
+        "latitude": 39.5684,
+        "longitude": -120.57,
+        "grid": "CM99rn",
+        "locationDesc": "US-CA",
+        "attempts": 574,
+        "activations": 520,
+        "qsos": 19737
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.521,
+          38.8679
+        ]
+      },
+      "properties": {
+        "reference": "US-4539",
+        "name": "Berryessa Snow Mountain National Monument",
+        "latitude": 38.8679,
+        "longitude": -122.521,
+        "grid": "CM88ru",
+        "locationDesc": "US-CA",
+        "attempts": 41,
+        "activations": 39,
+        "qsos": 1692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.741,
+          38.9548
+        ]
+      },
+      "properties": {
+        "reference": "US-4540",
+        "name": "California Coastal National Monument",
+        "latitude": 38.9548,
+        "longitude": -123.741,
+        "grid": "CM88dw",
+        "locationDesc": "US-CA",
+        "attempts": 31,
+        "activations": 31,
+        "qsos": 788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.863,
+          35.19
+        ]
+      },
+      "properties": {
+        "reference": "US-4541",
+        "name": "Carrizo Plain National Monument",
+        "latitude": 35.19,
+        "longitude": -119.863,
+        "grid": "DM05be",
+        "locationDesc": "US-CA",
+        "attempts": 70,
+        "activations": 67,
+        "qsos": 3919
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.691,
+          36.6265
+        ]
+      },
+      "properties": {
+        "reference": "US-4542",
+        "name": "Fort Ord National Monument",
+        "latitude": 36.6265,
+        "longitude": -121.691,
+        "grid": "CM96dp",
+        "locationDesc": "US-CA",
+        "attempts": 81,
+        "activations": 69,
+        "qsos": 6930
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.771,
+          34.638
+        ]
+      },
+      "properties": {
+        "reference": "US-4543",
+        "name": "Mojave Trails National Monument",
+        "latitude": 34.638,
+        "longitude": -115.771,
+        "grid": "DM24cp",
+        "locationDesc": "US-CA",
+        "attempts": 40,
+        "activations": 40,
+        "qsos": 1255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.633,
+          34.2706
+        ]
+      },
+      "properties": {
+        "reference": "US-4544",
+        "name": "San Gabriel Mountains National Monument",
+        "latitude": 34.2706,
+        "longitude": -117.633,
+        "grid": "DM14eg",
+        "locationDesc": "US-CA",
+        "attempts": 240,
+        "activations": 213,
+        "qsos": 10767
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.57,
+          34.0501
+        ]
+      },
+      "properties": {
+        "reference": "US-4545",
+        "name": "Sand to Snow National Monument",
+        "latitude": 34.0501,
+        "longitude": -116.57,
+        "grid": "DM14rb",
+        "locationDesc": "US-CA",
+        "attempts": 59,
+        "activations": 53,
+        "qsos": 1621
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.409,
+          33.672
+        ]
+      },
+      "properties": {
+        "reference": "US-4546",
+        "name": "Santa Rosa and San Jacinto Mountains National Monument",
+        "latitude": 33.672,
+        "longitude": -116.409,
+        "grid": "DM13tq",
+        "locationDesc": "US-CA",
+        "attempts": 90,
+        "activations": 81,
+        "qsos": 2259
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.701,
+          38.8326
+        ]
+      },
+      "properties": {
+        "reference": "US-4601",
+        "name": "Boggs Mountain Demonstration State Forest",
+        "latitude": 38.8326,
+        "longitude": -122.701,
+        "grid": "CM88pt",
+        "locationDesc": "US-CA",
+        "attempts": 15,
+        "activations": 11,
+        "qsos": 260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.658,
+          39.3595
+        ]
+      },
+      "properties": {
+        "reference": "US-4603",
+        "name": "Jackson Demonstration State Forest",
+        "latitude": 39.3595,
+        "longitude": -123.658,
+        "grid": "CM89ei",
+        "locationDesc": "US-CA",
+        "attempts": 9,
+        "activations": 4,
+        "qsos": 125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.705,
+          40.6392
+        ]
+      },
+      "properties": {
+        "reference": "US-4605",
+        "name": "LaTour Demonstration State Forest",
+        "latitude": 40.6392,
+        "longitude": -121.705,
+        "grid": "CN90dp",
+        "locationDesc": "US-CA",
+        "attempts": 9,
+        "activations": 7,
+        "qsos": 139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.653,
+          38.3925
+        ]
+      },
+      "properties": {
+        "reference": "US-4606",
+        "name": "Mount Zion Demonstration State Forest",
+        "latitude": 38.3925,
+        "longitude": -120.653,
+        "grid": "CM98qj",
+        "locationDesc": "US-CA",
+        "attempts": 27,
+        "activations": 26,
+        "qsos": 711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.713,
+          36.231
+        ]
+      },
+      "properties": {
+        "reference": "US-4607",
+        "name": "Mountain Home Demonstration State Forest",
+        "latitude": 36.231,
+        "longitude": -118.713,
+        "grid": "DM06pf",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 3,
+        "qsos": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.851,
+          37.0819
+        ]
+      },
+      "properties": {
+        "reference": "US-4608",
+        "name": "Soquel Demonstration State Forest",
+        "latitude": 37.0819,
+        "longitude": -121.851,
+        "grid": "CM97bb",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 9,
+        "qsos": 209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.345,
+          33.1468
+        ]
+      },
+      "properties": {
+        "reference": "US-5633",
+        "name": "Carlsbad State Beach",
+        "latitude": 33.1468,
+        "longitude": -117.345,
+        "grid": "DM13hd",
+        "locationDesc": "US-CA",
+        "attempts": 321,
+        "activations": 308,
+        "qsos": 7957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.319,
+          33.1014
+        ]
+      },
+      "properties": {
+        "reference": "US-5634",
+        "name": "South Carlsbad State Beach",
+        "latitude": 33.1014,
+        "longitude": -117.319,
+        "grid": "DM13ic",
+        "locationDesc": "US-CA",
+        "attempts": 224,
+        "activations": 195,
+        "qsos": 5526
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.697,
+          38.1101
+        ]
+      },
+      "properties": {
+        "reference": "US-6446",
+        "name": "Brannan Island State Recreation Area",
+        "latitude": 38.1101,
+        "longitude": -121.697,
+        "grid": "CM98dc",
+        "locationDesc": "US-CA",
+        "attempts": 147,
+        "activations": 132,
+        "qsos": 4600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.876,
+          33.594
+        ]
+      },
+      "properties": {
+        "reference": "US-6447",
+        "name": "Corona del Mar State Beach",
+        "latitude": 33.594,
+        "longitude": -117.876,
+        "grid": "DM13bo",
+        "locationDesc": "US-CA",
+        "attempts": 42,
+        "activations": 40,
+        "qsos": 951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.187,
+          35.6438
+        ]
+      },
+      "properties": {
+        "reference": "US-6448",
+        "name": "William Randolph Hearst Memorial State Beach",
+        "latitude": 35.6438,
+        "longitude": -121.187,
+        "grid": "CM95jp",
+        "locationDesc": "US-CA",
+        "attempts": 82,
+        "activations": 80,
+        "qsos": 2724
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.108,
+          41.0153
+        ]
+      },
+      "properties": {
+        "reference": "US-6449",
+        "name": "Little River State Beach",
+        "latitude": 41.0153,
+        "longitude": -124.108,
+        "grid": "CN71wa",
+        "locationDesc": "US-CA",
+        "attempts": 17,
+        "activations": 14,
+        "qsos": 383
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.513,
+          37.5639
+        ]
+      },
+      "properties": {
+        "reference": "US-6450",
+        "name": "Gray Whale Cove State Beach",
+        "latitude": 37.5639,
+        "longitude": -122.513,
+        "grid": "CM87rn",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 12,
+        "qsos": 275
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.816,
+          39.3598
+        ]
+      },
+      "properties": {
+        "reference": "US-6451",
+        "name": "Casper Headlands State Beach",
+        "latitude": 39.3598,
+        "longitude": -123.816,
+        "grid": "CM89ci",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 7,
+        "qsos": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.928,
+          36.5388
+        ]
+      },
+      "properties": {
+        "reference": "US-6452",
+        "name": "Carmel River State Beach",
+        "latitude": 36.5388,
+        "longitude": -121.928,
+        "grid": "CM96am",
+        "locationDesc": "US-CA",
+        "attempts": 26,
+        "activations": 20,
+        "qsos": 796
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.258,
+          34.2253
+        ]
+      },
+      "properties": {
+        "reference": "US-6453",
+        "name": "McGrath State Beach",
+        "latitude": 34.2253,
+        "longitude": -119.258,
+        "grid": "DM04if",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 12,
+        "qsos": 403
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.025,
+          34.4597
+        ]
+      },
+      "properties": {
+        "reference": "US-6454",
+        "name": "El Capitan State Beach",
+        "latitude": 34.4597,
+        "longitude": -120.025,
+        "grid": "CM94xl",
+        "locationDesc": "US-CA",
+        "attempts": 35,
+        "activations": 32,
+        "qsos": 880
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.426,
+          37.4222
+        ]
+      },
+      "properties": {
+        "reference": "US-7375",
+        "name": "Cowell Ranch State Beach",
+        "latitude": 37.4222,
+        "longitude": -122.426,
+        "grid": "CM87sk",
+        "locationDesc": "US-CA",
+        "attempts": 25,
+        "activations": 22,
+        "qsos": 956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.403,
+          37.4449
+        ]
+      },
+      "properties": {
+        "reference": "US-7376",
+        "name": "Burleigh H. Murray Ranch State Park",
+        "latitude": 37.4449,
+        "longitude": -122.403,
+        "grid": "CM87tk",
+        "locationDesc": "US-CA",
+        "attempts": 23,
+        "activations": 18,
+        "qsos": 441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.061,
+          33.7114
+        ]
+      },
+      "properties": {
+        "reference": "US-7377",
+        "name": "Bolsa Chica Ecological Reserve",
+        "latitude": 33.7114,
+        "longitude": -118.061,
+        "grid": "DM03xr",
+        "locationDesc": "US-CA",
+        "attempts": 503,
+        "activations": 492,
+        "qsos": 20752
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.885,
+          33.6307
+        ]
+      },
+      "properties": {
+        "reference": "US-7378",
+        "name": "Upper Newport Bay Ecological Reserve",
+        "latitude": 33.6307,
+        "longitude": -117.885,
+        "grid": "DM13bp",
+        "locationDesc": "US-CA",
+        "attempts": 168,
+        "activations": 157,
+        "qsos": 5088
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.976,
+          40.0568
+        ]
+      },
+      "properties": {
+        "reference": "US-7379",
+        "name": "King Range National Conservation Area",
+        "latitude": 40.0568,
+        "longitude": -123.976,
+        "grid": "CN80ab",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 11,
+        "qsos": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.28,
+          33.0139
+        ]
+      },
+      "properties": {
+        "reference": "US-7380",
+        "name": "Cardiff State Beach",
+        "latitude": 33.0139,
+        "longitude": -117.28,
+        "grid": "DM13ia",
+        "locationDesc": "US-CA",
+        "attempts": 65,
+        "activations": 62,
+        "qsos": 1569
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.524,
+          34.3931
+        ]
+      },
+      "properties": {
+        "reference": "US-7474",
+        "name": "Carpinteria State Beach",
+        "latitude": 34.3931,
+        "longitude": -119.524,
+        "grid": "DM04fj",
+        "locationDesc": "US-CA",
+        "attempts": 76,
+        "activations": 60,
+        "qsos": 1583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.025,
+          41.9019
+        ]
+      },
+      "properties": {
+        "reference": "US-7476",
+        "name": "Butte Valley National Grassland",
+        "latitude": 41.9019,
+        "longitude": -122.025,
+        "grid": "CN81xv",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 10,
+        "qsos": 169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.381,
+          37.7129
+        ]
+      },
+      "properties": {
+        "reference": "US-7493",
+        "name": "Candlestick Point State Recreation Area",
+        "latitude": 37.7129,
+        "longitude": -122.381,
+        "grid": "CM87tr",
+        "locationDesc": "US-CA",
+        "attempts": 139,
+        "activations": 119,
+        "qsos": 2757
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.421,
+          37.8268
+        ]
+      },
+      "properties": {
+        "reference": "US-7888",
+        "name": "Alcatraz Island National Historic Site",
+        "latitude": 37.8268,
+        "longitude": -122.421,
+        "grid": "CM87st",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 10,
+        "qsos": 1747
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.457,
+          37.802
+        ]
+      },
+      "properties": {
+        "reference": "US-7889",
+        "name": "Presidio of SF National Historic Site",
+        "latitude": 37.802,
+        "longitude": -122.457,
+        "grid": "CM87st",
+        "locationDesc": "US-CA",
+        "attempts": 358,
+        "activations": 322,
+        "qsos": 6093
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.076,
+          36.6022
+        ]
+      },
+      "properties": {
+        "reference": "US-8300",
+        "name": "Alabama Hills Scenic National Recreation Area",
+        "latitude": 36.6022,
+        "longitude": -118.076,
+        "grid": "DM06xo",
+        "locationDesc": "US-CA",
+        "attempts": 65,
+        "activations": 62,
+        "qsos": 1765
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.693,
+          37.0186
+        ]
+      },
+      "properties": {
+        "reference": "US-8325",
+        "name": "Millerton Lake State Recreation Area",
+        "latitude": 37.0186,
+        "longitude": -119.693,
+        "grid": "DM07da",
+        "locationDesc": "US-CA",
+        "attempts": 171,
+        "activations": 158,
+        "qsos": 5922
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.961,
+          37.3521
+        ]
+      },
+      "properties": {
+        "reference": "US-9355",
+        "name": "George J. Hatfield State Recreation Area",
+        "latitude": 37.3521,
+        "longitude": -120.961,
+        "grid": "CM97mi",
+        "locationDesc": "US-CA",
+        "attempts": 36,
+        "activations": 35,
+        "qsos": 989
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.373,
+          35.6185
+        ]
+      },
+      "properties": {
+        "reference": "US-10400",
+        "name": "Trona Pinnacles National Geologic Trail",
+        "latitude": 35.6185,
+        "longitude": -117.373,
+        "grid": "DM15ho",
+        "locationDesc": "US-CA",
+        "attempts": 46,
+        "activations": 46,
+        "qsos": 2628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.62,
+          37.1823
+        ]
+      },
+      "properties": {
+        "reference": "US-10401",
+        "name": "Merced National Wildlife Area",
+        "latitude": 37.1823,
+        "longitude": -120.62,
+        "grid": "CM97qe",
+        "locationDesc": "US-CA",
+        "attempts": 42,
+        "activations": 41,
+        "qsos": 1946
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.085,
+          39.0988
+        ]
+      },
+      "properties": {
+        "reference": "US-10402",
+        "name": "Cow Mountain BLM Special Recreation Management Area",
+        "latitude": 39.0988,
+        "longitude": -123.085,
+        "grid": "CM89kc",
+        "locationDesc": "US-CA",
+        "attempts": 21,
+        "activations": 19,
+        "qsos": 539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.072,
+          38.7729
+        ]
+      },
+      "properties": {
+        "reference": "US-10403",
+        "name": "Lake Sonoma State Wildlife Area",
+        "latitude": 38.7729,
+        "longitude": -123.072,
+        "grid": "CM88ls",
+        "locationDesc": "US-CA",
+        "attempts": 56,
+        "activations": 54,
+        "qsos": 3615
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.975,
+          38.1553
+        ]
+      },
+      "properties": {
+        "reference": "US-10416",
+        "name": "Grizzly Island State Fish and Wildlife Area",
+        "latitude": 38.1553,
+        "longitude": -121.975,
+        "grid": "CM98ad",
+        "locationDesc": "US-CA",
+        "attempts": 137,
+        "activations": 127,
+        "qsos": 3380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.838,
+          39.3234
+        ]
+      },
+      "properties": {
+        "reference": "US-10417",
+        "name": "Gray Lodge State Fish and Wildlife Area",
+        "latitude": 39.3234,
+        "longitude": -121.838,
+        "grid": "CM99bh",
+        "locationDesc": "US-CA",
+        "attempts": 13,
+        "activations": 13,
+        "qsos": 253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.543,
+          37.6333
+        ]
+      },
+      "properties": {
+        "reference": "US-10633",
+        "name": "Carnegie State Recreation Area",
+        "latitude": 37.6333,
+        "longitude": -121.543,
+        "grid": "CM97fp",
+        "locationDesc": "US-CA",
+        "attempts": 16,
+        "activations": 15,
+        "qsos": 528
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.029,
+          35.3126
+        ]
+      },
+      "properties": {
+        "reference": "US-10635",
+        "name": "Eastern Kern County Onyx Ranch State Recreation Area",
+        "latitude": 35.3126,
+        "longitude": -118.029,
+        "grid": "DM05xh",
+        "locationDesc": "US-CA",
+        "attempts": 52,
+        "activations": 50,
+        "qsos": 1861
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.812,
+          39.374
+        ]
+      },
+      "properties": {
+        "reference": "US-10719",
+        "name": "Jug Handle State Natural Reserve",
+        "latitude": 39.374,
+        "longitude": -123.812,
+        "grid": "CM89ci",
+        "locationDesc": "US-CA",
+        "attempts": 11,
+        "activations": 10,
+        "qsos": 268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.82,
+          34.291
+        ]
+      },
+      "properties": {
+        "reference": "US-10832",
+        "name": "Baldwin Lake Ecological Reserve",
+        "latitude": 34.291,
+        "longitude": -116.82,
+        "grid": "DM14og",
+        "locationDesc": "US-CA",
+        "attempts": 23,
+        "activations": 20,
+        "qsos": 637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.581,
+          35.7603
+        ]
+      },
+      "properties": {
+        "reference": "US-10875",
+        "name": "Kern National Wildlife Refuge",
+        "latitude": 35.7603,
+        "longitude": -119.581,
+        "grid": "DM05fs",
+        "locationDesc": "US-CA",
+        "attempts": 22,
+        "activations": 21,
+        "qsos": 1070
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.522,
+          32.9082
+        ]
+      },
+      "properties": {
+        "reference": "US-11017",
+        "name": "Little Picacho Wilderness Area",
+        "latitude": 32.9082,
+        "longitude": -114.522,
+        "grid": "DM22rv",
+        "locationDesc": "US-CA",
+        "attempts": 19,
+        "activations": 17,
+        "qsos": 551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.542,
+          39.5954
+        ]
+      },
+      "properties": {
+        "reference": "US-11125",
+        "name": "North Table Mountain Ecological Reserve",
+        "latitude": 39.5954,
+        "longitude": -121.542,
+        "grid": "CM99fo",
+        "locationDesc": "US-CA",
+        "attempts": 14,
+        "activations": 13,
+        "qsos": 286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.178,
+          40.3915
+        ]
+      },
+      "properties": {
+        "reference": "US-11143",
+        "name": "Battle Creek Wildlife Management Area",
+        "latitude": 40.3915,
+        "longitude": -122.178,
+        "grid": "CN80vj",
+        "locationDesc": "US-CA",
+        "attempts": 15,
+        "activations": 15,
+        "qsos": 454
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.377,
+          41.8873
+        ]
+      },
+      "properties": {
+        "reference": "US-11237",
+        "name": "Tule Lake National Monument",
+        "latitude": 41.8873,
+        "longitude": -121.377,
+        "grid": "CN91hv",
+        "locationDesc": "US-CA",
+        "attempts": 5,
+        "activations": 5,
+        "qsos": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.033,
+          35.0312
+        ]
+      },
+      "properties": {
+        "reference": "US-11336",
+        "name": "Rainbow Basin Natural Area",
+        "latitude": 35.0312,
+        "longitude": -117.033,
+        "grid": "DM15la",
+        "locationDesc": "US-CA",
+        "attempts": 19,
+        "activations": 19,
+        "qsos": 687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.469,
+          37.8383
+        ]
+      },
+      "properties": {
+        "reference": "US-11580",
+        "name": "Red Hills BLM Recreation Management Area",
+        "latitude": 37.8383,
+        "longitude": -120.469,
+        "grid": "CM97su",
+        "locationDesc": "US-CA",
+        "attempts": 10,
+        "activations": 10,
+        "qsos": 409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.636,
+          38.5632
+        ]
+      },
+      "properties": {
+        "reference": "US-11581",
+        "name": "Yolo Bypass State Wildlife Area",
+        "latitude": 38.5632,
+        "longitude": -121.636,
+        "grid": "CM98en",
+        "locationDesc": "US-CA",
+        "attempts": 111,
+        "activations": 96,
+        "qsos": 3598
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.835,
+          36.562
+        ]
+      },
+      "properties": {
+        "reference": "US-11582",
+        "name": "Griswold Hills BLM Special Recreation Management Area",
+        "latitude": 36.562,
+        "longitude": -120.835,
+        "grid": "CM96nn",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.655,
+          36.6187
+        ]
+      },
+      "properties": {
+        "reference": "US-11583",
+        "name": "Tumey Hills BLM Special Recreation Management Area",
+        "latitude": 36.6187,
+        "longitude": -120.655,
+        "grid": "CM96qo",
+        "locationDesc": "US-CA",
+        "attempts": 8,
+        "activations": 8,
+        "qsos": 184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.812,
+          36.7091
+        ]
+      },
+      "properties": {
+        "reference": "US-11584",
+        "name": "Panoche Hills BLM Special Recreation Management Area",
+        "latitude": 36.7091,
+        "longitude": -120.812,
+        "grid": "CM96or",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 4,
+        "qsos": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.543,
+          34.6225
+        ]
+      },
+      "properties": {
+        "reference": "US-11912",
+        "name": "El Mirage BLM Special Recreation Management Area",
+        "latitude": 34.6225,
+        "longitude": -117.543,
+        "grid": "DM14fo",
+        "locationDesc": "US-CA",
+        "attempts": 18,
+        "activations": 17,
+        "qsos": 886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.999,
+          33.619
+        ]
+      },
+      "properties": {
+        "reference": "US-12114",
+        "name": "Chuckwalla National Monument",
+        "latitude": 33.619,
+        "longitude": -115.999,
+        "grid": "DM23ao",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.615,
+          41.585
+        ]
+      },
+      "properties": {
+        "reference": "US-12115",
+        "name": "Sáttítla Highlands Natural Monument",
+        "latitude": 41.585,
+        "longitude": -121.615,
+        "grid": "CN91eo",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 4,
+        "qsos": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.513,
+          34.9433
+        ]
+      },
+      "properties": {
+        "reference": "US-12141",
+        "name": "Providence Mountains State Recreation Area",
+        "latitude": 34.9433,
+        "longitude": -115.513,
+        "grid": "DM24fw",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 4,
+        "qsos": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.27,
+          33.5433
+        ]
+      },
+      "properties": {
+        "reference": "US-12216",
+        "name": "Santa Rosa Plateau Ecological Reserve",
+        "latitude": 33.5433,
+        "longitude": -117.27,
+        "grid": "DM13in",
+        "locationDesc": "US-CA",
+        "attempts": 21,
+        "activations": 21,
+        "qsos": 539
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.279,
+          33.1669
+        ]
+      },
+      "properties": {
+        "reference": "US-12609",
+        "name": "Carlsbad Highlands Ecological Reserve",
+        "latitude": 33.1669,
+        "longitude": -117.279,
+        "grid": "DM13ie",
+        "locationDesc": "US-CA",
+        "attempts": 2,
+        "activations": 2,
+        "qsos": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.32,
+          33.179
+        ]
+      },
+      "properties": {
+        "reference": "US-12610",
+        "name": "Buena Vista Creek Ecological Reserve",
+        "latitude": 33.179,
+        "longitude": -117.32,
+        "grid": "DM13ie",
+        "locationDesc": "US-CA",
+        "attempts": 2,
+        "activations": 2,
+        "qsos": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.311,
+          33.1444
+        ]
+      },
+      "properties": {
+        "reference": "US-12611",
+        "name": "Agua Hedionda Lagoon Ecological Reserve",
+        "latitude": 33.1444,
+        "longitude": -117.311,
+        "grid": "DM13id",
+        "locationDesc": "US-CA",
+        "attempts": 4,
+        "activations": 3,
+        "qsos": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.024,
+          33.0176
+        ]
+      },
+      "properties": {
+        "reference": "US-12612",
+        "name": "Blue Sky Ecological Reserve",
+        "latitude": 33.0176,
+        "longitude": -117.024,
+        "grid": "DM13la",
+        "locationDesc": "US-CA",
+        "attempts": 12,
+        "activations": 12,
+        "qsos": 424
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.511,
+          37.9392
+        ]
+      },
+      "properties": {
+        "reference": "US-12613",
+        "name": "Corte Madera Marsh Ecological Reserve",
+        "latitude": 37.9392,
+        "longitude": -122.511,
+        "grid": "CM87rw",
+        "locationDesc": "US-CA",
+        "attempts": 10,
+        "activations": 10,
+        "qsos": 636
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.509,
+          38.5326
+        ]
+      },
+      "properties": {
+        "reference": "US-12614",
+        "name": "Slinkard/Little Antelope State Wildlife Area",
+        "latitude": 38.5326,
+        "longitude": -119.509,
+        "grid": "DM08fm",
+        "locationDesc": "US-CA",
+        "attempts": 1,
+        "activations": 1,
+        "qsos": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664,
+          38.6563
+        ]
+      },
+      "properties": {
+        "reference": "US-12615",
+        "name": "Heenan Lake State Wildlife Area",
+        "latitude": 38.6563,
+        "longitude": -119.664,
+        "grid": "DM08ep",
+        "locationDesc": "US-CA",
+        "attempts": 2,
+        "activations": 2,
+        "qsos": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338,
+          39.8121
+        ]
+      },
+      "properties": {
+        "reference": "US-12616",
+        "name": "Black Butte Lake Park",
+        "latitude": 39.8121,
+        "longitude": -122.338,
+        "grid": "CM89tt",
+        "locationDesc": "US-CA",
+        "attempts": 3,
+        "activations": 3,
+        "qsos": 77
+      }
+    }
+  ]
+}
