@@ -3,6 +3,9 @@
 Convert a POTA entities JSON file into a GeoJSON FeatureCollection, with an
 optional state filter.
 
+API endpoint for POTA App: https://api.pota.app/program/parks/{location-code}
+(Example for United States: https://api.pota.app/program/parks/US)
+
 - Input is expected to be a JSON array of entity dicts (e.g., from us-pota.json).
 - Every input entity becomes a GeoJSON Feature.
 - All original key/value pairs are preserved under 'properties'.
